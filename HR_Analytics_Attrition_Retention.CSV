@@ -1,0 +1,1501 @@
+Employee_ID,Department,Job_Level,Location,Gender,Education_Level,Performance_Rating,Monthly_Salary,Hire_Date,Exit_Date,Attrition_Status,Attrition_Type,Tenure_Years,Date_Error_Flag,Tenure_Flag
+1,Engineering,Mid,Nairobi,Female,Master,3,6494,1/5/2014,,0,Active,8.339726027,OK,OK
+2,Customer Support,Mid,Nairobi,Male,Diploma,4,6494,1/6/2014,,0,Active,8.139726027,OK,OK
+3,HR,Junior,Accra,Male,Master,2,6493,1/9/2014,,0,Active,10.26849315,OK,Missing Tenure
+4,Operations,Junior,Lagos,Male,Bachelor,2,6490,1/12/2014,,1,Voluntary,,Date Error,OK
+5,Sales,Mid,Lagos,Male,Diploma,3,6488,1/15/2014,,0,Active,10.62191781,OK,OK
+6,Sales,Mid,Nairobi,Male,PhD,5,6488,1/16/2014,,0,Active,8.539726027,OK,Missing Tenure
+7,Sales,Mid,Johannesburg,Female,Bachelor,3,6483,1/16/2014,,1,Voluntary,,Date Error,OK
+8,Marketing,Mid,Accra,Male,Diploma,3,6480,1/17/2014,,0,Active,2.37260274,OK,OK
+9,Operations,Mid,Nairobi,Female,Bachelor,3,6479,1/23/2014,,0,Active,10.26027397,OK,OK
+10,Finance,Senior,Accra,Female,Bachelor,5,6478,1/23/2014,,0,Active,4.643835616,OK,OK
+11,Sales,Senior,Lagos,Male,Master,4,6475,1/27/2014,,0,Active,9.736986301,OK,OK
+12,Customer Support,Senior,Accra,Male,Master,5,6467,1/28/2014,4/1/2023,1,Voluntary,5.879452055,OK,OK
+13,Marketing,Manager,Accra,Male,PhD,1,6463,1/28/2014,12/11/2022,1,Involuntary,5.334246575,OK,OK
+14,Sales,Junior,Lagos,Female,Bachelor,2,6462,1/31/2014,12/5/2024,1,Voluntary,2.41369863,OK,OK
+15,Sales,Junior,Lagos,Female,Bachelor,3,6446,2/1/2014,1/24/2021,1,Voluntary,6.282191781,OK,OK
+16,Sales,Junior,Accra,Male,Master,4,6445,2/5/2014,,0,Active,2.254794521,OK,OK
+17,Engineering,Mid,Nairobi,Male,Diploma,3,6443,2/9/2014,7/23/2023,1,Involuntary,7.164383562,OK,Missing Tenure
+18,Operations,Manager,Lagos,Female,Bachelor,3,6441,2/12/2014,,1,Voluntary,,Date Error,OK
+19,Engineering,Junior,Accra,Male,Bachelor,4,6429,2/15/2014,,0,Active,1.819178082,OK,OK
+20,Engineering,Manager,Nairobi,Male,Diploma,2,6429,2/18/2014,,0,Active,2.994520548,OK,OK
+21,Finance,Junior,Accra,Female,Bachelor,3,6429,2/21/2014,,0,Active,4.906849315,OK,OK
+22,Sales,Manager,Lagos,Female,Master,3,6428,2/28/2014,,0,Active,7.939726027,OK,OK
+23,Engineering,Junior,Nairobi,Female,Master,3,6426,2/28/2014,,0,Active,7.682191781,OK,Missing Tenure
+24,Engineering,Junior,Accra,Female,Diploma,4,6424,3/3/2014,,1,Voluntary,,Date Error,OK
+25,Engineering,Mid,Accra,Female,Diploma,3,6423,3/6/2014,9/19/2016,1,Involuntary,1.495890411,OK,OK
+26,HR,Junior,Lagos,Male,Bachelor,3,6416,3/7/2014,,0,Active,3.249315068,OK,OK
+27,Sales,Junior,Johannesburg,Female,Master,3,6410,3/9/2014,,0,Active,1.232876712,OK,Missing Tenure
+28,Operations,Junior,Lagos,Female,Diploma,3,6406,3/10/2014,,1,Voluntary,,Date Error,OK
+29,Operations,Senior,Nairobi,Female,Master,3,6405,3/13/2014,,0,Active,4.073972603,OK,OK
+30,Sales,Mid,Lagos,Male,Diploma,3,6392,3/13/2014,,0,Active,3.073972603,OK,OK
+31,Operations,Junior,Accra,Male,Bachelor,2,6391,3/19/2014,5/15/2019,1,Involuntary,3.394520548,OK,OK
+32,Sales,Mid,Lagos,Male,Bachelor,2,6387,3/20/2014,11/30/2024,1,Involuntary,4.994520548,OK,OK
+33,Sales,Senior,Nairobi,Male,Master,3,6387,3/20/2014,3/24/2023,1,Voluntary,2.156164384,OK,OK
+34,Customer Support,Junior,Accra,Male,Bachelor,3,6386,3/23/2014,,0,Active,2.326027397,OK,OK
+35,Customer Support,Mid,Accra,Female,Bachelor,4,6379,3/25/2014,,0,Active,7.306849315,OK,OK
+36,HR,Junior,Accra,Female,Bachelor,4,6377,3/25/2014,6/15/2017,1,Voluntary,2.342465753,OK,OK
+37,Engineering,Junior,Lagos,Male,Master,4,6376,3/26/2014,,0,Active,1.736986301,OK,OK
+38,Sales,Senior,Johannesburg,Female,Master,3,6376,4/2/2014,,0,Active,6.282191781,OK,OK
+39,Finance,Junior,Accra,Male,Diploma,3,6373,4/2/2014,,0,Active,9.109589041,OK,OK
+40,Engineering,Mid,Lagos,Male,Master,3,6364,4/9/2014,,0,Active,2.189041096,OK,OK
+41,Sales,Senior,Accra,Male,Bachelor,2,6355,4/11/2014,,0,Active,1.657534247,OK,OK
+42,Operations,Junior,Johannesburg,Male,Diploma,2,6352,4/15/2014,,0,Active,9.654794521,OK,OK
+43,Sales,Mid,Accra,Male,Bachelor,3,6348,4/15/2014,1/31/2023,1,Involuntary,6.493150685,OK,OK
+44,Marketing,Junior,Lagos,Male,Diploma,5,6345,4/16/2014,,0,Active,10.94794521,OK,OK
+45,Engineering,Manager,Nairobi,Male,Master,2,6344,4/17/2014,11/3/2023,1,Voluntary,6.753424658,OK,OK
+46,Finance,Mid,Nairobi,Female,Master,1,6343,4/19/2014,8/6/2023,1,Involuntary,4.947945205,OK,OK
+47,Engineering,Senior,Lagos,Male,Diploma,4,6337,4/21/2014,,0,Active,1.008219178,OK,OK
+48,Operations,Mid,Accra,Female,Bachelor,3,6337,4/22/2014,,0,Active,9.482191781,OK,OK
+49,Operations,Junior,Lagos,Female,Master,4,6323,4/30/2014,,0,Active,6.580821918,OK,OK
+50,Sales,Mid,Accra,Female,PhD,4,6323,5/2/2014,1/27/2021,1,Voluntary,4.501369863,OK,OK
+51,Customer Support,Manager,Accra,Female,Bachelor,5,6320,5/16/2014,,0,Active,7.597260274,OK,OK
+52,HR,Mid,Lagos,Male,PhD,3,6317,5/22/2014,,0,Active,3.057534247,OK,OK
+53,Customer Support,Senior,Accra,Male,Bachelor,4,6315,5/22/2014,,0,Active,2.553424658,OK,OK
+54,Marketing,Manager,Accra,Female,Bachelor,3,6314,5/23/2014,,0,Active,2.95890411,OK,OK
+55,Operations,Junior,Nairobi,Male,Master,3,6313,6/1/2014,12/23/2022,1,Voluntary,4.443835616,OK,OK
+56,Customer Support,Junior,Johannesburg,Female,Bachelor,3,6310,6/3/2014,,0,Active,10.79726027,OK,OK
+57,Sales,Mid,Lagos,Female,Bachelor,2,6309,6/4/2014,,0,Active,7.323287671,OK,OK
+58,Sales,Mid,Accra,Female,Bachelor,3,6305,6/7/2014,,0,Active,8.8,OK,OK
+59,Sales,Senior,Accra,Female,Master,3,6300,6/16/2014,5/1/2024,1,Voluntary,1.263013699,OK,OK
+60,Engineering,Manager,Johannesburg,Female,Master,4,6299,6/18/2014,,0,Active,8.156164384,OK,OK
+61,Engineering,Junior,Accra,Female,Bachelor,4,6296,6/18/2014,,0,Active,8.906849315,OK,OK
+62,Engineering,Junior,Accra,Male,Bachelor,4,6295,6/21/2014,,0,Active,9.767123288,OK,OK
+63,Marketing,Senior,Lagos,Female,Bachelor,2,6293,6/24/2014,,0,Active,1.380821918,OK,OK
+64,Engineering,Junior,Lagos,Male,Bachelor,4,6292,6/26/2014,8/13/2024,1,Voluntary,2.471232877,OK,OK
+65,Engineering,Senior,Lagos,Male,Bachelor,3,6288,6/27/2014,3/28/2024,1,Voluntary,3.876712329,OK,OK
+66,Operations,Mid,Accra,Female,Master,4,6286,6/29/2014,10/24/2020,1,Voluntary,2.852054795,OK,OK
+67,Sales,Senior,Accra,Male,Bachelor,5,6275,7/4/2014,,0,Active,6.901369863,OK,Missing Tenure
+68,HR,Junior,Johannesburg,Male,Bachelor,2,6274,7/4/2014,,1,Involuntary,,Date Error,OK
+69,Sales,Mid,Accra,Male,Diploma,4,6261,7/8/2014,,0,Active,3.991780822,OK,OK
+70,Customer Support,Mid,Nairobi,Female,Bachelor,1,6253,7/10/2014,12/24/2023,1,Voluntary,4.810958904,OK,OK
+71,HR,Mid,Nairobi,Male,PhD,3,6249,7/11/2014,,0,Active,4.128767123,OK,OK
+72,Sales,Junior,Lagos,Female,Bachelor,3,6246,7/11/2014,,0,Active,3.189041096,OK,OK
+73,Sales,Senior,Accra,Male,Diploma,2,6239,7/12/2014,,0,Active,3.142465753,OK,OK
+74,Marketing,Senior,Accra,Female,Bachelor,4,6234,7/12/2014,,0,Active,10.01643836,OK,OK
+75,Finance,Junior,Lagos,Female,Bachelor,1,6223,7/18/2014,,0,Active,1.545205479,OK,Missing Tenure
+76,Finance,Junior,Johannesburg,Male,Diploma,2,6218,7/21/2014,,1,Voluntary,,Date Error,OK
+77,HR,Junior,Johannesburg,Male,Bachelor,3,6212,7/22/2014,,0,Active,9.57260274,OK,Missing Tenure
+78,Sales,Mid,Accra,Male,Bachelor,4,6199,7/23/2014,,1,Voluntary,,Date Error,OK
+79,Engineering,Mid,Accra,Female,Bachelor,5,6198,7/29/2014,,0,Active,2.090410959,OK,OK
+80,Sales,Mid,Johannesburg,Female,Bachelor,4,6194,8/1/2014,,0,Active,7.673972603,OK,Missing Tenure
+81,Marketing,Junior,Nairobi,Female,Bachelor,4,6193,8/8/2014,,1,Involuntary,,Date Error,OK
+82,Finance,Mid,Johannesburg,Male,PhD,3,6191,8/18/2014,,0,Active,5.246575342,OK,OK
+83,Engineering,Mid,Accra,Female,Bachelor,1,6187,8/22/2014,,0,Active,7.575342466,OK,OK
+84,Sales,Mid,Lagos,Female,Bachelor,2,6186,8/24/2014,11/14/2024,1,Involuntary,3.928767123,OK,OK
+85,Engineering,Manager,Nairobi,Female,Bachelor,3,6184,9/2/2014,,0,Active,2.517808219,OK,OK
+86,Engineering,Junior,Nairobi,Female,Bachelor,4,6183,9/3/2014,,0,Active,5.926027397,OK,OK
+87,Finance,Senior,Lagos,Male,Master,3,6181,9/10/2014,10/27/2016,1,Voluntary,0.846575342,OK,OK
+88,Finance,Mid,Accra,Male,Bachelor,4,6180,9/21/2014,,0,Active,5.575342466,OK,Missing Tenure
+89,Marketing,Mid,Lagos,Female,Master,3,6178,9/24/2014,,1,Voluntary,,Date Error,OK
+90,Operations,Senior,Accra,Female,Diploma,2,6173,9/27/2014,,0,Active,7.04109589,OK,OK
+91,Sales,Senior,Lagos,Female,Bachelor,2,6171,9/28/2014,,0,Active,7.178082192,OK,OK
+92,Finance,Manager,Johannesburg,Male,Master,4,6171,9/29/2014,,0,Active,5.287671233,OK,OK
+93,HR,Junior,Lagos,Male,Bachelor,4,6170,10/1/2014,,0,Active,6.879452055,OK,OK
+94,Operations,Junior,Nairobi,Male,Bachelor,4,6169,10/6/2014,,0,Active,8.260273973,OK,Missing Tenure
+95,HR,Senior,Accra,Male,Bachelor,2,6169,10/8/2014,,1,Voluntary,,Date Error,OK
+96,Operations,Mid,Nairobi,Female,Master,5,6166,10/13/2014,,0,Active,4.191780822,OK,OK
+97,Operations,Junior,Johannesburg,Female,Diploma,3,6165,10/14/2014,,0,Active,8.473972603,OK,OK
+98,Engineering,Junior,Accra,Male,Master,1,6157,10/15/2014,,0,Active,8.665753425,OK,OK
+99,Sales,Junior,Accra,Male,Bachelor,5,6151,10/16/2014,,0,Active,10.78082192,OK,OK
+100,Sales,Manager,Lagos,Male,Master,3,6151,10/20/2014,,0,Active,5.273972603,OK,OK
+101,Sales,Junior,Accra,Male,Bachelor,4,6147,10/21/2014,,0,Active,4.194520548,OK,OK
+102,Finance,Junior,Nairobi,Female,Master,2,6143,10/24/2014,,0,Active,6.783561644,OK,OK
+103,Engineering,Junior,Johannesburg,Female,Bachelor,3,6139,10/27/2014,,0,Active,8.309589041,OK,OK
+104,Operations,Junior,Lagos,Male,PhD,5,6137,10/29/2014,,0,Active,5.890410959,OK,OK
+105,Marketing,Junior,Accra,Female,Diploma,3,6135,11/3/2014,,0,Active,1.394520548,OK,OK
+106,Engineering,Mid,Lagos,Female,Diploma,4,6129,11/8/2014,,0,Active,10.63835616,OK,OK
+107,Engineering,Junior,Nairobi,Female,Bachelor,2,6129,11/13/2014,,0,Active,7.704109589,OK,OK
+108,HR,Senior,Accra,Male,Diploma,3,6129,11/14/2014,,0,Active,6.263013699,OK,Missing Tenure
+109,Engineering,Junior,Lagos,Female,Bachelor,3,6128,12/2/2014,,1,Involuntary,,Date Error,OK
+110,Sales,Mid,Lagos,Male,PhD,3,6121,12/2/2014,1/27/2019,1,Involuntary,2.58630137,OK,OK
+111,Engineering,Manager,Lagos,Male,PhD,3,6120,12/5/2014,,0,Active,3.04109589,OK,OK
+112,Sales,Mid,Accra,Male,Bachelor,2,6113,12/5/2014,,0,Active,3.24109589,OK,OK
+113,Customer Support,Mid,Nairobi,Male,PhD,5,6112,12/11/2014,3/1/2021,1,Voluntary,5.553424658,OK,OK
+114,HR,Junior,Accra,Male,Bachelor,3,6110,12/14/2014,,0,Active,5.663013699,OK,OK
+115,Finance,Junior,Accra,Male,Bachelor,3,6106,12/17/2014,,0,Active,8.391780822,OK,OK
+116,Marketing,Senior,Johannesburg,Male,Master,3,6106,12/17/2014,,0,Active,3.509589041,OK,OK
+117,HR,Manager,Nairobi,Female,Master,3,6105,12/20/2014,10/8/2023,1,Voluntary,2.687671233,OK,OK
+118,Sales,Senior,Accra,Female,PhD,4,6096,12/23/2014,,0,Active,7.876712329,OK,Missing Tenure
+119,Marketing,Mid,Accra,Male,Bachelor,5,6092,12/25/2014,,1,Voluntary,,Date Error,OK
+120,Operations,Senior,Accra,Female,Master,3,6090,12/25/2014,3/7/2023,1,Voluntary,5.536986301,OK,OK
+121,HR,Mid,Accra,Female,Diploma,4,6090,12/26/2014,,0,Active,3.460273973,OK,OK
+122,Marketing,Junior,Accra,Female,Diploma,3,6090,12/29/2014,1/29/2024,1,Voluntary,0.909589041,OK,OK
+123,Engineering,Mid,Accra,Male,Diploma,2,6088,12/30/2014,,0,Active,6.753424658,OK,OK
+124,Sales,Manager,Lagos,Female,PhD,4,6081,1/3/2015,,0,Active,4.591780822,OK,OK
+125,Engineering,Junior,Nairobi,Female,Master,3,6081,1/4/2015,,0,Active,6.060273973,OK,OK
+126,Engineering,Senior,Lagos,Female,Master,4,6080,1/6/2015,,0,Active,5.254794521,OK,OK
+127,Marketing,Junior,Nairobi,Male,Bachelor,4,6079,1/9/2015,,0,Active,8.802739726,OK,OK
+128,Marketing,Mid,Accra,Male,Bachelor,3,6075,1/14/2015,,0,Active,7.021917808,OK,OK
+129,Sales,Junior,Johannesburg,Female,Diploma,5,6075,1/21/2015,,0,Active,10.86849315,OK,OK
+130,Operations,Mid,Nairobi,Male,Bachelor,4,6072,1/24/2015,,0,Active,3.405479452,OK,OK
+131,Engineering,Senior,Nairobi,Male,Bachelor,3,6069,1/31/2015,,0,Active,10.81369863,OK,OK
+132,Engineering,Junior,Nairobi,Male,Master,3,6066,1/31/2015,,0,Active,10.93424658,OK,OK
+133,Sales,Senior,Johannesburg,Female,Bachelor,3,6065,2/3/2015,,0,Active,9.726027397,OK,OK
+134,Engineering,Senior,Lagos,Female,Diploma,5,6064,2/10/2015,,0,Active,8.917808219,OK,OK
+135,Customer Support,Manager,Accra,Male,Diploma,4,6061,2/10/2015,,0,Active,2.97260274,OK,OK
+136,Engineering,Junior,Lagos,Female,Diploma,1,6058,2/11/2015,,0,Active,2.901369863,OK,OK
+137,Operations,Mid,Nairobi,Male,Bachelor,3,6058,3/4/2015,,0,Active,3.901369863,OK,OK
+138,Finance,Junior,Nairobi,Female,PhD,3,6056,3/5/2015,,0,Active,7.106849315,OK,OK
+139,Engineering,Manager,Lagos,Female,Bachelor,2,6051,3/7/2015,,0,Active,4.849315068,OK,OK
+140,Customer Support,Manager,Accra,Female,Master,1,6050,3/11/2015,,0,Active,8.764383562,OK,OK
+141,Customer Support,Mid,Lagos,Female,Bachelor,3,6046,3/12/2015,8/3/2022,1,Voluntary,4.512328767,OK,OK
+142,Engineering,Senior,Johannesburg,Male,Bachelor,3,6045,3/13/2015,3/31/2020,1,Involuntary,1.660273973,OK,OK
+143,Operations,Mid,Lagos,Female,Diploma,3,6039,3/17/2015,,0,Active,9.476712329,OK,OK
+144,Engineering,Mid,Lagos,Male,Master,3,6039,3/18/2015,9/10/2021,1,Voluntary,6.660273973,OK,OK
+145,Engineering,Junior,Accra,Female,Master,2,6033,3/21/2015,,0,Active,5.753424658,OK,OK
+146,Sales,Senior,Lagos,Female,Diploma,4,6027,3/22/2015,,0,Active,2.109589041,OK,OK
+147,Operations,Junior,Johannesburg,Female,Bachelor,3,6025,3/23/2015,1/14/2020,1,Involuntary,3.093150685,OK,OK
+148,Operations,Senior,Nairobi,Male,Bachelor,3,6023,3/25/2015,,0,Active,10.79452055,OK,OK
+149,Sales,Senior,Nairobi,Female,Bachelor,3,6022,3/26/2015,,0,Active,7.150684932,OK,OK
+150,Engineering,Senior,Lagos,Male,PhD,3,6013,3/29/2015,,0,Active,8.726027397,OK,OK
+151,Marketing,Junior,Lagos,Male,Bachelor,2,6010,3/30/2015,,0,Active,1.016438356,OK,OK
+152,Engineering,Junior,Accra,Female,Bachelor,2,6009,4/4/2015,,0,Active,8.183561644,OK,OK
+153,Sales,Junior,Nairobi,Male,Diploma,2,5998,4/7/2015,,0,Active,2.008219178,OK,OK
+154,Operations,Mid,Lagos,Female,Diploma,4,5996,4/7/2015,,0,Active,5.331506849,OK,OK
+155,Customer Support,Junior,Lagos,Male,Bachelor,4,5995,4/9/2015,,0,Active,9.778082192,OK,Missing Tenure
+156,Engineering,Manager,Lagos,Male,Diploma,4,5992,4/10/2015,,1,Voluntary,,Date Error,OK
+157,Finance,Mid,Johannesburg,Female,Master,4,5989,4/14/2015,,0,Active,3.331506849,OK,OK
+158,HR,Junior,Accra,Female,Master,4,5989,4/19/2015,7/26/2022,1,Voluntary,3.112328767,OK,OK
+159,Engineering,Mid,Nairobi,Male,Diploma,3,5982,4/20/2015,,0,Active,1.342465753,OK,Missing Tenure
+160,Finance,Mid,Accra,Female,Master,3,5979,4/21/2015,,1,Involuntary,,Date Error,OK
+161,Engineering,Mid,Lagos,Male,Diploma,1,5967,4/28/2015,3/17/2024,1,Voluntary,4.063013699,OK,OK
+162,Finance,Mid,Accra,Female,Bachelor,3,5966,5/3/2015,,0,Active,2.336986301,OK,OK
+163,Finance,Manager,Accra,Male,Bachelor,4,5962,5/7/2015,,0,Active,6.235616438,OK,OK
+164,Operations,Mid,Lagos,Female,Bachelor,3,5962,5/8/2015,,0,Active,5.610958904,OK,Missing Tenure
+165,Sales,Manager,Accra,Female,Bachelor,3,5956,5/10/2015,,1,Voluntary,,Date Error,OK
+166,Marketing,Senior,Lagos,Female,Bachelor,3,5950,5/13/2015,,0,Active,6.761643836,OK,OK
+167,Engineering,Junior,Johannesburg,Male,Bachelor,3,5949,5/14/2015,,0,Active,9.120547945,OK,OK
+168,Sales,Manager,Accra,Female,PhD,4,5945,5/15/2015,,0,Active,5.556164384,OK,OK
+169,Sales,Junior,Nairobi,Female,Diploma,4,5942,5/15/2015,6/6/2024,1,Voluntary,6.597260274,OK,OK
+170,Operations,Senior,Lagos,Female,Diploma,3,5939,5/19/2015,,0,Active,9.402739726,OK,OK
+171,Finance,Mid,Nairobi,Male,Diploma,4,5937,5/19/2015,,0,Active,5.115068493,OK,OK
+172,Sales,Senior,Accra,Female,Bachelor,3,5930,5/21/2015,,0,Active,5.997260274,OK,OK
+173,Operations,Senior,Accra,Female,Diploma,4,5930,5/23/2015,7/6/2024,1,Voluntary,5.079452055,OK,OK
+174,Engineering,Senior,Accra,Male,Master,3,5929,5/25/2015,,0,Active,9.293150685,OK,OK
+175,Finance,Senior,Accra,Male,Bachelor,3,5925,5/26/2015,,0,Active,5.443835616,OK,OK
+176,Sales,Junior,Accra,Female,Bachelor,3,5924,5/31/2015,,0,Active,2.487671233,OK,OK
+177,Finance,Junior,Nairobi,Male,Bachelor,4,5911,6/9/2015,,0,Active,4.145205479,OK,OK
+178,Engineering,Mid,Johannesburg,Female,Diploma,5,5908,6/10/2015,7/8/2023,1,Voluntary,8.526027397,OK,OK
+179,Customer Support,Junior,Nairobi,Female,Bachelor,2,5908,6/12/2015,,0,Active,5.030136986,OK,OK
+180,Sales,Senior,Nairobi,Female,Bachelor,2,5907,6/15/2015,,0,Active,9.98630137,OK,Missing Tenure
+181,Engineering,Junior,Accra,Male,Bachelor,5,5904,6/15/2015,,1,Voluntary,,Date Error,Missing Tenure
+182,Sales,Manager,Accra,Male,Bachelor,3,5901,6/15/2015,,1,Involuntary,,Date Error,OK
+183,Customer Support,Mid,Accra,Female,Diploma,3,5896,6/16/2015,,0,Active,5.564383562,OK,OK
+184,Marketing,Senior,Accra,Male,PhD,3,5894,6/25/2015,,0,Active,3.156164384,OK,Missing Tenure
+185,Engineering,Junior,Lagos,Female,Diploma,2,5890,6/27/2015,,1,Involuntary,,Date Error,OK
+186,Finance,Senior,Lagos,Male,Master,4,5871,7/1/2015,,0,Active,5.301369863,OK,Missing Tenure
+187,Marketing,Manager,Lagos,Male,Master,4,5865,7/3/2015,,1,Involuntary,,Date Error,Missing Tenure
+188,Operations,Mid,Lagos,Male,Bachelor,3,5864,7/7/2015,,1,Voluntary,,Date Error,OK
+189,Operations,Mid,Nairobi,Female,Diploma,3,5864,7/8/2015,,0,Active,7.216438356,OK,Missing Tenure
+190,Engineering,Senior,Nairobi,Female,Diploma,4,5864,7/9/2015,,1,Involuntary,,Date Error,OK
+191,Sales,Junior,Accra,Male,Master,2,5863,7/12/2015,,0,Active,7.805479452,OK,OK
+192,Marketing,Mid,Johannesburg,Male,Master,4,5860,7/13/2015,,0,Active,5.693150685,OK,OK
+193,Marketing,Mid,Johannesburg,Male,Master,3,5859,7/14/2015,,0,Active,10.00273973,OK,OK
+194,Finance,Junior,Accra,Male,PhD,3,5855,7/16/2015,8/7/2020,1,Voluntary,6.42739726,OK,OK
+195,Engineering,Mid,Lagos,Male,Master,5,5853,7/16/2015,,0,Active,1.969863014,OK,OK
+196,Engineering,Junior,Lagos,Female,Diploma,4,5850,7/19/2015,,0,Active,8.945205479,OK,OK
+197,Finance,Junior,Johannesburg,Male,Bachelor,3,5848,7/19/2015,8/6/2020,1,Voluntary,2.37260274,OK,OK
+198,Marketing,Junior,Johannesburg,Male,Master,4,5847,7/20/2015,,0,Active,5.432876712,OK,OK
+199,Marketing,Manager,Accra,Male,Bachelor,3,5844,7/23/2015,,0,Active,3.164383562,OK,OK
+200,HR,Mid,Lagos,Female,Diploma,3,5844,7/24/2015,8/13/2020,1,Voluntary,1.479452055,OK,Missing Tenure
+201,Finance,Manager,Lagos,Male,Master,5,5842,7/24/2015,,1,Voluntary,,Date Error,OK
+202,Sales,Mid,Lagos,Male,Bachelor,4,5842,7/25/2015,9/26/2022,1,Voluntary,6.671232877,OK,OK
+203,Sales,Junior,Accra,Female,PhD,3,5839,7/30/2015,10/28/2020,1,Voluntary,0.723287671,OK,OK
+204,Marketing,Mid,Johannesburg,Female,Master,3,5827,8/3/2015,,0,Active,6.832876712,OK,OK
+205,Operations,Mid,Nairobi,Male,Diploma,1,5825,8/7/2015,,0,Active,9.375342466,OK,OK
+206,Sales,Junior,Nairobi,Male,PhD,1,5825,8/10/2015,,0,Active,2.169863014,OK,OK
+207,Sales,Mid,Johannesburg,Female,Bachelor,3,5819,8/11/2015,,0,Active,3.243835616,OK,OK
+208,Finance,Junior,Nairobi,Male,Bachelor,4,5816,8/13/2015,,0,Active,1.128767123,OK,Missing Tenure
+209,Sales,Mid,Lagos,Female,Bachelor,3,5813,8/15/2015,,1,Involuntary,,Date Error,OK
+210,Sales,Mid,Lagos,Female,Diploma,4,5808,8/16/2015,,0,Active,1.402739726,OK,OK
+211,Operations,Junior,Accra,Male,Bachelor,1,5805,8/20/2015,,0,Active,5.983561644,OK,OK
+212,Finance,Junior,Nairobi,Male,Diploma,3,5804,8/21/2015,,0,Active,2.323287671,OK,OK
+213,Finance,Senior,Accra,Male,Bachelor,3,5800,8/21/2015,,0,Active,3.712328767,OK,OK
+214,Engineering,Mid,Nairobi,Female,Bachelor,3,5795,8/28/2015,,0,Active,7.18630137,OK,OK
+215,Finance,Junior,Accra,Male,Master,2,5789,8/31/2015,,0,Active,6.663013699,OK,OK
+216,Engineering,Manager,Accra,Male,Master,5,5789,9/2/2015,,0,Active,1.602739726,OK,OK
+217,Engineering,Junior,Accra,Female,Diploma,3,5787,9/2/2015,,0,Active,10.70410959,OK,OK
+218,HR,Senior,Accra,Female,Bachelor,5,5786,9/3/2015,6/14/2019,1,Voluntary,4.21369863,OK,Missing Tenure
+219,Finance,Manager,Nairobi,Male,Bachelor,3,5783,9/4/2015,,1,Voluntary,,Date Error,OK
+220,Marketing,Junior,Nairobi,Female,Diploma,5,5782,9/5/2015,,0,Active,2.131506849,OK,OK
+221,Finance,Junior,Lagos,Male,Master,3,5776,9/7/2015,11/11/2024,1,Voluntary,3.660273973,OK,OK
+222,Operations,Junior,Accra,Male,Master,5,5772,9/10/2015,,0,Active,5.019178082,OK,OK
+223,Sales,Junior,Accra,Male,Bachelor,1,5769,9/12/2015,,0,Active,5.882191781,OK,OK
+224,Engineering,Junior,Accra,Male,Bachelor,4,5766,9/12/2015,,0,Active,4.767123288,OK,OK
+225,Engineering,Senior,Accra,Male,Diploma,5,5765,9/18/2015,,0,Active,7.550684932,OK,Missing Tenure
+226,Engineering,Junior,Johannesburg,Male,Bachelor,2,5764,9/19/2015,,1,Voluntary,,Date Error,OK
+227,Customer Support,Mid,Accra,Female,Diploma,2,5762,9/20/2015,,0,Active,10.31780822,OK,Missing Tenure
+228,Engineering,Manager,Lagos,Female,PhD,3,5762,9/26/2015,,1,Voluntary,,Date Error,OK
+229,Marketing,Senior,Accra,Female,Master,5,5744,10/15/2015,,0,Active,7.010958904,OK,OK
+230,Finance,Mid,Accra,Male,Bachelor,3,5744,10/21/2015,,0,Active,5.687671233,OK,Missing Tenure
+231,HR,Junior,Lagos,Male,Bachelor,3,5741,10/21/2015,,1,Voluntary,,Date Error,OK
+232,Operations,Mid,Lagos,Male,PhD,2,5735,10/22/2015,,0,Active,1.438356164,OK,OK
+233,Operations,Mid,Accra,Female,Bachelor,1,5735,10/29/2015,,0,Active,7.375342466,OK,OK
+234,Operations,Mid,Accra,Female,Diploma,4,5727,11/1/2015,,0,Active,5.202739726,OK,OK
+235,Sales,Junior,Lagos,Male,Bachelor,2,5726,11/4/2015,,0,Active,1.873972603,OK,OK
+236,Finance,Manager,Accra,Male,Master,3,5720,11/5/2015,,0,Active,5.920547945,OK,OK
+237,Engineering,Mid,Accra,Male,Master,5,5713,11/10/2015,,0,Active,4.791780822,OK,OK
+238,Sales,Junior,Johannesburg,Male,Master,3,5706,11/11/2015,,0,Active,7.994520548,OK,OK
+239,Finance,Mid,Lagos,Male,Master,4,5702,11/12/2015,,0,Active,10.84109589,OK,OK
+240,Sales,Mid,Lagos,Female,Master,2,5701,11/14/2015,,0,Active,6.915068493,OK,OK
+241,Customer Support,Senior,Lagos,Female,PhD,3,5701,11/21/2015,,0,Active,7.775342466,OK,OK
+242,Customer Support,Senior,Lagos,Male,Diploma,2,5698,11/23/2015,,0,Active,8.802739726,OK,OK
+243,Customer Support,Senior,Lagos,Male,Bachelor,4,5692,11/25/2015,,0,Active,5.057534247,OK,OK
+244,Engineering,Junior,Nairobi,Female,Master,3,5689,11/25/2015,,0,Active,3.369863014,OK,OK
+245,Sales,Mid,Nairobi,Male,Master,3,5681,11/29/2015,,0,Active,5.871232877,OK,OK
+246,Customer Support,Mid,Accra,Male,Bachelor,3,5664,12/4/2015,,0,Active,4.95890411,OK,OK
+247,Engineering,Junior,Lagos,Male,Diploma,2,5647,12/5/2015,,0,Active,9.528767123,OK,OK
+248,Customer Support,Junior,Lagos,Male,Master,4,5644,12/6/2015,,0,Active,9.295890411,OK,OK
+249,Customer Support,Senior,Johannesburg,Male,Master,3,5635,12/6/2015,,0,Active,6.58630137,OK,OK
+250,Marketing,Junior,Lagos,Female,Diploma,4,5633,12/11/2015,,0,Active,1.128767123,OK,OK
+251,Engineering,Mid,Lagos,Male,Bachelor,2,5629,12/18/2015,,0,Active,10.72054795,OK,OK
+252,Engineering,Junior,Accra,Male,Diploma,4,5623,12/18/2015,,0,Active,7.846575342,OK,OK
+253,Marketing,Junior,Lagos,Female,Bachelor,2,5622,12/19/2015,,0,Active,1.616438356,OK,OK
+254,Engineering,Junior,Accra,Male,Diploma,3,5621,12/20/2015,,0,Active,6.328767123,OK,OK
+255,Sales,Manager,Accra,Female,Bachelor,3,5619,12/23/2015,,0,Active,3.273972603,OK,OK
+256,Operations,Senior,Accra,Female,Bachelor,4,5618,12/23/2015,,0,Active,5.780821918,OK,OK
+257,Customer Support,Manager,Nairobi,Male,Bachelor,3,5616,12/27/2015,10/18/2022,1,Voluntary,3.18630137,OK,OK
+258,Finance,Mid,Accra,Female,Master,4,5614,12/29/2015,,0,Active,4.761643836,OK,OK
+259,Operations,Junior,Lagos,Male,Master,4,5607,1/9/2016,3/9/2023,1,Voluntary,8.180821918,OK,OK
+260,Sales,Mid,Johannesburg,Female,Bachelor,2,5603,1/14/2016,9/26/2022,1,Voluntary,5.249315068,OK,OK
+261,Finance,Mid,Accra,Male,Diploma,3,5594,1/17/2016,,0,Active,8.419178082,OK,OK
+262,Customer Support,Senior,Lagos,Female,Master,2,5590,1/21/2016,,0,Active,2.298630137,OK,OK
+263,Sales,Junior,Lagos,Female,Diploma,3,5590,1/24/2016,,0,Active,1.838356164,OK,OK
+264,Operations,Mid,Accra,Male,PhD,4,5585,1/25/2016,,0,Active,4.906849315,OK,OK
+265,Marketing,Junior,Nairobi,Male,Master,4,5582,1/26/2016,,0,Active,10.20821918,OK,OK
+266,HR,Junior,Accra,Female,Bachelor,3,5581,1/26/2016,5/5/2021,1,Voluntary,5.747945205,OK,Missing Tenure
+267,Finance,Senior,Lagos,Female,PhD,3,5576,1/27/2016,,1,Voluntary,,Date Error,OK
+268,Finance,Mid,Lagos,Male,Diploma,3,5575,1/29/2016,,0,Active,4.920547945,OK,OK
+269,Engineering,Mid,Lagos,Female,Bachelor,2,5574,1/31/2016,,0,Active,5.063013699,OK,OK
+270,Engineering,Mid,Nairobi,Male,Bachelor,4,5568,2/3/2016,,0,Active,4.778082192,OK,OK
+271,HR,Mid,Accra,Male,Bachelor,3,5566,2/4/2016,5/24/2022,1,Voluntary,1.57260274,OK,OK
+272,Marketing,Senior,Accra,Male,PhD,4,5564,2/7/2016,9/13/2022,1,Voluntary,1.923287671,OK,Missing Tenure
+273,Marketing,Manager,Nairobi,Male,Diploma,3,5561,2/7/2016,,1,Involuntary,,Date Error,OK
+274,Customer Support,Manager,Lagos,Female,Bachelor,3,5554,2/7/2016,,0,Active,8.915068493,OK,OK
+275,Operations,Senior,Nairobi,Male,Bachelor,3,5554,2/9/2016,,0,Active,3.668493151,OK,OK
+276,Operations,Junior,Nairobi,Female,Master,1,5552,2/10/2016,,0,Active,5.221917808,OK,OK
+277,HR,Senior,Nairobi,Male,Bachelor,3,5549,2/14/2016,,0,Active,7.435616438,OK,OK
+278,Finance,Mid,Lagos,Male,Bachelor,4,5543,2/14/2016,5/21/2022,1,Voluntary,4.515068493,OK,OK
+279,Finance,Junior,Accra,Male,Master,4,5541,2/15/2016,12/10/2017,1,Involuntary,2.77260274,OK,OK
+280,HR,Senior,Nairobi,Male,Bachelor,3,5531,2/18/2016,,0,Active,3.706849315,OK,OK
+281,Marketing,Junior,Lagos,Male,Master,3,5520,2/29/2016,,0,Active,2.865753425,OK,OK
+282,Engineering,Manager,Accra,Male,Bachelor,1,5520,3/2/2016,,0,Active,5.490410959,OK,Missing Tenure
+283,Engineering,Mid,Johannesburg,Female,Master,4,5517,3/2/2016,,1,Voluntary,,Date Error,OK
+284,Sales,Mid,Johannesburg,Male,Master,1,5506,3/3/2016,,0,Active,10.71780822,OK,OK
+285,Operations,Mid,Lagos,Male,Bachelor,5,5504,3/4/2016,,0,Active,1.093150685,OK,OK
+286,Sales,Manager,Accra,Male,Bachelor,3,5499,3/4/2016,,0,Active,9.205479452,OK,OK
+287,Operations,Mid,Lagos,Female,Master,3,5497,3/5/2016,,0,Active,1.876712329,OK,OK
+288,Operations,Mid,Nairobi,Female,Bachelor,5,5492,3/7/2016,7/6/2018,1,Involuntary,1.273972603,OK,OK
+289,Engineering,Junior,Johannesburg,Male,PhD,1,5489,3/8/2016,,0,Active,4.673972603,OK,OK
+290,Operations,Mid,Accra,Male,Bachelor,3,5488,3/9/2016,,0,Active,1.312328767,OK,OK
+291,Sales,Junior,Accra,Male,Diploma,3,5482,3/11/2016,,0,Active,7.652054795,OK,OK
+292,Sales,Senior,Johannesburg,Female,Bachelor,3,5479,3/14/2016,,0,Active,10.58630137,OK,OK
+293,Marketing,Mid,Lagos,Male,PhD,3,5461,3/15/2016,,0,Active,2.55890411,OK,OK
+294,Engineering,Senior,Lagos,Male,Bachelor,4,5460,3/16/2016,,0,Active,1.780821918,OK,OK
+295,Sales,Junior,Johannesburg,Male,Master,4,5458,3/16/2016,,0,Active,8.556164384,OK,Missing Tenure
+296,Operations,Junior,Accra,Male,Master,1,5455,3/17/2016,,1,Involuntary,,Date Error,OK
+297,HR,Senior,Lagos,Male,Bachelor,5,5453,3/22/2016,,0,Active,6.569863014,OK,OK
+298,Sales,Junior,Accra,Female,Diploma,2,5449,3/28/2016,,0,Active,8.290410959,OK,OK
+299,Finance,Junior,Lagos,Male,Master,3,5439,3/30/2016,,0,Active,4.728767123,OK,OK
+300,Sales,Junior,Nairobi,Female,Bachelor,3,5436,4/1/2016,,0,Active,7.383561644,OK,OK
+301,Sales,Manager,Lagos,Male,Master,1,5433,4/3/2016,,0,Active,7.21369863,OK,Missing Tenure
+302,Operations,Senior,Johannesburg,Male,Bachelor,2,5406,4/7/2016,,1,Voluntary,,Date Error,OK
+303,Operations,Junior,Lagos,Female,Bachelor,5,5398,4/9/2016,,0,Active,1.167123288,OK,OK
+304,Finance,Junior,Accra,Male,Master,3,5398,4/11/2016,,0,Active,4.342465753,OK,OK
+305,Finance,Junior,Accra,Female,Bachelor,2,5392,4/11/2016,,0,Active,3.320547945,OK,OK
+306,Customer Support,Senior,Lagos,Female,Bachelor,2,5391,4/13/2016,,0,Active,1.739726027,OK,OK
+307,Operations,Senior,Lagos,Male,Bachelor,4,5386,4/13/2016,,0,Active,4.265753425,OK,OK
+308,Engineering,Junior,Accra,Female,Bachelor,4,5381,4/14/2016,,0,Active,7.443835616,OK,OK
+309,HR,Junior,Lagos,Male,Bachelor,3,5378,4/15/2016,,0,Active,3.44109589,OK,OK
+310,Engineering,Junior,Lagos,Female,Master,1,5373,4/15/2016,,0,Active,8.931506849,OK,OK
+311,Engineering,Senior,Nairobi,Male,Bachelor,3,5373,4/19/2016,,0,Active,8.964383562,OK,OK
+312,Sales,Senior,Nairobi,Female,Bachelor,2,5355,4/22/2016,,0,Active,9.38630137,OK,OK
+313,Sales,Junior,Nairobi,Male,Master,2,5343,4/23/2016,,0,Active,1.619178082,OK,OK
+314,Customer Support,Junior,Accra,Male,Bachelor,3,5339,4/25/2016,,0,Active,6.767123288,OK,OK
+315,Marketing,Junior,Accra,Female,Bachelor,3,5330,4/26/2016,,0,Active,3.101369863,OK,OK
+316,Finance,Manager,Nairobi,Female,PhD,3,5329,4/29/2016,1/18/2022,1,Voluntary,8.010958904,OK,OK
+317,Engineering,Junior,Lagos,Female,Master,3,5327,4/30/2016,,0,Active,8.290410959,OK,OK
+318,Sales,Senior,Accra,Female,Bachelor,5,5324,4/30/2016,,0,Active,8.082191781,OK,OK
+319,Sales,Mid,Nairobi,Female,Master,5,5322,4/30/2016,,0,Active,7.326027397,OK,Missing Tenure
+320,Engineering,Mid,Nairobi,Male,Diploma,3,5309,5/5/2016,,1,Voluntary,,Date Error,Missing Tenure
+321,Operations,Junior,Lagos,Male,Bachelor,3,5302,5/8/2016,,1,Voluntary,,Date Error,OK
+322,Finance,Junior,Accra,Male,Bachelor,3,5298,5/13/2016,,0,Active,4.994520548,OK,OK
+323,Finance,Mid,Nairobi,Male,Bachelor,3,5297,5/13/2016,,0,Active,4.42739726,OK,Missing Tenure
+324,Engineering,Senior,Lagos,Male,Bachelor,4,5295,5/13/2016,,1,Voluntary,,Date Error,OK
+325,Customer Support,Mid,Nairobi,Female,Diploma,3,5290,5/16/2016,,0,Active,9.084931507,OK,OK
+326,HR,Mid,Nairobi,Male,Bachelor,4,5283,5/22/2016,,0,Active,9.331506849,OK,OK
+327,Operations,Junior,Nairobi,Female,PhD,5,5279,5/25/2016,10/22/2019,1,Voluntary,5.523287671,OK,OK
+328,Finance,Manager,Lagos,Male,Bachelor,3,5277,5/29/2016,,0,Active,6.906849315,OK,OK
+329,Engineering,Senior,Accra,Male,Bachelor,3,5274,6/4/2016,,0,Active,9.926027397,OK,Missing Tenure
+330,Engineering,Junior,Nairobi,Male,Diploma,2,5270,6/5/2016,,1,Voluntary,,Date Error,OK
+331,Engineering,Manager,Lagos,Female,Diploma,3,5264,6/8/2016,,0,Active,3.739726027,OK,OK
+332,HR,Mid,Nairobi,Female,Master,3,5260,6/8/2016,,0,Active,1.991780822,OK,OK
+333,Sales,Mid,Accra,Female,Bachelor,3,5253,6/14/2016,,0,Active,5.501369863,OK,OK
+334,Sales,Senior,Accra,Male,Bachelor,4,5248,6/14/2016,,0,Active,8.679452055,OK,OK
+335,Sales,Senior,Johannesburg,Female,Bachelor,2,5248,6/16/2016,,0,Active,5.561643836,OK,OK
+336,Sales,Mid,Nairobi,Male,Master,3,5243,6/17/2016,,0,Active,9.8,OK,OK
+337,Marketing,Junior,Johannesburg,Male,Diploma,3,5241,6/20/2016,,0,Active,6.438356164,OK,OK
+338,Finance,Junior,Nairobi,Male,Bachelor,4,5230,6/27/2016,3/25/2021,1,Voluntary,4.843835616,OK,OK
+339,Operations,Manager,Lagos,Male,Bachelor,3,5216,7/1/2016,,0,Active,9.183561644,OK,OK
+340,Sales,Junior,Nairobi,Male,Bachelor,4,5216,7/1/2016,3/26/2022,1,Involuntary,5.356164384,OK,OK
+341,Operations,Mid,Johannesburg,Female,Bachelor,3,5214,7/3/2016,12/22/2024,1,Involuntary,3.197260274,OK,OK
+342,Operations,Mid,Lagos,Female,Master,3,5213,7/4/2016,,0,Active,4.098630137,OK,OK
+343,Sales,Mid,Lagos,Male,Master,2,5210,7/5/2016,,0,Active,9.290410959,OK,Missing Tenure
+344,Engineering,Mid,Accra,Male,Master,3,5202,7/5/2016,,1,Voluntary,,Date Error,OK
+345,Engineering,Manager,Lagos,Male,Bachelor,4,5201,7/8/2016,,0,Active,7.095890411,OK,OK
+346,Finance,Junior,Nairobi,Male,Diploma,3,5200,7/11/2016,,0,Active,1.189041096,OK,OK
+347,Finance,Junior,Accra,Female,Bachelor,4,5197,7/14/2016,,0,Active,4.024657534,OK,OK
+348,Sales,Junior,Accra,Male,PhD,3,5189,7/14/2016,11/18/2016,1,Involuntary,1.931506849,OK,OK
+349,Engineering,Manager,Accra,Female,Bachelor,2,5178,7/20/2016,,0,Active,7.547945205,OK,OK
+350,Finance,Mid,Accra,Male,Master,1,5177,7/21/2016,,0,Active,8.221917808,OK,OK
+351,Operations,Junior,Accra,Female,Diploma,3,5170,7/21/2016,,0,Active,9.449315068,OK,OK
+352,Marketing,Senior,Lagos,Male,Bachelor,4,5168,7/25/2016,2/12/2023,1,Voluntary,1.608219178,OK,OK
+353,Finance,Senior,Johannesburg,Female,Diploma,4,5163,7/27/2016,,0,Active,1.671232877,OK,OK
+354,Sales,Senior,Lagos,Male,Bachelor,3,5160,7/29/2016,,0,Active,5.328767123,OK,OK
+355,Sales,Manager,Accra,Female,PhD,3,5157,7/30/2016,,0,Active,1.473972603,OK,OK
+356,Finance,Junior,Accra,Male,PhD,3,5156,7/31/2016,,0,Active,2.383561644,OK,OK
+357,Sales,Senior,Nairobi,Male,Bachelor,3,5155,8/2/2016,,0,Active,5.660273973,OK,OK
+358,Operations,Mid,Lagos,Female,Bachelor,3,5155,8/3/2016,,0,Active,4.805479452,OK,OK
+359,Customer Support,Senior,Nairobi,Female,PhD,2,5153,8/5/2016,,0,Active,7.306849315,OK,Missing Tenure
+360,Operations,Senior,Nairobi,Female,Master,2,5151,8/5/2016,,1,Involuntary,,Date Error,OK
+361,Engineering,Senior,Nairobi,Female,Diploma,2,5147,8/6/2016,,0,Active,3.279452055,OK,OK
+362,Finance,Mid,Accra,Female,Bachelor,2,5142,8/13/2016,,0,Active,2.531506849,OK,OK
+363,Engineering,Junior,Nairobi,Male,Bachelor,1,5137,8/16/2016,5/25/2022,1,Voluntary,6.567123288,OK,OK
+364,Operations,Mid,Accra,Male,Bachelor,3,5133,8/20/2016,,0,Active,9.043835616,OK,OK
+365,Customer Support,Manager,Johannesburg,Male,Bachelor,3,5131,8/24/2016,,0,Active,4.550684932,OK,Missing Tenure
+366,Engineering,Manager,Lagos,Female,Bachelor,5,5128,8/31/2016,,1,Voluntary,,Date Error,OK
+367,Customer Support,Junior,Accra,Male,Bachelor,2,5128,9/1/2016,,0,Active,10.27945205,OK,OK
+368,Marketing,Junior,Accra,Male,Diploma,3,5127,9/1/2016,,0,Active,7.068493151,OK,OK
+369,Sales,Junior,Accra,Female,Bachelor,3,5121,9/8/2016,,0,Active,3.630136986,OK,OK
+370,Sales,Senior,Nairobi,Female,Master,1,5117,9/11/2016,,0,Active,1.863013699,OK,OK
+371,Sales,Senior,Accra,Male,Master,4,5116,9/12/2016,,0,Active,7.293150685,OK,OK
+372,Sales,Junior,Lagos,Male,Bachelor,1,5115,9/19/2016,,0,Active,8.208219178,OK,OK
+373,Sales,Mid,Accra,Male,PhD,5,5113,9/19/2016,,0,Active,5.42739726,OK,OK
+374,Finance,Senior,Nairobi,Male,PhD,4,5110,9/20/2016,,0,Active,4.167123288,OK,OK
+375,Sales,Senior,Nairobi,Male,Bachelor,3,5110,9/25/2016,,0,Active,9.463013699,OK,OK
+376,Engineering,Mid,Nairobi,Female,Diploma,3,5109,9/26/2016,10/3/2020,1,Voluntary,3.279452055,OK,OK
+377,Marketing,Mid,Nairobi,Female,Master,4,5107,9/27/2016,9/12/2017,1,Voluntary,0.797260274,OK,OK
+378,Sales,Mid,Accra,Female,Master,3,5103,9/30/2016,,0,Active,7.106849315,OK,OK
+379,Marketing,Junior,Accra,Male,PhD,3,5092,10/2/2016,10/19/2019,1,Involuntary,5.726027397,OK,OK
+380,Engineering,Mid,Nairobi,Female,Master,1,5091,10/8/2016,10/15/2020,1,Voluntary,6.191780822,OK,OK
+381,Sales,Senior,Lagos,Male,Bachelor,2,5079,10/9/2016,,0,Active,9.898630137,OK,OK
+382,Finance,Senior,Lagos,Male,Bachelor,3,5077,10/13/2016,,0,Active,6.523287671,OK,OK
+383,Finance,Mid,Accra,Female,Diploma,3,5076,10/14/2016,,0,Active,6.082191781,OK,Missing Tenure
+384,Marketing,Senior,Accra,Male,Bachelor,4,5073,10/15/2016,,1,Voluntary,,Date Error,OK
+385,HR,Junior,Accra,Male,Bachelor,2,5069,10/19/2016,6/27/2024,1,Voluntary,5.673972603,OK,OK
+386,HR,Mid,Johannesburg,Female,Bachelor,4,5062,10/19/2016,,0,Active,6.421917808,OK,OK
+387,Engineering,Junior,Accra,Male,Bachelor,3,5061,10/28/2016,,0,Active,8.84109589,OK,OK
+388,Sales,Junior,Lagos,Female,Master,3,5058,11/7/2016,,0,Active,1.194520548,OK,OK
+389,HR,Senior,Accra,Male,Bachelor,3,5045,11/10/2016,10/4/2022,1,Voluntary,6.126027397,OK,OK
+390,HR,Manager,Nairobi,Female,Bachelor,3,5039,11/12/2016,11/16/2019,1,Voluntary,2.290410959,OK,OK
+391,Customer Support,Junior,Accra,Male,Diploma,2,5037,11/12/2016,,0,Active,1.350684932,OK,OK
+392,Engineering,Mid,Johannesburg,Male,Bachelor,3,5033,11/13/2016,,0,Active,8.726027397,OK,OK
+393,Engineering,Senior,Johannesburg,Female,Master,4,5031,11/16/2016,,0,Active,10.14246575,OK,OK
+394,HR,Junior,Accra,Male,Master,3,5030,11/17/2016,,0,Active,7.391780822,OK,OK
+395,Engineering,Mid,Johannesburg,Male,PhD,3,5030,11/17/2016,,0,Active,4.473972603,OK,OK
+396,Customer Support,Senior,Johannesburg,Male,Bachelor,4,5029,11/25/2016,,0,Active,7.364383562,OK,Missing Tenure
+397,Marketing,Mid,Nairobi,Male,Bachelor,4,5027,11/25/2016,,1,Involuntary,,Date Error,OK
+398,Engineering,Junior,Nairobi,Male,Bachelor,3,5024,11/25/2016,,0,Active,10.04931507,OK,OK
+399,HR,Junior,Accra,Male,Bachelor,3,5022,11/27/2016,11/20/2019,1,Voluntary,4.490410959,OK,OK
+400,HR,Senior,Lagos,Female,Master,4,5021,12/2/2016,,0,Active,3.961643836,OK,OK
+401,Sales,Mid,Accra,Male,Master,3,5020,12/2/2016,,0,Active,9.663013699,OK,OK
+402,Marketing,Junior,Accra,Male,Master,3,5020,12/3/2016,12/10/2022,1,Voluntary,3.654794521,OK,OK
+403,Operations,Senior,Johannesburg,Male,Bachelor,3,5011,12/4/2016,,0,Active,6.578082192,OK,OK
+404,Marketing,Junior,Accra,Male,Master,4,5007,12/4/2016,,0,Active,5.375342466,OK,OK
+405,Engineering,Senior,Nairobi,Female,Diploma,1,5003,12/6/2016,,0,Active,6.843835616,OK,OK
+406,Marketing,Junior,Nairobi,Male,Master,5,4998,12/7/2016,,0,Active,6.671232877,OK,OK
+407,Engineering,Manager,Johannesburg,Female,Bachelor,2,4996,12/9/2016,,0,Active,3.863013699,OK,Missing Tenure
+408,Sales,Mid,Johannesburg,Male,Bachelor,4,4994,12/11/2016,,1,Involuntary,,Date Error,OK
+409,Marketing,Junior,Accra,Female,Bachelor,3,4990,12/18/2016,5/22/2023,1,Involuntary,5.076712329,OK,OK
+410,Sales,Junior,Accra,Female,PhD,3,4977,12/18/2016,10/29/2024,1,Voluntary,3.054794521,OK,OK
+411,Engineering,Junior,Lagos,Female,Diploma,4,4971,12/18/2016,,0,Active,6.183561644,OK,OK
+412,Customer Support,Senior,Accra,Female,Bachelor,3,4970,12/19/2016,,0,Active,5.553424658,OK,OK
+413,Customer Support,Manager,Accra,Male,Master,3,4964,12/28/2016,4/3/2023,1,Voluntary,0.547945205,OK,OK
+414,Operations,Mid,Lagos,Male,Bachelor,1,4957,12/30/2016,,0,Active,7.534246575,OK,OK
+415,Finance,Mid,Nairobi,Male,Bachelor,1,4953,1/1/2017,,0,Active,1.895890411,OK,OK
+416,Engineering,Senior,Lagos,Female,Bachelor,3,4952,1/5/2017,,0,Active,5.309589041,OK,OK
+417,Engineering,Manager,Accra,Male,Bachelor,4,4950,1/9/2017,8/10/2018,1,Involuntary,1.742465753,OK,OK
+418,Engineering,Mid,Nairobi,Male,PhD,2,4950,1/9/2017,,0,Active,3.084931507,OK,OK
+419,Finance,Mid,Accra,Female,Master,2,4944,1/11/2017,,0,Active,3.849315068,OK,OK
+420,HR,Mid,Accra,Male,Bachelor,3,4942,1/12/2017,,0,Active,10.87671233,OK,OK
+421,HR,Senior,Nairobi,Female,PhD,3,4941,1/23/2017,6/24/2016,1,Involuntary,1.216438356,Date Error,OK
+422,HR,Junior,Lagos,Female,Bachelor,4,4935,1/25/2017,,0,Active,3.783561644,OK,OK
+423,Sales,Mid,Nairobi,Female,Diploma,2,4930,1/27/2017,,0,Active,10.09041096,OK,OK
+424,Operations,Junior,Accra,Female,Bachelor,2,4929,1/28/2017,,0,Active,7.224657534,OK,OK
+425,Sales,Senior,Nairobi,Male,Bachelor,5,4919,1/30/2017,,0,Active,7.871232877,OK,Missing Tenure
+426,Operations,Junior,Lagos,Male,Diploma,3,4915,2/1/2017,,1,Voluntary,,Date Error,OK
+427,Engineering,Mid,Lagos,Male,PhD,4,4914,2/1/2017,1/28/2021,1,Voluntary,6.098630137,OK,OK
+428,Marketing,Mid,Lagos,Male,Master,4,4912,2/2/2017,,0,Active,4.452054795,OK,OK
+429,Engineering,Mid,Johannesburg,Female,Bachelor,4,4908,2/3/2017,,0,Active,10.48219178,OK,OK
+430,Sales,Junior,Lagos,Female,Bachelor,2,4904,2/3/2017,,0,Active,7.065753425,OK,OK
+431,Sales,Mid,Lagos,Male,Master,4,4903,2/8/2017,,0,Active,7.17260274,OK,OK
+432,HR,Mid,Johannesburg,Male,PhD,4,4900,2/12/2017,,0,Active,1.326027397,OK,OK
+433,Finance,Mid,Nairobi,Female,Master,3,4894,2/14/2017,3/19/2019,1,Voluntary,3.145205479,OK,OK
+434,Sales,Mid,Lagos,Male,Bachelor,3,4894,2/17/2017,1/30/2021,1,Voluntary,2.471232877,OK,OK
+435,Sales,Senior,Nairobi,Male,Master,3,4894,2/17/2017,,0,Active,2.194520548,OK,OK
+436,Finance,Senior,Lagos,Male,Bachelor,2,4876,2/19/2017,,0,Active,4.090410959,OK,OK
+437,Sales,Junior,Accra,Female,Bachelor,3,4873,2/26/2017,,0,Active,8.742465753,OK,OK
+438,Marketing,Senior,Lagos,Female,Diploma,3,4870,2/28/2017,,0,Active,8.57260274,OK,OK
+439,Finance,Mid,Johannesburg,Female,Diploma,3,4853,3/3/2017,,0,Active,9.221917808,OK,OK
+440,Sales,Junior,Johannesburg,Female,Bachelor,3,4853,3/5/2017,,0,Active,4.282191781,OK,OK
+441,Sales,Junior,Accra,Male,Bachelor,3,4852,3/11/2017,,0,Active,4.616438356,OK,OK
+442,Customer Support,Junior,Lagos,Male,Diploma,3,4849,3/11/2017,,0,Active,5.745205479,OK,OK
+443,Engineering,Senior,Accra,Female,Master,5,4825,3/13/2017,,0,Active,8.679452055,OK,OK
+444,Engineering,Senior,Johannesburg,Male,Diploma,2,4814,3/15/2017,,0,Active,10.70684932,OK,OK
+445,Marketing,Senior,Johannesburg,Female,Bachelor,3,4813,3/15/2017,,0,Active,9.312328767,OK,OK
+446,Customer Support,Mid,Lagos,Female,Bachelor,2,4809,3/17/2017,8/30/2024,1,Voluntary,8.498630137,OK,OK
+447,Customer Support,Mid,Nairobi,Female,PhD,3,4809,3/17/2017,,0,Active,5.263013699,OK,OK
+448,HR,Junior,Nairobi,Female,Bachelor,4,4809,3/18/2017,3/3/2023,1,Voluntary,0.720547945,OK,OK
+449,Engineering,Junior,Lagos,Female,Diploma,5,4808,3/22/2017,,0,Active,7.838356164,OK,OK
+450,Sales,Mid,Accra,Female,Bachelor,3,4805,3/26/2017,,0,Active,9.4,OK,OK
+451,HR,Junior,Lagos,Male,Master,5,4797,3/26/2017,,0,Active,3.767123288,OK,OK
+452,Operations,Junior,Nairobi,Male,PhD,2,4781,3/28/2017,,0,Active,1.654794521,OK,OK
+453,Engineering,Mid,Nairobi,Male,Bachelor,3,4781,3/31/2017,,0,Active,3.564383562,OK,OK
+454,Marketing,Senior,Lagos,Female,Bachelor,2,4779,3/31/2017,,0,Active,7.421917808,OK,OK
+455,Sales,Manager,Johannesburg,Male,PhD,4,4775,4/2/2017,,0,Active,5.646575342,OK,OK
+456,Operations,Manager,Accra,Female,Bachelor,3,4764,4/4/2017,,0,Active,4.539726027,OK,OK
+457,Sales,Mid,Lagos,Male,Bachelor,4,4745,4/5/2017,,0,Active,3.739726027,OK,OK
+458,Operations,Mid,Nairobi,Female,Bachelor,4,4742,4/10/2017,2/12/2020,1,Voluntary,5.306849315,OK,OK
+459,Sales,Mid,Nairobi,Male,Diploma,2,4741,4/12/2017,,0,Active,6.545205479,OK,OK
+460,Sales,Senior,Lagos,Female,Bachelor,1,4735,4/20/2017,,0,Active,9.452054795,OK,OK
+461,Sales,Junior,Accra,Female,Bachelor,4,4728,4/21/2017,,0,Active,7.756164384,OK,OK
+462,Finance,Mid,Accra,Male,Master,3,4723,4/22/2017,7/18/2024,1,Involuntary,8.273972603,OK,OK
+463,HR,Senior,Lagos,Male,PhD,2,4717,4/26/2017,,0,Active,1.232876712,OK,OK
+464,Operations,Mid,Lagos,Female,Bachelor,3,4715,4/27/2017,,0,Active,9.339726027,OK,OK
+465,Customer Support,Mid,Accra,Male,Master,3,4714,4/28/2017,,0,Active,10.96712329,OK,Missing Tenure
+466,Engineering,Mid,Nairobi,Male,Diploma,1,4699,4/29/2017,,1,Involuntary,,Date Error,OK
+467,Engineering,Junior,Lagos,Female,Bachelor,3,4691,5/1/2017,,0,Active,2.380821918,OK,OK
+468,Marketing,Mid,Nairobi,Female,Diploma,1,4687,5/1/2017,,0,Active,7.257534247,OK,OK
+469,Engineering,Junior,Nairobi,Female,PhD,3,4685,5/1/2017,11/8/2015,1,Involuntary,1.657534247,Date Error,OK
+470,Customer Support,Junior,Accra,Male,Master,4,4674,5/2/2017,7/27/2018,1,Involuntary,3.832876712,OK,OK
+471,Sales,Junior,Accra,Male,Master,5,4670,5/4/2017,,0,Active,10.22465753,OK,OK
+472,Customer Support,Senior,Nairobi,Female,Master,3,4670,5/10/2017,9/29/2019,1,Voluntary,5.567123288,OK,OK
+473,Sales,Junior,Lagos,Male,Master,2,4666,5/10/2017,,0,Active,8.6,OK,OK
+474,Marketing,Mid,Nairobi,Female,PhD,5,4666,5/10/2017,6/29/2020,1,Voluntary,6.312328767,OK,OK
+475,Operations,Junior,Nairobi,Male,Master,3,4665,5/11/2017,,0,Active,7.676712329,OK,OK
+476,Customer Support,Manager,Nairobi,Male,PhD,2,4664,5/16/2017,,0,Active,2.443835616,OK,Missing Tenure
+477,Sales,Junior,Johannesburg,Male,Bachelor,5,4663,5/16/2017,,1,Voluntary,,Date Error,OK
+478,Operations,Mid,Lagos,Male,Diploma,4,4659,5/16/2017,9/17/2023,1,Voluntary,5.873972603,OK,OK
+479,Customer Support,Senior,Lagos,Male,Bachelor,4,4659,5/21/2017,,0,Active,8.342465753,OK,Missing Tenure
+480,Operations,Senior,Lagos,Male,Diploma,4,4654,5/25/2017,,1,Voluntary,,Date Error,OK
+481,Finance,Junior,Accra,Female,Bachelor,3,4650,5/30/2017,,0,Active,1.473972603,OK,OK
+482,Finance,Senior,Lagos,Male,Bachelor,3,4648,5/30/2017,5/6/2022,1,Voluntary,6.95890411,OK,OK
+483,Engineering,Mid,Accra,Female,Bachelor,4,4647,5/31/2017,,0,Active,1.123287671,OK,OK
+484,Finance,Mid,Johannesburg,Female,Diploma,3,4645,5/31/2017,,0,Active,3.106849315,OK,OK
+485,Operations,Junior,Lagos,Female,Bachelor,3,4643,6/2/2017,,0,Active,7.926027397,OK,OK
+486,Marketing,Junior,Lagos,Male,Bachelor,4,4638,6/5/2017,,0,Active,8.583561644,OK,OK
+487,Sales,Senior,Lagos,Female,PhD,4,4636,6/7/2017,,0,Active,3.224657534,OK,OK
+488,Engineering,Mid,Accra,Female,Bachelor,3,4623,6/7/2017,,0,Active,4.243835616,OK,OK
+489,Customer Support,Mid,Accra,Female,Bachelor,4,4618,6/13/2017,,0,Active,5.564383562,OK,OK
+490,Marketing,Senior,Lagos,Female,Master,4,4611,6/16/2017,11/9/2019,1,Involuntary,3.736986301,OK,OK
+491,Engineering,Senior,Accra,Female,Bachelor,4,4601,6/17/2017,,0,Active,4.090410959,OK,OK
+492,Finance,Junior,Lagos,Female,Bachelor,3,4600,6/22/2017,,0,Active,8.473972603,OK,OK
+493,Engineering,Mid,Johannesburg,Male,Bachelor,3,4595,6/24/2017,,0,Active,10.68219178,OK,OK
+494,Sales,Junior,Johannesburg,Female,Bachelor,3,4594,6/24/2017,,0,Active,5.698630137,OK,OK
+495,Operations,Senior,Nairobi,Male,PhD,2,4593,6/25/2017,,0,Active,1.797260274,OK,OK
+496,Engineering,Mid,Accra,Female,Diploma,3,4592,6/28/2017,,0,Active,9.673972603,OK,OK
+497,Operations,Manager,Johannesburg,Male,Bachelor,3,4591,7/2/2017,,0,Active,2.153424658,OK,OK
+498,Sales,Junior,Johannesburg,Male,Diploma,3,4589,7/6/2017,,0,Active,5.18630137,OK,OK
+499,Customer Support,Junior,Accra,Female,Bachelor,5,4588,7/9/2017,,0,Active,2.490410959,OK,OK
+500,Customer Support,Junior,Nairobi,Female,Master,2,4588,7/10/2017,,0,Active,1.515068493,OK,OK
+501,Finance,Junior,Accra,Male,Bachelor,4,4578,7/20/2017,5/7/2020,1,Involuntary,5.145205479,OK,OK
+502,Operations,Junior,Nairobi,Male,Diploma,4,4574,7/21/2017,,0,Active,1.115068493,OK,OK
+503,Engineering,Manager,Johannesburg,Female,Bachelor,2,4567,7/22/2017,8/9/2021,1,Voluntary,6.345205479,OK,OK
+504,Marketing,Junior,Accra,Male,Diploma,5,4567,7/25/2017,,0,Active,9.334246575,OK,OK
+505,Finance,Junior,Johannesburg,Female,Diploma,3,4566,7/25/2017,3/24/2020,1,Voluntary,2.621917808,OK,OK
+506,Sales,Senior,Lagos,Male,Master,3,4565,7/28/2017,,0,Active,1.498630137,OK,OK
+507,Customer Support,Mid,Johannesburg,Female,Master,4,4564,7/28/2017,,0,Active,6.463013699,OK,OK
+508,Marketing,Senior,Lagos,Female,PhD,3,4555,7/28/2017,8/16/2023,1,Voluntary,7.117808219,OK,OK
+509,Customer Support,Junior,Nairobi,Male,Master,4,4553,8/2/2017,,0,Active,2.342465753,OK,OK
+510,Finance,Mid,Accra,Male,Master,1,4550,8/2/2017,,0,Active,3.731506849,OK,OK
+511,Finance,Junior,Accra,Male,Diploma,4,4548,8/3/2017,,0,Active,10.99452055,OK,OK
+512,Engineering,Junior,Accra,Female,Master,3,4546,8/6/2017,10/23/2016,1,Voluntary,0.947945205,Date Error,OK
+513,Customer Support,Manager,Johannesburg,Male,Master,3,4545,8/10/2017,,0,Active,2.947945205,OK,OK
+514,Marketing,Junior,Nairobi,Female,Master,3,4538,8/10/2017,,0,Active,4.657534247,OK,OK
+515,Sales,Mid,Johannesburg,Male,Bachelor,4,4534,8/12/2017,,0,Active,6.506849315,OK,OK
+516,Sales,Mid,Johannesburg,Male,Bachelor,4,4530,8/13/2017,,0,Active,3.178082192,OK,OK
+517,Engineering,Junior,Accra,Male,Master,3,4528,8/16/2017,8/23/2023,1,Voluntary,2.506849315,OK,OK
+518,Marketing,Manager,Lagos,Male,Master,3,4528,8/19/2017,,0,Active,10.73972603,OK,OK
+519,Customer Support,Junior,Accra,Female,PhD,3,4527,8/19/2017,2/22/2019,1,Voluntary,3.706849315,OK,OK
+520,Sales,Senior,Accra,Female,Diploma,4,4526,8/20/2017,,0,Active,4.868493151,OK,OK
+521,Operations,Manager,Accra,Female,Bachelor,3,4514,8/22/2017,,0,Active,7.775342466,OK,OK
+522,Engineering,Mid,Lagos,Male,Bachelor,4,4511,8/23/2017,,0,Active,6.380821918,OK,OK
+523,Customer Support,Manager,Accra,Female,Master,4,4510,8/24/2017,,0,Active,7.890410959,OK,OK
+524,Marketing,Junior,Accra,Female,Bachelor,3,4505,8/26/2017,,0,Active,9.926027397,OK,OK
+525,Marketing,Mid,Accra,Female,Diploma,3,4504,8/28/2017,,0,Active,8.901369863,OK,OK
+526,Operations,Junior,Accra,Male,PhD,3,4500,8/28/2017,,0,Active,6.005479452,OK,OK
+527,Engineering,Senior,Johannesburg,Male,Diploma,4,4497,8/29/2017,,0,Active,2.594520548,OK,OK
+528,Engineering,Manager,Nairobi,Male,Master,3,4497,9/6/2017,,0,Active,6.775342466,OK,OK
+529,Sales,Junior,Johannesburg,Female,Bachelor,3,4493,9/7/2017,,0,Active,2.989041096,OK,OK
+530,Marketing,Mid,Lagos,Male,Master,4,4491,9/13/2017,,0,Active,2.008219178,OK,OK
+531,Marketing,Junior,Accra,Male,Bachelor,3,4487,9/13/2017,,0,Active,3.35890411,OK,OK
+532,Customer Support,Mid,Nairobi,Male,PhD,3,4476,9/14/2017,,0,Active,9.139726027,OK,OK
+533,Customer Support,Mid,Accra,Female,PhD,3,4474,9/18/2017,,0,Active,6.745205479,OK,OK
+534,Operations,Manager,Accra,Female,Diploma,2,4457,9/18/2017,6/14/2017,1,Involuntary,3.41369863,Date Error,OK
+535,HR,Mid,Accra,Male,Diploma,4,4454,9/18/2017,,0,Active,1.446575342,OK,OK
+536,Customer Support,Junior,Accra,Male,Bachelor,2,4451,9/21/2017,,0,Active,4.391780822,OK,OK
+537,Marketing,Junior,Accra,Female,Master,3,4441,9/23/2017,,0,Active,3.652054795,OK,Missing Tenure
+538,Engineering,Junior,Lagos,Female,Master,4,4438,9/27/2017,,1,Voluntary,,Date Error,OK
+539,Engineering,Junior,Nairobi,Female,Bachelor,3,4436,9/30/2017,,0,Active,7.621917808,OK,OK
+540,Sales,Junior,Accra,Female,Bachelor,5,4435,10/1/2017,11/25/2024,1,Voluntary,3.380821918,OK,OK
+541,Customer Support,Senior,Accra,Female,Bachelor,5,4435,10/1/2017,,0,Active,10.99726027,OK,Missing Tenure
+542,Operations,Mid,Nairobi,Female,Master,3,4433,10/1/2017,,1,Voluntary,,Date Error,OK
+543,Engineering,Mid,Accra,Male,PhD,1,4427,10/2/2017,,0,Active,2.043835616,OK,OK
+544,Finance,Junior,Accra,Female,Bachelor,4,4424,10/3/2017,,0,Active,5.780821918,OK,OK
+545,Finance,Senior,Johannesburg,Female,Bachelor,3,4417,10/5/2017,,0,Active,7.104109589,OK,Missing Tenure
+546,Engineering,Senior,Accra,Female,Diploma,2,4415,10/6/2017,,1,Voluntary,,Date Error,OK
+547,Sales,Junior,Accra,Male,Bachelor,4,4414,10/6/2017,10/17/2023,1,Voluntary,5.394520548,OK,OK
+548,Finance,Senior,Lagos,Male,Bachelor,1,4410,10/11/2017,,0,Active,1.246575342,OK,OK
+549,Operations,Mid,Accra,Male,Diploma,4,4406,10/12/2017,,0,Active,2.62739726,OK,OK
+550,HR,Junior,Lagos,Male,Bachelor,2,4404,10/13/2017,,0,Active,1.975342466,OK,OK
+551,Operations,Mid,Nairobi,Male,Bachelor,2,4404,10/15/2017,,0,Active,3.794520548,OK,OK
+552,Marketing,Mid,Accra,Female,Bachelor,2,4400,10/16/2017,,0,Active,10.54794521,OK,OK
+553,Operations,Junior,Lagos,Male,Bachelor,5,4392,10/17/2017,,0,Active,3.315068493,OK,OK
+554,Operations,Manager,Lagos,Male,Diploma,4,4391,10/27/2017,12/16/2020,1,Voluntary,4.794520548,OK,OK
+555,Marketing,Senior,Accra,Male,Master,4,4390,10/27/2017,,0,Active,8.271232877,OK,OK
+556,Engineering,Senior,Lagos,Female,Master,3,4373,10/30/2017,,0,Active,10.59452055,OK,OK
+557,Sales,Mid,Accra,Male,Bachelor,3,4369,11/1/2017,,0,Active,2.616438356,OK,Missing Tenure
+558,Sales,Mid,Lagos,Male,Diploma,3,4367,11/2/2017,,1,Involuntary,,Date Error,OK
+559,HR,Mid,Accra,Female,Master,3,4365,11/2/2017,,0,Active,9.630136986,OK,OK
+560,Finance,Mid,Lagos,Male,PhD,3,4360,11/3/2017,,0,Active,6.698630137,OK,OK
+561,Finance,Junior,Accra,Female,Bachelor,3,4360,11/4/2017,9/10/2023,1,Voluntary,3.967123288,OK,Missing Tenure
+562,Sales,Mid,Nairobi,Female,Bachelor,3,4360,11/5/2017,,1,Voluntary,,Date Error,OK
+563,Sales,Senior,Accra,Male,Bachelor,5,4355,11/9/2017,,0,Active,9.630136986,OK,OK
+564,Sales,Mid,Lagos,Male,Bachelor,2,4351,11/11/2017,,0,Active,1.934246575,OK,OK
+565,Engineering,Junior,Lagos,Female,Diploma,5,4346,11/15/2017,9/26/2023,1,Voluntary,1.583561644,OK,OK
+566,Operations,Senior,Nairobi,Male,Bachelor,1,4346,11/22/2017,,0,Active,8.701369863,OK,OK
+567,Engineering,Junior,Lagos,Male,Master,3,4344,11/25/2017,,0,Active,10.04931507,OK,OK
+568,Engineering,Junior,Nairobi,Male,Bachelor,3,4342,11/25/2017,,0,Active,5.336986301,OK,OK
+569,Marketing,Junior,Nairobi,Female,Bachelor,3,4340,11/26/2017,,0,Active,6.463013699,OK,OK
+570,Engineering,Junior,Johannesburg,Male,Bachelor,3,4338,11/29/2017,9/12/2020,1,Voluntary,5.065753425,OK,OK
+571,Operations,Senior,Accra,Female,Bachelor,3,4337,12/1/2017,,0,Active,8.087671233,OK,OK
+572,HR,Mid,Lagos,Female,Diploma,3,4330,12/1/2017,,0,Active,4.123287671,OK,OK
+573,Engineering,Junior,Nairobi,Male,Diploma,4,4327,12/3/2017,12/28/2018,1,Involuntary,4.884931507,OK,OK
+574,Finance,Senior,Johannesburg,Male,Master,4,4324,12/4/2017,,0,Active,4.569863014,OK,OK
+575,Marketing,Senior,Johannesburg,Female,Diploma,4,4324,12/6/2017,,0,Active,10.53150685,OK,OK
+576,Customer Support,Senior,Lagos,Male,Master,3,4320,12/7/2017,5/13/2020,1,Voluntary,3.632876712,OK,OK
+577,Sales,Junior,Accra,Female,PhD,3,4314,12/9/2017,,0,Active,1.136986301,OK,OK
+578,Customer Support,Mid,Lagos,Male,Bachelor,3,4307,12/10/2017,,0,Active,6.942465753,OK,OK
+579,Operations,Manager,Nairobi,Male,Bachelor,3,4304,12/13/2017,,0,Active,3.698630137,OK,OK
+580,Engineering,Senior,Lagos,Male,Bachelor,3,4296,12/13/2017,,0,Active,7.676712329,OK,Missing Tenure
+581,Engineering,Junior,Lagos,Male,Master,3,4295,12/16/2017,,1,Voluntary,,Date Error,OK
+582,Customer Support,Junior,Nairobi,Male,PhD,2,4292,12/17/2017,,0,Active,8.720547945,OK,OK
+583,Operations,Mid,Lagos,Female,Master,3,4288,12/18/2017,,0,Active,4.632876712,OK,OK
+584,Engineering,Manager,Johannesburg,Male,Diploma,2,4286,12/19/2017,,0,Active,8.106849315,OK,OK
+585,Finance,Mid,Lagos,Male,Master,4,4283,12/22/2017,,0,Active,3.873972603,OK,OK
+586,Engineering,Mid,Accra,Male,Bachelor,4,4281,12/23/2017,10/8/2017,1,Voluntary,1.312328767,Date Error,OK
+587,Sales,Junior,Lagos,Female,Bachelor,5,4280,12/26/2017,8/10/2023,1,Voluntary,5.328767123,OK,Missing Tenure
+588,Sales,Mid,Nairobi,Male,Diploma,4,4277,12/30/2017,,1,Involuntary,,Date Error,OK
+589,Sales,Senior,Accra,Female,Bachelor,2,4277,1/2/2018,,0,Active,8.142465753,OK,OK
+590,Sales,Mid,Accra,Male,Master,4,4277,1/6/2018,,0,Active,3.430136986,OK,OK
+591,Sales,Senior,Johannesburg,Male,Bachelor,4,4273,1/7/2018,,0,Active,8.457534247,OK,OK
+592,Finance,Manager,Accra,Male,Bachelor,3,4272,1/8/2018,12/12/2021,1,Voluntary,2.093150685,OK,OK
+593,Sales,Junior,Lagos,Female,Bachelor,3,4264,1/13/2018,,0,Active,4.331506849,OK,OK
+594,Engineering,Mid,Lagos,Male,Master,5,4261,1/15/2018,,0,Active,1.610958904,OK,OK
+595,Marketing,Junior,Lagos,Male,Master,3,4260,1/17/2018,,0,Active,3.893150685,OK,OK
+596,Operations,Senior,Lagos,Male,Bachelor,5,4257,1/21/2018,,0,Active,2.849315068,OK,OK
+597,Finance,Mid,Accra,Female,Diploma,2,4255,1/23/2018,,0,Active,7.580821918,OK,Missing Tenure
+598,Sales,Mid,Lagos,Male,Bachelor,2,4248,1/24/2018,,1,Involuntary,,Date Error,OK
+599,Sales,Senior,Lagos,Male,PhD,3,4244,1/24/2018,,0,Active,7.246575342,OK,OK
+600,Sales,Mid,Nairobi,Male,Bachelor,3,4243,1/25/2018,,0,Active,8.101369863,OK,OK
+601,Sales,Manager,Accra,Male,Bachelor,4,4242,1/28/2018,,0,Active,3.391780822,OK,OK
+602,Engineering,Mid,Lagos,Female,Bachelor,5,4239,1/29/2018,6/2/2017,1,Voluntary,2.052054795,Date Error,OK
+603,Sales,Junior,Accra,Female,Bachelor,3,4239,1/29/2018,,0,Active,6.290410959,OK,OK
+604,Sales,Senior,Accra,Male,Master,1,4238,1/31/2018,,0,Active,2.476712329,OK,OK
+605,Sales,Senior,Accra,Male,Bachelor,4,4238,2/3/2018,,0,Active,3.01369863,OK,OK
+606,Operations,Junior,Accra,Male,Diploma,3,4236,2/4/2018,,0,Active,3.983561644,OK,OK
+607,Sales,Senior,Nairobi,Male,Diploma,2,4230,2/6/2018,,0,Active,5.21369863,OK,Missing Tenure
+608,Engineering,Manager,Accra,Male,Bachelor,3,4228,2/8/2018,,1,Voluntary,,Date Error,OK
+609,Operations,Junior,Johannesburg,Female,PhD,4,4227,2/15/2018,,0,Active,5.063013699,OK,OK
+610,Finance,Manager,Johannesburg,Female,Bachelor,4,4225,2/16/2018,,0,Active,6.328767123,OK,OK
+611,Sales,Junior,Lagos,Female,Master,3,4225,2/18/2018,,0,Active,10.09041096,OK,OK
+612,HR,Junior,Accra,Female,Master,3,4224,2/20/2018,,0,Active,7.78630137,OK,OK
+613,Finance,Junior,Lagos,Female,Bachelor,5,4222,2/20/2018,,0,Active,2.731506849,OK,OK
+614,Sales,Manager,Nairobi,Female,Diploma,4,4219,2/21/2018,,0,Active,8.876712329,OK,OK
+615,Marketing,Mid,Lagos,Male,Diploma,3,4216,2/22/2018,,0,Active,7.761643836,OK,OK
+616,Customer Support,Junior,Accra,Female,Master,3,4207,2/25/2018,,0,Active,2.008219178,OK,OK
+617,Sales,Mid,Lagos,Male,Bachelor,4,4191,2/26/2018,,0,Active,5.712328767,OK,Missing Tenure
+618,Engineering,Mid,Nairobi,Male,Bachelor,3,4191,2/28/2018,,1,Involuntary,,Date Error,OK
+619,HR,Junior,Nairobi,Female,Bachelor,2,4186,3/1/2018,,0,Active,6.991780822,OK,OK
+620,HR,Manager,Accra,Male,Master,3,4185,3/2/2018,,0,Active,4.24109589,OK,OK
+621,Sales,Senior,Nairobi,Male,Diploma,3,4183,3/4/2018,7/29/2024,1,Voluntary,6.304109589,OK,OK
+622,Sales,Mid,Accra,Female,Bachelor,3,4180,3/5/2018,,0,Active,8.438356164,OK,OK
+623,Engineering,Manager,Accra,Male,Bachelor,2,4180,3/10/2018,1/16/2022,1,Involuntary,5.846575342,OK,OK
+624,Operations,Mid,Johannesburg,Male,Bachelor,4,4175,3/10/2018,,0,Active,5.706849315,OK,OK
+625,Finance,Manager,Accra,Female,Master,3,4175,3/14/2018,,0,Active,9.273972603,OK,OK
+626,Engineering,Senior,Accra,Female,Diploma,1,4173,3/15/2018,,0,Active,7.575342466,OK,OK
+627,Operations,Mid,Accra,Female,Master,2,4172,3/15/2018,,0,Active,8.043835616,OK,OK
+628,HR,Junior,Johannesburg,Male,Master,5,4157,3/17/2018,,0,Active,5.136986301,OK,OK
+629,Sales,Manager,Nairobi,Male,Bachelor,4,4154,3/18/2018,,0,Active,7.487671233,OK,OK
+630,Engineering,Mid,Lagos,Female,Master,3,4147,3/23/2018,,0,Active,10.04109589,OK,OK
+631,Finance,Junior,Nairobi,Female,Bachelor,4,4147,3/23/2018,,0,Active,1.739726027,OK,OK
+632,Marketing,Junior,Accra,Male,Diploma,3,4139,3/24/2018,,0,Active,7.832876712,OK,OK
+633,Operations,Mid,Lagos,Male,Master,5,4127,3/26/2018,,0,Active,5.843835616,OK,OK
+634,Operations,Mid,Lagos,Male,Bachelor,3,4120,3/28/2018,,0,Active,6.02739726,OK,OK
+635,Sales,Senior,Accra,Female,Bachelor,4,4116,3/28/2018,,0,Active,8.361643836,OK,OK
+636,Engineering,Manager,Lagos,Male,Bachelor,2,4112,3/29/2018,,0,Active,2.871232877,OK,OK
+637,Operations,Junior,Johannesburg,Female,PhD,3,4105,3/29/2018,,0,Active,4.104109589,OK,OK
+638,Engineering,Senior,Accra,Male,Bachelor,5,4101,3/30/2018,5/30/2021,1,Voluntary,0.62739726,OK,Missing Tenure
+639,Engineering,Junior,Accra,Female,Diploma,3,4101,3/31/2018,,1,Voluntary,,Date Error,OK
+640,Engineering,Senior,Accra,Female,Bachelor,3,4099,3/31/2018,,0,Active,3.928767123,OK,OK
+641,Sales,Senior,Accra,Female,Master,2,4092,4/2/2018,,0,Active,7.805479452,OK,OK
+642,Engineering,Mid,Johannesburg,Male,Master,4,4091,4/3/2018,,0,Active,6.769863014,OK,OK
+643,Sales,Senior,Lagos,Female,Bachelor,3,4090,4/3/2018,,0,Active,5.161643836,OK,OK
+644,Engineering,Junior,Lagos,Female,Master,3,4088,4/5/2018,10/27/2019,1,Voluntary,5.526027397,OK,OK
+645,Sales,Mid,Nairobi,Male,Bachelor,5,4087,4/6/2018,,0,Active,1.435616438,OK,OK
+646,Marketing,Senior,Accra,Female,Bachelor,1,4078,4/11/2018,6/6/2021,1,Voluntary,3.684931507,OK,OK
+647,Operations,Mid,Lagos,Female,Master,3,4078,4/11/2018,,0,Active,1.865753425,OK,OK
+648,Finance,Junior,Lagos,Female,Master,5,4064,4/12/2018,,0,Active,6.194520548,OK,OK
+649,HR,Mid,Lagos,Female,Master,3,4062,4/13/2018,,0,Active,8.287671233,OK,OK
+650,Operations,Senior,Johannesburg,Male,Master,3,4054,4/21/2018,,0,Active,6.852054795,OK,OK
+651,Sales,Junior,Nairobi,Male,Diploma,3,4054,4/23/2018,,0,Active,7.293150685,OK,OK
+652,Operations,Junior,Lagos,Male,Master,4,4052,4/23/2018,,0,Active,8.75890411,OK,Missing Tenure
+653,Operations,Senior,Nairobi,Female,Bachelor,2,4047,4/23/2018,,1,Voluntary,,Date Error,OK
+654,HR,Senior,Accra,Female,Diploma,5,4037,4/25/2018,,0,Active,8.443835616,OK,OK
+655,Engineering,Junior,Accra,Female,Bachelor,4,4037,4/28/2018,,0,Active,2.646575342,OK,OK
+656,Sales,Junior,Accra,Male,Bachelor,2,4036,5/3/2018,,0,Active,3.621917808,OK,OK
+657,Engineering,Junior,Accra,Male,Bachelor,4,4032,5/5/2018,9/11/2022,1,Voluntary,8.178082192,OK,OK
+658,Engineering,Junior,Lagos,Female,Bachelor,3,4031,5/6/2018,,0,Active,5.539726027,OK,OK
+659,Finance,Mid,Lagos,Male,Diploma,3,4026,5/6/2018,,0,Active,8.454794521,OK,OK
+660,Operations,Senior,Johannesburg,Male,Bachelor,4,4024,5/10/2018,6/2/2016,1,Voluntary,2.032876712,Date Error,OK
+661,Engineering,Mid,Lagos,Female,Bachelor,5,4014,5/12/2018,,0,Active,5.824657534,OK,OK
+662,Customer Support,Mid,Lagos,Male,Bachelor,2,4008,5/16/2018,,0,Active,2.394520548,OK,Missing Tenure
+663,Operations,Junior,Accra,Male,Bachelor,3,3998,5/18/2018,,1,Voluntary,,Date Error,Missing Tenure
+664,Engineering,Senior,Accra,Male,Master,3,3995,5/20/2018,,1,Involuntary,,Date Error,OK
+665,Sales,Mid,Lagos,Male,Master,3,3992,5/24/2018,,0,Active,4.939726027,OK,OK
+666,Sales,Manager,Lagos,Female,Master,3,3988,5/27/2018,,0,Active,9.460273973,OK,OK
+667,Engineering,Mid,Nairobi,Male,Bachelor,2,3987,5/28/2018,,0,Active,7.495890411,OK,OK
+668,Sales,Junior,Accra,Male,Master,4,3986,6/2/2018,,0,Active,7.002739726,OK,Missing Tenure
+669,Sales,Senior,Accra,Male,Diploma,3,3981,6/3/2018,,1,Voluntary,,Date Error,OK
+670,Engineering,Junior,Lagos,Female,Diploma,2,3976,6/5/2018,,0,Active,8.97260274,OK,OK
+671,Sales,Senior,Accra,Male,Bachelor,4,3975,6/6/2018,,0,Active,9.167123288,OK,OK
+672,Marketing,Junior,Accra,Female,Master,4,3971,6/9/2018,,0,Active,3.032876712,OK,OK
+673,Sales,Junior,Nairobi,Male,Bachelor,3,3966,6/9/2018,,0,Active,3.101369863,OK,OK
+674,Operations,Senior,Accra,Male,Diploma,3,3964,6/18/2018,5/10/2017,1,Voluntary,1.904109589,Date Error,OK
+675,Engineering,Junior,Lagos,Male,Diploma,3,3957,6/18/2018,,0,Active,7.410958904,OK,OK
+676,Customer Support,Senior,Accra,Female,Master,3,3956,6/25/2018,10/2/2023,1,Voluntary,1.479452055,OK,OK
+677,Sales,Junior,Accra,Female,Bachelor,3,3956,6/26/2018,,0,Active,9.471232877,OK,OK
+678,Engineering,Mid,Lagos,Male,Bachelor,4,3955,6/27/2018,,0,Active,6.808219178,OK,Missing Tenure
+679,Customer Support,Senior,Nairobi,Male,Bachelor,1,3955,7/2/2018,,1,Involuntary,,Date Error,OK
+680,Marketing,Mid,Lagos,Female,Bachelor,2,3949,7/2/2018,10/8/2019,1,Involuntary,4.945205479,OK,OK
+681,Marketing,Junior,Nairobi,Male,Master,1,3946,7/9/2018,9/6/2018,1,Voluntary,4.178082192,OK,Missing Tenure
+682,Engineering,Junior,Accra,Female,Bachelor,2,3945,7/10/2018,,1,Voluntary,,Date Error,OK
+683,Sales,Junior,Nairobi,Male,Master,2,3942,7/14/2018,,0,Active,9.61369863,OK,OK
+684,Finance,Junior,Accra,Female,Bachelor,5,3939,7/15/2018,,0,Active,3.156164384,OK,OK
+685,Customer Support,Mid,Nairobi,Female,Master,3,3934,7/18/2018,9/6/2020,1,Voluntary,3.032876712,OK,OK
+686,Operations,Manager,Lagos,Female,Diploma,2,3933,7/18/2018,,0,Active,1.205479452,OK,OK
+687,Operations,Senior,Johannesburg,Female,Bachelor,3,3930,7/21/2018,,0,Active,7.257534247,OK,OK
+688,Engineering,Senior,Lagos,Male,Bachelor,5,3929,7/24/2018,,0,Active,2.37260274,OK,OK
+689,HR,Senior,Accra,Female,Bachelor,3,3929,7/26/2018,,0,Active,1.569863014,OK,Missing Tenure
+690,Sales,Senior,Accra,Male,Diploma,3,3926,7/27/2018,,1,Voluntary,,Date Error,OK
+691,Engineering,Junior,Nairobi,Male,Master,4,3926,7/27/2018,,0,Active,3.243835616,OK,OK
+692,Engineering,Manager,Lagos,Female,Bachelor,3,3925,7/28/2018,1/13/2021,1,Voluntary,4.863013699,OK,OK
+693,Operations,Senior,Nairobi,Female,Master,3,3910,7/28/2018,,0,Active,4.216438356,OK,OK
+694,Engineering,Mid,Accra,Female,Master,3,3908,8/2/2018,,0,Active,6.835616438,OK,OK
+695,Sales,Junior,Accra,Male,Bachelor,3,3908,8/3/2018,,0,Active,8.926027397,OK,OK
+696,Finance,Mid,Accra,Female,Master,3,3907,8/3/2018,,0,Active,4.997260274,OK,OK
+697,Engineering,Mid,Johannesburg,Female,Master,4,3903,8/5/2018,,0,Active,4.082191781,OK,OK
+698,Operations,Senior,Nairobi,Male,Bachelor,3,3894,8/6/2018,,0,Active,9.819178082,OK,OK
+699,Sales,Mid,Johannesburg,Male,Master,3,3891,8/9/2018,,0,Active,6.783561644,OK,OK
+700,Operations,Mid,Accra,Male,Bachelor,2,3876,8/12/2018,,0,Active,5.424657534,OK,OK
+701,Operations,Manager,Lagos,Male,Bachelor,2,3870,8/17/2018,,0,Active,6.334246575,OK,OK
+702,Sales,Junior,Nairobi,Female,Master,3,3866,8/18/2018,,0,Active,10.82191781,OK,OK
+703,Engineering,Mid,Accra,Female,Bachelor,5,3863,8/20/2018,,0,Active,6.545205479,OK,OK
+704,Sales,Junior,Nairobi,Female,Bachelor,3,3857,8/26/2018,,0,Active,5.791780822,OK,OK
+705,Sales,Senior,Johannesburg,Female,Bachelor,4,3845,8/28/2018,12/8/2023,1,Voluntary,1.934246575,OK,OK
+706,Customer Support,Manager,Johannesburg,Male,Master,3,3843,9/3/2018,,0,Active,4.890410959,OK,Missing Tenure
+707,Engineering,Junior,Nairobi,Female,PhD,2,3841,9/5/2018,,1,Voluntary,,Date Error,Missing Tenure
+708,HR,Senior,Accra,Male,Bachelor,2,3840,9/5/2018,,1,Voluntary,,Date Error,OK
+709,Engineering,Junior,Accra,Female,Master,3,3840,9/6/2018,,0,Active,4.84109589,OK,OK
+710,Finance,Manager,Johannesburg,Male,PhD,2,3826,9/8/2018,12/19/2022,1,Voluntary,7.454794521,OK,OK
+711,HR,Senior,Accra,Female,Diploma,2,3824,9/19/2018,,0,Active,5.364383562,OK,Missing Tenure
+712,Operations,Senior,Nairobi,Male,Bachelor,4,3822,9/22/2018,,1,Voluntary,,Date Error,Missing Tenure
+713,Operations,Junior,Nairobi,Male,Master,1,3821,9/22/2018,,1,Voluntary,,Date Error,OK
+714,Engineering,Manager,Lagos,Female,Master,3,3821,9/26/2018,,0,Active,1.778082192,OK,OK
+715,Engineering,Senior,Johannesburg,Male,Master,3,3820,9/29/2018,,0,Active,5.260273973,OK,OK
+716,Customer Support,Junior,Accra,Female,Bachelor,3,3806,9/29/2018,,0,Active,9.64109589,OK,OK
+717,Marketing,Senior,Accra,Male,Diploma,3,3803,9/29/2018,,0,Active,4.389041096,OK,OK
+718,Customer Support,Junior,Accra,Female,Bachelor,3,3799,10/1/2018,,0,Active,3.416438356,OK,OK
+719,Sales,Senior,Lagos,Male,Bachelor,3,3789,10/5/2018,,0,Active,4.421917808,OK,OK
+720,HR,Junior,Accra,Male,Bachelor,4,3782,10/5/2018,,0,Active,2.58630137,OK,OK
+721,Customer Support,Senior,Accra,Male,Master,4,3777,10/9/2018,,0,Active,1.898630137,OK,Missing Tenure
+722,Sales,Mid,Nairobi,Male,Diploma,2,3772,10/15/2018,,1,Voluntary,,Date Error,Missing Tenure
+723,Sales,Junior,Johannesburg,Male,Master,2,3754,10/16/2018,,1,Voluntary,,Date Error,OK
+724,HR,Junior,Accra,Male,Bachelor,4,3753,10/18/2018,,0,Active,6.819178082,OK,OK
+725,Operations,Junior,Lagos,Male,Bachelor,3,3753,10/22/2018,,0,Active,4.698630137,OK,OK
+726,Marketing,Mid,Johannesburg,Male,Diploma,3,3751,10/24/2018,,0,Active,2.183561644,OK,OK
+727,Sales,Junior,Accra,Female,Bachelor,3,3749,10/26/2018,,0,Active,6.868493151,OK,OK
+728,HR,Mid,Accra,Female,Diploma,2,3746,10/27/2018,9/16/2017,1,Voluntary,2.947945205,Date Error,OK
+729,Sales,Junior,Accra,Male,PhD,3,3741,10/28/2018,,0,Active,8.043835616,OK,OK
+730,Sales,Junior,Lagos,Female,Master,3,3737,10/29/2018,,0,Active,9.789041096,OK,OK
+731,Sales,Senior,Accra,Female,Bachelor,3,3733,10/30/2018,12/31/2020,1,Voluntary,1.084931507,OK,OK
+732,Marketing,Junior,Johannesburg,Male,Bachelor,3,3731,10/30/2018,9/3/2018,1,Involuntary,2.38630137,Date Error,OK
+733,Finance,Manager,Lagos,Female,PhD,4,3727,11/2/2018,,0,Active,8.942465753,OK,OK
+734,Operations,Senior,Lagos,Male,Bachelor,3,3723,11/8/2018,,0,Active,5.953424658,OK,OK
+735,Engineering,Senior,Accra,Male,Diploma,2,3723,11/9/2018,,0,Active,6.646575342,OK,OK
+736,Marketing,Mid,Lagos,Male,Bachelor,3,3716,11/10/2018,,0,Active,6.865753425,OK,OK
+737,Engineering,Manager,Nairobi,Female,PhD,4,3711,11/10/2018,11/26/2024,1,Voluntary,6.991780822,OK,OK
+738,Marketing,Junior,Nairobi,Female,Diploma,4,3711,11/17/2018,,0,Active,4.394520548,OK,OK
+739,Engineering,Junior,Nairobi,Male,Bachelor,3,3709,11/20/2018,,0,Active,8.04109589,OK,OK
+740,Engineering,Junior,Lagos,Male,PhD,2,3709,11/23/2018,3/13/2024,1,Voluntary,3.693150685,OK,OK
+741,Operations,Senior,Johannesburg,Female,Diploma,4,3708,11/28/2018,11/18/2023,1,Involuntary,2.282191781,OK,Missing Tenure
+742,Engineering,Junior,Nairobi,Male,Diploma,4,3704,12/1/2018,,1,Voluntary,,Date Error,OK
+743,HR,Mid,Nairobi,Male,Bachelor,1,3702,12/2/2018,,0,Active,2.643835616,OK,OK
+744,Operations,Manager,Accra,Female,Master,3,3700,12/4/2018,,0,Active,6.652054795,OK,OK
+745,Engineering,Senior,Accra,Female,Bachelor,3,3687,12/4/2018,,0,Active,5.780821918,OK,OK
+746,Marketing,Mid,Accra,Female,PhD,4,3686,12/5/2018,,0,Active,3.42739726,OK,OK
+747,Engineering,Junior,Nairobi,Female,Master,3,3674,12/11/2018,,0,Active,2.421917808,OK,OK
+748,Operations,Senior,Lagos,Female,Diploma,3,3672,12/11/2018,,0,Active,4.895890411,OK,OK
+749,Marketing,Mid,Lagos,Male,PhD,5,3669,12/12/2018,,0,Active,8.208219178,OK,OK
+750,Finance,Junior,Johannesburg,Male,Bachelor,4,3668,12/12/2018,1/20/2023,1,Voluntary,2.597260274,OK,OK
+751,Sales,Junior,Johannesburg,Male,Bachelor,5,3664,12/12/2018,,0,Active,6.731506849,OK,OK
+752,Customer Support,Manager,Johannesburg,Female,Bachelor,5,3655,12/13/2018,5/15/2020,1,Voluntary,5.890410959,OK,OK
+753,Finance,Senior,Accra,Female,Bachelor,1,3645,12/14/2018,,0,Active,1.019178082,OK,Missing Tenure
+754,Engineering,Senior,Nairobi,Male,Diploma,3,3645,12/16/2018,,1,Voluntary,,Date Error,OK
+755,Sales,Senior,Accra,Female,Diploma,3,3638,12/16/2018,,0,Active,2.394520548,OK,OK
+756,HR,Mid,Accra,Male,Bachelor,4,3635,12/18/2018,2/23/2017,1,Voluntary,0.830136986,Date Error,OK
+757,Finance,Mid,Accra,Male,Master,3,3634,12/19/2018,,0,Active,2.136986301,OK,OK
+758,Operations,Mid,Accra,Female,Bachelor,5,3613,12/24/2018,,0,Active,7.589041096,OK,OK
+759,Marketing,Junior,Lagos,Male,PhD,3,3611,1/1/2019,1/3/2024,1,Voluntary,5.62739726,OK,OK
+760,HR,Mid,Nairobi,Female,Bachelor,4,3611,1/4/2019,,0,Active,6.61369863,OK,OK
+761,Sales,Senior,Accra,Male,Bachelor,2,3611,1/9/2019,,0,Active,5.597260274,OK,OK
+762,Engineering,Mid,Nairobi,Female,Diploma,2,3608,1/9/2019,6/22/2020,1,Voluntary,0.843835616,OK,OK
+763,Engineering,Manager,Lagos,Female,Diploma,4,3605,1/18/2019,10/6/2022,1,Involuntary,8.123287671,OK,OK
+764,HR,Mid,Accra,Male,Bachelor,1,3602,1/20/2019,,0,Active,9.065753425,OK,OK
+765,Sales,Mid,Lagos,Female,Master,4,3596,1/20/2019,,0,Active,2.868493151,OK,OK
+766,Operations,Mid,Accra,Male,PhD,1,3594,1/21/2019,,0,Active,3.523287671,OK,OK
+767,HR,Mid,Lagos,Male,PhD,4,3592,1/26/2019,,0,Active,8.835616438,OK,Missing Tenure
+768,Marketing,Senior,Lagos,Male,Bachelor,3,3583,1/28/2019,,1,Voluntary,,Date Error,OK
+769,Engineering,Junior,Accra,Female,Master,3,3582,1/30/2019,,0,Active,3.18630137,OK,OK
+770,Marketing,Mid,Accra,Male,Bachelor,4,3579,1/30/2019,,0,Active,5.709589041,OK,OK
+771,Sales,Junior,Lagos,Male,Diploma,3,3575,2/1/2019,8/24/2022,1,Involuntary,4.076712329,OK,OK
+772,Marketing,Mid,Johannesburg,Male,Master,2,3573,2/3/2019,,0,Active,10.9369863,OK,OK
+773,Sales,Mid,Accra,Male,Bachelor,2,3572,2/5/2019,,0,Active,3.893150685,OK,OK
+774,Engineering,Mid,Nairobi,Female,Diploma,3,3566,2/11/2019,,0,Active,2.057534247,OK,OK
+775,HR,Manager,Nairobi,Male,Bachelor,3,3565,2/12/2019,,0,Active,7.649315068,OK,OK
+776,Sales,Mid,Johannesburg,Male,Bachelor,4,3563,2/15/2019,,0,Active,10.77808219,OK,OK
+777,Engineering,Senior,Nairobi,Male,Master,3,3555,2/17/2019,,0,Active,5.926027397,OK,OK
+778,Finance,Mid,Lagos,Male,Bachelor,3,3554,2/19/2019,,0,Active,2.512328767,OK,OK
+779,Finance,Mid,Nairobi,Female,PhD,3,3553,2/20/2019,,0,Active,4.123287671,OK,OK
+780,Finance,Junior,Johannesburg,Male,Diploma,1,3539,2/20/2019,,0,Active,7.934246575,OK,OK
+781,Finance,Junior,Lagos,Female,Bachelor,3,3531,2/20/2019,,0,Active,7.684931507,OK,OK
+782,Operations,Mid,Accra,Male,Bachelor,5,3531,2/21/2019,,0,Active,10.97808219,OK,OK
+783,Engineering,Mid,Accra,Male,Bachelor,4,3528,2/21/2019,,0,Active,8.235616438,OK,OK
+784,Engineering,Junior,Nairobi,Female,Bachelor,3,3525,3/1/2019,,0,Active,2.512328767,OK,OK
+785,Sales,Junior,Nairobi,Male,Master,3,3515,3/4/2019,,0,Active,6.219178082,OK,OK
+786,Marketing,Junior,Accra,Female,Master,4,3512,3/5/2019,,0,Active,2.490410959,OK,OK
+787,Operations,Manager,Lagos,Female,PhD,3,3498,3/7/2019,,0,Active,5.868493151,OK,Missing Tenure
+788,Engineering,Junior,Lagos,Male,Master,1,3496,3/8/2019,,1,Voluntary,,Date Error,OK
+789,Operations,Mid,Accra,Male,Master,2,3495,3/13/2019,,0,Active,7.4,OK,OK
+790,Customer Support,Junior,Johannesburg,Female,Bachelor,3,3481,3/13/2019,8/23/2019,1,Voluntary,1.854794521,OK,Missing Tenure
+791,Sales,Mid,Accra,Male,Master,5,3477,3/20/2019,,1,Involuntary,,Date Error,OK
+792,Operations,Junior,Accra,Male,Bachelor,4,3470,3/24/2019,,0,Active,2.895890411,OK,OK
+793,Operations,Junior,Lagos,Male,Bachelor,2,3467,3/24/2019,,0,Active,10.51780822,OK,OK
+794,Finance,Mid,Nairobi,Male,Bachelor,2,3458,3/24/2019,6/27/2018,1,Voluntary,2.306849315,Date Error,OK
+795,Sales,Junior,Accra,Female,Bachelor,4,3458,3/24/2019,,0,Active,2.287671233,OK,OK
+796,Marketing,Junior,Nairobi,Male,Bachelor,4,3448,3/25/2019,7/16/2019,1,Voluntary,1.520547945,OK,OK
+797,Customer Support,Junior,Lagos,Male,PhD,3,3438,4/1/2019,,0,Active,2.536986301,OK,OK
+798,Operations,Junior,Accra,Female,Bachelor,3,3437,4/1/2019,,0,Active,2.197260274,OK,OK
+799,Finance,Junior,Accra,Male,Diploma,1,3431,4/2/2019,,0,Active,5.463013699,OK,OK
+800,Customer Support,Junior,Lagos,Male,Bachelor,4,3430,4/3/2019,,0,Active,1.22739726,OK,OK
+801,Finance,Senior,Accra,Female,Diploma,4,3427,4/4/2019,,0,Active,2.194520548,OK,OK
+802,Sales,Mid,Johannesburg,Male,Diploma,3,3426,4/6/2019,,0,Active,4.191780822,OK,OK
+803,Operations,Mid,Nairobi,Female,Bachelor,4,3423,4/13/2019,9/30/2017,1,Voluntary,1.320547945,Date Error,Missing Tenure
+804,Operations,Junior,Johannesburg,Female,Bachelor,3,3421,4/15/2019,,1,Voluntary,,Date Error,OK
+805,Engineering,Manager,Accra,Male,Bachelor,1,3421,4/16/2019,,0,Active,1.728767123,OK,OK
+806,HR,Mid,Johannesburg,Male,Master,3,3417,4/18/2019,5/31/2023,1,Voluntary,6.15890411,OK,OK
+807,Customer Support,Junior,Lagos,Male,Master,2,3411,4/19/2019,3/21/2019,1,Voluntary,0.630136986,Date Error,Missing Tenure
+808,Customer Support,Mid,Accra,Male,Bachelor,3,3392,4/20/2019,,1,Voluntary,,Date Error,OK
+809,Engineering,Junior,Accra,Female,Bachelor,3,3390,4/23/2019,,0,Active,6.846575342,OK,OK
+810,Sales,Junior,Accra,Female,Bachelor,3,3389,4/25/2019,2/13/2023,1,Voluntary,2.232876712,OK,OK
+811,Customer Support,Mid,Nairobi,Male,Master,3,3386,4/27/2019,,0,Active,3.446575342,OK,OK
+812,Marketing,Senior,Lagos,Female,Diploma,3,3374,5/6/2019,,0,Active,4.345205479,OK,OK
+813,Sales,Mid,Accra,Female,Diploma,1,3373,5/7/2019,11/23/2023,1,Voluntary,3.430136986,OK,OK
+814,Customer Support,Senior,Lagos,Female,Master,3,3369,5/8/2019,,0,Active,8.898630137,OK,OK
+815,Marketing,Manager,Accra,Male,Bachelor,3,3366,5/12/2019,,0,Active,7.506849315,OK,OK
+816,Operations,Junior,Lagos,Male,Diploma,3,3361,5/18/2019,3/29/2020,1,Involuntary,3.619178082,OK,OK
+817,Operations,Junior,Lagos,Male,Bachelor,4,3360,5/19/2019,,0,Active,8.498630137,OK,Missing Tenure
+818,Engineering,Mid,Nairobi,Female,PhD,4,3360,5/25/2019,,1,Involuntary,,Date Error,OK
+819,Sales,Mid,Nairobi,Male,Master,4,3359,5/25/2019,,0,Active,6.128767123,OK,OK
+820,Engineering,Mid,Lagos,Female,Master,3,3356,5/25/2019,,0,Active,10.08219178,OK,OK
+821,HR,Manager,Lagos,Male,Bachelor,2,3353,5/30/2019,,0,Active,6.854794521,OK,OK
+822,Sales,Senior,Lagos,Male,Bachelor,4,3352,5/30/2019,6/9/2023,1,Voluntary,1.578082192,OK,OK
+823,Engineering,Mid,Nairobi,Male,PhD,3,3349,5/31/2019,,0,Active,1.194520548,OK,Missing Tenure
+824,Engineering,Junior,Accra,Female,PhD,3,3346,6/6/2019,,1,Voluntary,,Date Error,OK
+825,Operations,Senior,Accra,Male,Bachelor,2,3333,6/7/2019,5/19/2021,1,Voluntary,3.561643836,OK,OK
+826,Customer Support,Manager,Accra,Female,Master,4,3330,6/9/2019,,0,Active,8.504109589,OK,OK
+827,Engineering,Senior,Lagos,Male,Bachelor,2,3329,6/11/2019,,0,Active,5.931506849,OK,Missing Tenure
+828,Engineering,Junior,Lagos,Male,Bachelor,5,3326,6/11/2019,,1,Involuntary,,Date Error,OK
+829,HR,Mid,Nairobi,Male,Master,4,3324,6/12/2019,,0,Active,9.709589041,OK,OK
+830,Engineering,Junior,Accra,Male,Bachelor,3,3323,6/14/2019,,0,Active,7.046575342,OK,OK
+831,Engineering,Junior,Lagos,Male,PhD,4,3319,6/14/2019,5/20/2024,1,Involuntary,6.610958904,OK,OK
+832,Engineering,Junior,Nairobi,Male,Diploma,3,3317,6/14/2019,9/30/2024,1,Voluntary,6.690410959,OK,OK
+833,Sales,Mid,Nairobi,Male,Bachelor,4,3316,6/15/2019,,0,Active,1.216438356,OK,OK
+834,Sales,Senior,Lagos,Male,PhD,3,3315,6/16/2019,,0,Active,5.326027397,OK,OK
+835,Operations,Junior,Lagos,Female,PhD,4,3307,6/16/2019,,0,Active,2.819178082,OK,OK
+836,Engineering,Mid,Accra,Female,Diploma,3,3306,6/16/2019,,0,Active,3.202739726,OK,OK
+837,Customer Support,Mid,Johannesburg,Male,Bachelor,5,3301,6/20/2019,5/15/2022,1,Voluntary,6.180821918,OK,Missing Tenure
+838,Engineering,Mid,Accra,Female,Bachelor,3,3298,6/22/2019,,1,Voluntary,,Date Error,OK
+839,Operations,Junior,Johannesburg,Female,Diploma,3,3297,6/28/2019,,0,Active,7.594520548,OK,OK
+840,Finance,Mid,Nairobi,Male,PhD,4,3297,7/4/2019,12/24/2019,1,Voluntary,3.616438356,OK,OK
+841,Sales,Senior,Lagos,Female,PhD,4,3297,7/8/2019,4/19/2022,1,Voluntary,0.802739726,OK,OK
+842,Finance,Junior,Accra,Female,Diploma,3,3295,7/11/2019,,0,Active,7.8,OK,OK
+843,Sales,Junior,Lagos,Male,Diploma,2,3291,7/12/2019,,0,Active,1.432876712,OK,OK
+844,Customer Support,Junior,Lagos,Male,Diploma,3,3289,7/16/2019,12/21/2023,1,Voluntary,7.953424658,OK,OK
+845,Sales,Manager,Accra,Female,PhD,5,3275,7/18/2019,,0,Active,7.243835616,OK,OK
+846,Engineering,Senior,Nairobi,Male,Bachelor,4,3272,7/25/2019,,0,Active,2.084931507,OK,OK
+847,Sales,Senior,Johannesburg,Male,Bachelor,4,3269,7/28/2019,,0,Active,4.263013699,OK,OK
+848,Customer Support,Mid,Lagos,Male,Bachelor,1,3268,7/29/2019,,0,Active,8.320547945,OK,OK
+849,Operations,Mid,Nairobi,Male,Bachelor,3,3263,7/31/2019,,0,Active,4.224657534,OK,OK
+850,Operations,Junior,Accra,Female,Diploma,3,3257,8/1/2019,,0,Active,5.287671233,OK,Missing Tenure
+851,Sales,Mid,Lagos,Female,Bachelor,4,3255,8/12/2019,,1,Involuntary,,Date Error,OK
+852,HR,Manager,Accra,Female,PhD,1,3250,8/19/2019,,0,Active,8.238356164,OK,OK
+853,Sales,Mid,Lagos,Male,PhD,4,3248,8/19/2019,,0,Active,1.517808219,OK,OK
+854,Marketing,Senior,Johannesburg,Male,Master,3,3244,8/23/2019,,0,Active,3.473972603,OK,OK
+855,Sales,Senior,Nairobi,Male,Diploma,2,3243,8/23/2019,1/10/2021,1,Involuntary,1.205479452,OK,OK
+856,Sales,Junior,Accra,Male,Bachelor,3,3242,8/27/2019,8/9/2023,1,Voluntary,7.646575342,OK,OK
+857,Sales,Manager,Lagos,Male,Bachelor,3,3241,9/2/2019,,0,Active,6.057534247,OK,OK
+858,Operations,Junior,Lagos,Female,Bachelor,3,3237,9/2/2019,,0,Active,3.909589041,OK,OK
+859,Operations,Mid,Lagos,Female,PhD,2,3237,9/3/2019,,0,Active,6.97260274,OK,OK
+860,Sales,Junior,Nairobi,Male,Bachelor,2,3237,9/4/2019,6/7/2022,1,Voluntary,1.528767123,OK,OK
+861,HR,Junior,Nairobi,Female,Diploma,4,3236,9/5/2019,,0,Active,7.816438356,OK,Missing Tenure
+862,Engineering,Mid,Lagos,Male,PhD,2,3235,9/6/2019,,1,Voluntary,,Date Error,OK
+863,Operations,Junior,Lagos,Female,PhD,3,3232,9/6/2019,,0,Active,4.594520548,OK,OK
+864,Engineering,Mid,Accra,Female,Diploma,3,3231,9/12/2019,,0,Active,9.339726027,OK,Missing Tenure
+865,Engineering,Mid,Accra,Male,Bachelor,3,3226,9/15/2019,,1,Voluntary,,Date Error,OK
+866,Operations,Junior,Lagos,Female,Bachelor,4,3222,9/16/2019,,0,Active,4.073972603,OK,OK
+867,Sales,Junior,Lagos,Female,Bachelor,3,3220,9/18/2019,,0,Active,6.043835616,OK,Missing Tenure
+868,Sales,Mid,Nairobi,Male,Diploma,4,3216,9/20/2019,,1,Involuntary,,Date Error,Missing Tenure
+869,Marketing,Junior,Nairobi,Female,Bachelor,3,3211,9/20/2019,,1,Involuntary,,Date Error,OK
+870,Customer Support,Senior,Accra,Male,PhD,2,3211,9/21/2019,,0,Active,9.490410959,OK,OK
+871,Engineering,Mid,Lagos,Male,Bachelor,2,3210,9/23/2019,,0,Active,6.473972603,OK,OK
+872,Engineering,Senior,Accra,Male,Diploma,3,3206,9/25/2019,,0,Active,6.2,OK,OK
+873,Finance,Senior,Accra,Male,Bachelor,3,3204,9/25/2019,6/15/2015,1,Involuntary,1.328767123,Date Error,OK
+874,Engineering,Mid,Nairobi,Female,Bachelor,4,3202,9/26/2019,,0,Active,7.55890411,OK,OK
+875,Sales,Senior,Accra,Male,Master,3,3193,9/29/2019,,0,Active,8.073972603,OK,OK
+876,Sales,Junior,Lagos,Female,Bachelor,3,3192,9/30/2019,,0,Active,4.857534247,OK,OK
+877,Finance,Junior,Accra,Female,Bachelor,2,3188,10/2/2019,,0,Active,5.169863014,OK,OK
+878,Finance,Senior,Johannesburg,Male,Bachelor,3,3180,10/4/2019,,0,Active,9.523287671,OK,Missing Tenure
+879,Sales,Mid,Lagos,Female,Master,3,3176,10/5/2019,,1,Voluntary,,Date Error,OK
+880,Engineering,Senior,Accra,Male,Bachelor,3,3169,10/7/2019,,0,Active,7.032876712,OK,OK
+881,Engineering,Senior,Lagos,Male,Master,3,3164,10/11/2019,7/5/2023,1,Involuntary,3.709589041,OK,OK
+882,Finance,Senior,Nairobi,Male,Bachelor,2,3156,10/13/2019,,0,Active,3.975342466,OK,OK
+883,Sales,Manager,Johannesburg,Male,Bachelor,4,3149,10/14/2019,,0,Active,5.550684932,OK,Missing Tenure
+884,Sales,Mid,Accra,Male,Bachelor,4,3143,10/15/2019,,1,Voluntary,,Date Error,OK
+885,HR,Junior,Johannesburg,Female,PhD,3,3136,10/17/2019,,0,Active,8.509589041,OK,OK
+886,Sales,Mid,Johannesburg,Male,PhD,3,3133,10/20/2019,,0,Active,2.452054795,OK,OK
+887,Finance,Mid,Johannesburg,Male,Bachelor,5,3128,10/21/2019,4/28/2022,1,Voluntary,5.4,OK,OK
+888,Engineering,Mid,Lagos,Female,Bachelor,3,3118,10/27/2019,,0,Active,4.597260274,OK,OK
+889,Sales,Senior,Lagos,Female,Diploma,3,3115,10/27/2019,,0,Active,2.830136986,OK,OK
+890,Engineering,Senior,Lagos,Female,Bachelor,2,3113,10/28/2019,,0,Active,8.78630137,OK,OK
+891,Finance,Mid,Nairobi,Male,Bachelor,3,3112,10/28/2019,,0,Active,6.931506849,OK,OK
+892,Marketing,Junior,Lagos,Female,PhD,2,3110,11/2/2019,11/25/2019,1,Voluntary,0.673972603,OK,OK
+893,Marketing,Mid,Nairobi,Female,PhD,5,3109,11/5/2019,,0,Active,6.698630137,OK,OK
+894,Engineering,Junior,Lagos,Female,Bachelor,4,3108,11/9/2019,6/5/2017,1,Voluntary,1.054794521,Date Error,OK
+895,Finance,Manager,Nairobi,Female,Bachelor,4,3106,11/13/2019,,0,Active,4.35890411,OK,OK
+896,Sales,Junior,Nairobi,Male,Master,4,3101,11/13/2019,,0,Active,2.64109589,OK,OK
+897,Engineering,Junior,Accra,Male,Master,3,3098,11/14/2019,,0,Active,6.169863014,OK,Missing Tenure
+898,Marketing,Junior,Nairobi,Male,Diploma,3,3096,11/15/2019,,1,Voluntary,,Date Error,OK
+899,Sales,Mid,Lagos,Male,Bachelor,4,3094,11/22/2019,,0,Active,4.682191781,OK,OK
+900,Sales,Mid,Nairobi,Female,Bachelor,5,3088,12/1/2019,9/5/2021,1,Involuntary,6.095890411,OK,OK
+901,Sales,Junior,Lagos,Male,Bachelor,3,3081,12/4/2019,,0,Active,2.104109589,OK,Missing Tenure
+902,Sales,Junior,Lagos,Female,Bachelor,5,3079,12/5/2019,,1,Involuntary,,Date Error,OK
+903,Sales,Mid,Johannesburg,Female,Diploma,3,3071,12/5/2019,5/18/2020,1,Voluntary,2.430136986,OK,OK
+904,Operations,Junior,Accra,Male,Master,3,3055,12/6/2019,5/3/2019,1,Voluntary,3.42739726,Date Error,OK
+905,Engineering,Senior,Nairobi,Male,Bachelor,3,3054,12/11/2019,12/22/2021,1,Involuntary,2.564383562,OK,OK
+906,Marketing,Mid,Lagos,Female,Diploma,3,3028,12/11/2019,,0,Active,2.043835616,OK,Missing Tenure
+907,Marketing,Mid,Lagos,Female,Bachelor,1,3024,12/13/2019,,1,Voluntary,,Date Error,OK
+908,Engineering,Junior,Accra,Male,Master,3,3023,12/23/2019,,0,Active,4.18630137,OK,OK
+909,Engineering,Manager,Lagos,Male,Master,3,3022,12/23/2019,,0,Active,9.021917808,OK,OK
+910,Engineering,Mid,Accra,Male,Bachelor,3,3015,12/24/2019,,0,Active,10.22739726,OK,OK
+911,Operations,Senior,Accra,Female,Bachelor,3,2998,12/27/2019,,0,Active,5.82739726,OK,OK
+912,Engineering,Junior,Accra,Male,PhD,5,2997,12/29/2019,,0,Active,1.887671233,OK,OK
+913,Finance,Mid,Accra,Female,Bachelor,3,2989,1/1/2020,,0,Active,9.449315068,OK,OK
+914,Engineering,Junior,Johannesburg,Male,Bachelor,3,2982,1/4/2020,,0,Active,1.093150685,OK,OK
+915,Operations,Mid,Johannesburg,Male,Bachelor,2,2976,1/5/2020,,0,Active,3.098630137,OK,OK
+916,Engineering,Manager,Lagos,Male,Diploma,1,2963,1/13/2020,,0,Active,5.62739726,OK,OK
+917,Engineering,Mid,Nairobi,Male,Bachelor,4,2963,1/14/2020,7/29/2023,1,Voluntary,5.432876712,OK,OK
+918,Customer Support,Junior,Accra,Male,PhD,3,2962,1/18/2020,2/23/2022,1,Voluntary,6.789041096,OK,OK
+919,HR,Junior,Nairobi,Male,Bachelor,4,2961,1/25/2020,1/19/2020,1,Voluntary,0.8,Date Error,OK
+920,Sales,Mid,Nairobi,Male,Bachelor,2,2960,1/26/2020,,0,Active,9.079452055,OK,OK
+921,Marketing,Junior,Johannesburg,Male,PhD,3,2960,2/1/2020,,0,Active,7.293150685,OK,OK
+922,Operations,Junior,Lagos,Male,Diploma,3,2958,2/1/2020,8/8/2017,1,Voluntary,2.065753425,Date Error,OK
+923,Marketing,Senior,Nairobi,Female,Bachelor,3,2957,2/3/2020,9/30/2023,1,Involuntary,4.276712329,OK,OK
+924,HR,Mid,Accra,Male,Bachelor,1,2956,2/6/2020,5/9/2021,1,Voluntary,7.271232877,OK,OK
+925,Engineering,Junior,Johannesburg,Male,Bachelor,2,2955,2/6/2020,,0,Active,10.89315068,OK,OK
+926,Sales,Manager,Accra,Female,Diploma,3,2950,2/6/2020,,0,Active,5.75890411,OK,Missing Tenure
+927,Engineering,Junior,Lagos,Female,Bachelor,2,2949,2/7/2020,,1,Involuntary,,Date Error,OK
+928,Operations,Manager,Nairobi,Male,Master,5,2944,2/10/2020,,0,Active,1.679452055,OK,OK
+929,Finance,Junior,Nairobi,Female,Master,3,2940,2/12/2020,,0,Active,5.953424658,OK,OK
+930,Engineering,Manager,Accra,Female,Bachelor,2,2933,2/20/2020,5/23/2020,1,Voluntary,4.865753425,OK,OK
+931,Sales,Mid,Johannesburg,Female,Bachelor,2,2930,2/20/2020,,0,Active,4.660273973,OK,OK
+932,Marketing,Senior,Accra,Male,Diploma,3,2929,2/24/2020,,0,Active,7.073972603,OK,OK
+933,Customer Support,Manager,Lagos,Female,Bachelor,2,2924,2/24/2020,,0,Active,8.42739726,OK,Missing Tenure
+934,Operations,Junior,Accra,Male,Diploma,4,2922,2/25/2020,,1,Voluntary,,Date Error,OK
+935,Sales,Manager,Accra,Female,PhD,5,2919,2/27/2020,,0,Active,2.542465753,OK,OK
+936,Engineering,Mid,Lagos,Female,Bachelor,3,2916,3/1/2020,10/16/2024,1,Involuntary,7.043835616,OK,OK
+937,Sales,Mid,Lagos,Male,Bachelor,3,2915,3/11/2020,,0,Active,5.726027397,OK,OK
+938,Customer Support,Junior,Accra,Female,Master,1,2912,3/13/2020,,0,Active,6.526027397,OK,OK
+939,Sales,Mid,Accra,Male,Bachelor,3,2910,3/14/2020,,0,Active,5.298630137,OK,OK
+940,Operations,Junior,Lagos,Female,Bachelor,3,2904,3/18/2020,,0,Active,10.75890411,OK,OK
+941,Engineering,Mid,Nairobi,Male,Master,3,2904,3/19/2020,,0,Active,5.95890411,OK,OK
+942,Operations,Mid,Johannesburg,Male,Master,3,2899,3/21/2020,,0,Active,10.50410959,OK,OK
+943,Finance,Senior,Accra,Male,Master,4,2898,3/24/2020,,0,Active,9.016438356,OK,OK
+944,Marketing,Senior,Lagos,Female,Diploma,3,2886,3/24/2020,,0,Active,8.128767123,OK,OK
+945,Sales,Mid,Accra,Male,Bachelor,2,2886,3/27/2020,,0,Active,6.704109589,OK,OK
+946,Sales,Junior,Accra,Male,Master,4,2879,3/28/2020,11/15/2021,1,Involuntary,1.249315068,OK,OK
+947,Sales,Junior,Nairobi,Male,Diploma,3,2877,3/28/2020,,0,Active,8.731506849,OK,OK
+948,Marketing,Junior,Lagos,Female,Bachelor,4,2873,3/30/2020,,0,Active,1.142465753,OK,OK
+949,Marketing,Junior,Accra,Female,Master,2,2856,4/6/2020,,0,Active,10.06575342,OK,OK
+950,Operations,Junior,Accra,Male,Diploma,4,2854,4/6/2020,,0,Active,7.057534247,OK,OK
+951,Operations,Junior,Accra,Male,Master,4,2853,4/10/2020,,0,Active,7.668493151,OK,OK
+952,Finance,Manager,Nairobi,Male,Bachelor,2,2847,4/10/2020,,0,Active,5.18630137,OK,OK
+953,Sales,Mid,Johannesburg,Male,Bachelor,4,2845,4/11/2020,,0,Active,10.55342466,OK,Missing Tenure
+954,Customer Support,Junior,Accra,Male,Diploma,3,2843,4/11/2020,,1,Voluntary,,Date Error,OK
+955,Engineering,Mid,Accra,Female,Master,5,2842,4/15/2020,11/22/2020,1,Involuntary,6.175342466,OK,OK
+956,Engineering,Junior,Johannesburg,Male,Bachelor,2,2834,4/22/2020,8/27/2021,1,Voluntary,3.561643836,OK,OK
+957,Operations,Mid,Johannesburg,Male,Bachelor,3,2824,4/22/2020,,0,Active,7.635616438,OK,OK
+958,Sales,Mid,Lagos,Male,Master,3,2823,4/26/2020,,0,Active,3.416438356,OK,OK
+959,Sales,Mid,Accra,Female,Master,5,2822,4/26/2020,,0,Active,1.852054795,OK,OK
+960,HR,Mid,Accra,Female,PhD,3,2819,4/28/2020,,0,Active,7.484931507,OK,OK
+961,Sales,Manager,Lagos,Female,Bachelor,5,2814,5/1/2020,,0,Active,6.819178082,OK,OK
+962,Operations,Manager,Lagos,Male,Bachelor,5,2813,5/6/2020,,0,Active,6.054794521,OK,Missing Tenure
+963,Engineering,Mid,Accra,Male,PhD,3,2810,5/7/2020,,1,Involuntary,,Date Error,OK
+964,Engineering,Mid,Lagos,Male,Master,4,2804,5/7/2020,,0,Active,5.865753425,OK,OK
+965,Engineering,Mid,Accra,Male,Bachelor,5,2802,5/12/2020,,0,Active,6.216438356,OK,OK
+966,Engineering,Junior,Nairobi,Male,Diploma,3,2796,5/13/2020,,0,Active,5.778082192,OK,OK
+967,Finance,Mid,Accra,Female,Master,3,2796,5/16/2020,,0,Active,3.821917808,OK,Missing Tenure
+968,Engineering,Junior,Accra,Female,Bachelor,3,2793,5/22/2020,,1,Voluntary,,Date Error,OK
+969,Operations,Mid,Lagos,Female,Master,3,2791,5/26/2020,,0,Active,3.421917808,OK,OK
+970,Operations,Mid,Lagos,Male,Bachelor,1,2786,5/29/2020,,0,Active,7.350684932,OK,OK
+971,Finance,Junior,Johannesburg,Female,Bachelor,3,2786,5/30/2020,,0,Active,7.728767123,OK,OK
+972,Customer Support,Manager,Lagos,Male,Bachelor,3,2785,5/31/2020,,0,Active,4.219178082,OK,OK
+973,HR,Manager,Accra,Male,Diploma,3,2784,6/1/2020,,0,Active,8.906849315,OK,OK
+974,Sales,Senior,Nairobi,Female,Bachelor,2,2782,6/2/2020,12/11/2021,1,Voluntary,1.071232877,OK,OK
+975,Sales,Mid,Accra,Male,Bachelor,4,2780,6/5/2020,7/23/2016,1,Voluntary,2.284931507,Date Error,Missing Tenure
+976,Engineering,Senior,Johannesburg,Male,Bachelor,4,2778,6/6/2020,,1,Involuntary,,Date Error,OK
+977,Operations,Junior,Lagos,Male,Master,2,2777,6/8/2020,,0,Active,6.263013699,OK,OK
+978,Sales,Senior,Lagos,Female,Master,4,2772,6/13/2020,,0,Active,1.887671233,OK,OK
+979,Operations,Junior,Accra,Female,Master,4,2768,6/15/2020,,0,Active,5.750684932,OK,OK
+980,Operations,Senior,Lagos,Male,Diploma,5,2765,6/16/2020,1/12/2021,1,Involuntary,0.75890411,OK,OK
+981,Engineering,Junior,Nairobi,Female,Bachelor,1,2758,6/17/2020,,0,Active,7.252054795,OK,OK
+982,HR,Senior,Nairobi,Male,Bachelor,3,2757,6/19/2020,11/6/2024,1,Voluntary,1.75890411,OK,OK
+983,Sales,Manager,Accra,Male,PhD,5,2756,6/19/2020,,0,Active,10.72328767,OK,OK
+984,Sales,Junior,Accra,Female,Master,5,2756,7/4/2020,,0,Active,9.109589041,OK,OK
+985,Finance,Mid,Nairobi,Female,Master,4,2756,7/5/2020,,0,Active,6.378082192,OK,OK
+986,Operations,Manager,Johannesburg,Female,Bachelor,4,2751,7/8/2020,,0,Active,7.419178082,OK,OK
+987,Finance,Mid,Accra,Male,Bachelor,2,2751,7/13/2020,,0,Active,2.131506849,OK,OK
+988,Engineering,Senior,Lagos,Female,Bachelor,3,2749,7/15/2020,,0,Active,1.443835616,OK,OK
+989,Engineering,Mid,Accra,Female,Diploma,3,2748,7/17/2020,3/3/2018,1,Voluntary,1.238356164,Date Error,OK
+990,Marketing,Mid,Johannesburg,Female,Diploma,2,2744,7/21/2020,,0,Active,8.087671233,OK,OK
+991,HR,Junior,Accra,Male,PhD,4,2744,7/30/2020,,0,Active,1.715068493,OK,OK
+992,Finance,Junior,Accra,Female,Bachelor,2,2742,8/1/2020,,0,Active,8.769863014,OK,OK
+993,Engineering,Senior,Nairobi,Female,Bachelor,3,2741,8/1/2020,,0,Active,4.794520548,OK,OK
+994,Operations,Mid,Accra,Male,Diploma,5,2741,8/4/2020,11/9/2024,1,Voluntary,6.654794521,OK,OK
+995,Engineering,Mid,Lagos,Male,PhD,2,2739,8/10/2020,,0,Active,1.38630137,OK,OK
+996,Sales,Mid,Lagos,Male,Bachelor,5,2739,8/10/2020,,0,Active,5.005479452,OK,OK
+997,Customer Support,Mid,Accra,Female,Master,5,2732,8/11/2020,10/7/2023,1,Involuntary,7.334246575,OK,OK
+998,Sales,Senior,Lagos,Female,PhD,3,2722,8/12/2020,,0,Active,2.517808219,OK,OK
+999,Customer Support,Manager,Lagos,Female,Bachelor,2,2717,8/13/2020,,0,Active,5.865753425,OK,OK
+1000,Engineering,Mid,Accra,Female,Bachelor,3,2717,8/14/2020,9/3/2019,1,Voluntary,0.542465753,Date Error,OK
+1001,Sales,Senior,Lagos,Male,Diploma,3,2703,8/14/2020,9/16/2020,1,Voluntary,4.550684932,OK,OK
+1002,Operations,Senior,Nairobi,Male,Bachelor,3,2693,8/16/2020,,0,Active,9.495890411,OK,OK
+1003,Marketing,Mid,Nairobi,Male,Master,3,2692,8/18/2020,,0,Active,8.698630137,OK,OK
+1004,HR,Manager,Accra,Male,Master,5,2691,8/24/2020,,0,Active,9.205479452,OK,OK
+1005,HR,Junior,Accra,Male,Bachelor,2,2690,8/29/2020,7/8/2023,1,Involuntary,1.619178082,OK,OK
+1006,Finance,Junior,Accra,Male,Bachelor,4,2689,8/30/2020,,0,Active,8.219178082,OK,OK
+1007,Finance,Senior,Lagos,Male,Bachelor,1,2689,9/3/2020,,0,Active,5.657534247,OK,Missing Tenure
+1008,Marketing,Mid,Lagos,Male,Diploma,3,2687,9/11/2020,,1,Voluntary,,Date Error,OK
+1009,Engineering,Senior,Nairobi,Male,Bachelor,5,2680,9/21/2020,10/27/2022,1,Voluntary,6.769863014,OK,OK
+1010,Operations,Manager,Accra,Male,Bachelor,3,2678,9/26/2020,,0,Active,4.717808219,OK,OK
+1011,Engineering,Junior,Accra,Male,Bachelor,2,2677,9/27/2020,,0,Active,8.887671233,OK,OK
+1012,Customer Support,Manager,Lagos,Female,Master,4,2675,9/28/2020,,0,Active,3.306849315,OK,OK
+1013,Customer Support,Mid,Nairobi,Female,Bachelor,4,2673,10/4/2020,2/11/2022,1,Voluntary,4.336986301,OK,OK
+1014,Sales,Mid,Accra,Female,Bachelor,4,2665,10/5/2020,,0,Active,2.290410959,OK,OK
+1015,Finance,Mid,Lagos,Male,Bachelor,3,2664,10/6/2020,,0,Active,9.115068493,OK,OK
+1016,Customer Support,Manager,Accra,Female,Master,3,2656,10/9/2020,,0,Active,3.153424658,OK,OK
+1017,Sales,Junior,Johannesburg,Female,Bachelor,5,2653,10/11/2020,,0,Active,9.04109589,OK,OK
+1018,Operations,Mid,Johannesburg,Female,Diploma,5,2653,10/12/2020,,0,Active,10.36986301,OK,OK
+1019,Customer Support,Senior,Accra,Male,Bachelor,3,2646,10/13/2020,,0,Active,5.334246575,OK,OK
+1020,Sales,Senior,Accra,Female,Master,4,2645,10/14/2020,,0,Active,2.523287671,OK,OK
+1021,Finance,Senior,Lagos,Female,Bachelor,3,2644,10/15/2020,,0,Active,7.161643836,OK,OK
+1022,Engineering,Junior,Accra,Female,Master,3,2643,10/20/2020,,0,Active,8.254794521,OK,OK
+1023,Customer Support,Junior,Nairobi,Female,PhD,2,2640,10/22/2020,11/1/2020,1,Voluntary,3.087671233,OK,OK
+1024,Customer Support,Junior,Nairobi,Male,Master,3,2632,10/23/2020,5/3/2023,1,Voluntary,5.501369863,OK,OK
+1025,Customer Support,Senior,Nairobi,Male,Bachelor,3,2623,10/23/2020,,0,Active,3.969863014,OK,OK
+1026,Operations,Junior,Nairobi,Male,Bachelor,1,2623,10/24/2020,,0,Active,5.353424658,OK,OK
+1027,Marketing,Junior,Lagos,Female,Diploma,3,2618,10/24/2020,,0,Active,4.728767123,OK,OK
+1028,Marketing,Manager,Accra,Male,PhD,4,2618,10/26/2020,,0,Active,3.432876712,OK,OK
+1029,Engineering,Junior,Nairobi,Male,Bachelor,4,2611,10/27/2020,,0,Active,3.290410959,OK,OK
+1030,Marketing,Manager,Lagos,Male,Diploma,3,2603,10/29/2020,,0,Active,9.046575342,OK,OK
+1031,Sales,Senior,Nairobi,Female,Master,5,2601,11/2/2020,,0,Active,6.728767123,OK,OK
+1032,Operations,Senior,Accra,Male,Bachelor,1,2586,11/10/2020,,0,Active,6.320547945,OK,Missing Tenure
+1033,Engineering,Junior,Accra,Female,Bachelor,3,2579,11/15/2020,,1,Voluntary,,Date Error,OK
+1034,Sales,Junior,Johannesburg,Female,Bachelor,4,2576,11/16/2020,11/28/2023,1,Involuntary,6.430136986,OK,OK
+1035,Sales,Senior,Accra,Male,Bachelor,3,2575,11/18/2020,,0,Active,5.076712329,OK,OK
+1036,Finance,Senior,Johannesburg,Male,Master,3,2567,11/18/2020,,0,Active,10.98630137,OK,OK
+1037,Engineering,Senior,Johannesburg,Male,Bachelor,2,2563,11/20/2020,,0,Active,9.37260274,OK,OK
+1038,Finance,Junior,Nairobi,Female,Bachelor,4,2562,11/22/2020,,0,Active,10.94794521,OK,OK
+1039,Sales,Senior,Nairobi,Male,Bachelor,3,2560,11/25/2020,,0,Active,5.556164384,OK,OK
+1040,Engineering,Senior,Lagos,Male,Master,4,2556,11/26/2020,,0,Active,4.742465753,OK,OK
+1041,Operations,Mid,Johannesburg,Male,Master,3,2556,11/27/2020,11/28/2023,1,Voluntary,5.506849315,OK,OK
+1042,HR,Senior,Accra,Female,Bachelor,4,2547,11/30/2020,,0,Active,5.326027397,OK,Missing Tenure
+1043,Engineering,Senior,Lagos,Female,Master,4,2546,11/30/2020,,1,Involuntary,,Date Error,OK
+1044,Finance,Mid,Lagos,Female,Diploma,4,2545,12/3/2020,,0,Active,7.983561644,OK,OK
+1045,Marketing,Junior,Lagos,Female,PhD,3,2541,12/6/2020,,0,Active,4.854794521,OK,OK
+1046,Finance,Mid,Lagos,Male,Bachelor,3,2523,12/6/2020,,0,Active,1.073972603,OK,OK
+1047,Engineering,Junior,Accra,Male,Master,4,2523,12/11/2020,,0,Active,3.276712329,OK,OK
+1048,Sales,Mid,Lagos,Male,Diploma,3,2522,12/17/2020,5/22/2016,1,Involuntary,2.139726027,Date Error,OK
+1049,Marketing,Mid,Johannesburg,Male,Bachelor,3,2522,12/20/2020,,0,Active,8.679452055,OK,OK
+1050,Sales,Junior,Accra,Male,Bachelor,2,2522,12/21/2020,,0,Active,5.578082192,OK,OK
+1051,Marketing,Junior,Johannesburg,Male,Master,5,2520,12/24/2020,,0,Active,7.975342466,OK,OK
+1052,Operations,Junior,Nairobi,Male,Bachelor,2,2515,12/28/2020,,0,Active,10.1890411,OK,OK
+1053,Customer Support,Senior,Nairobi,Female,PhD,3,2514,1/3/2021,,0,Active,4.589041096,OK,OK
+1054,HR,Manager,Lagos,Female,Bachelor,3,2514,1/3/2021,,0,Active,3.62739726,OK,OK
+1055,Customer Support,Junior,Nairobi,Female,Bachelor,3,2512,1/5/2021,3/23/2021,1,Voluntary,3.180821918,OK,OK
+1056,Engineering,Manager,Accra,Female,Diploma,4,2507,1/6/2021,,0,Active,7.435616438,OK,OK
+1057,HR,Mid,Nairobi,Male,Master,2,2505,1/7/2021,,0,Active,8.268493151,OK,OK
+1058,Engineering,Junior,Accra,Female,Bachelor,3,2498,1/8/2021,,0,Active,8.043835616,OK,OK
+1059,Operations,Junior,Johannesburg,Male,Master,4,2495,1/11/2021,,0,Active,2.909589041,OK,OK
+1060,Finance,Mid,Johannesburg,Female,PhD,4,2488,1/13/2021,,0,Active,3.01369863,OK,OK
+1061,Marketing,Senior,Accra,Male,PhD,2,2479,1/13/2021,1/15/2022,1,Involuntary,4.304109589,OK,OK
+1062,Customer Support,Senior,Accra,Female,Bachelor,4,2467,1/13/2021,,0,Active,3.336986301,OK,OK
+1063,HR,Junior,Nairobi,Male,Master,4,2465,1/16/2021,,0,Active,1.320547945,OK,OK
+1064,Engineering,Junior,Accra,Male,Master,4,2464,1/26/2021,,0,Active,4.463013699,OK,Missing Tenure
+1065,Engineering,Mid,Johannesburg,Female,Diploma,3,2462,1/26/2021,,1,Voluntary,,Date Error,OK
+1066,HR,Junior,Accra,Male,Bachelor,3,2461,1/28/2021,11/20/2018,1,Voluntary,2.764383562,Date Error,OK
+1067,Engineering,Junior,Accra,Female,Diploma,5,2459,1/30/2021,,0,Active,3.687671233,OK,OK
+1068,Sales,Junior,Johannesburg,Female,Bachelor,4,2458,2/4/2021,,0,Active,7.030136986,OK,OK
+1069,Engineering,Senior,Nairobi,Female,Diploma,3,2453,2/7/2021,,0,Active,6.402739726,OK,Missing Tenure
+1070,Engineering,Manager,Nairobi,Female,Bachelor,3,2453,2/10/2021,,1,Voluntary,,Date Error,OK
+1071,Engineering,Mid,Accra,Female,Bachelor,3,2446,2/10/2021,,0,Active,4.698630137,OK,OK
+1072,Engineering,Manager,Nairobi,Male,Bachelor,3,2443,2/12/2021,,0,Active,3.131506849,OK,OK
+1073,Sales,Junior,Lagos,Female,Bachelor,3,2442,2/13/2021,,0,Active,2.621917808,OK,OK
+1074,Sales,Mid,Lagos,Female,Diploma,3,2431,2/17/2021,,0,Active,5.936986301,OK,OK
+1075,Customer Support,Junior,Nairobi,Female,Bachelor,4,2429,2/19/2021,,0,Active,5.810958904,OK,OK
+1076,Engineering,Mid,Lagos,Male,Bachelor,2,2428,2/21/2021,8/20/2022,1,Involuntary,3.901369863,OK,OK
+1077,Engineering,Manager,Lagos,Female,Bachelor,4,2426,2/21/2021,,0,Active,1.643835616,OK,Missing Tenure
+1078,Finance,Mid,Accra,Female,Bachelor,2,2425,2/21/2021,,1,Voluntary,,Date Error,OK
+1079,Sales,Junior,Nairobi,Female,Bachelor,3,2421,2/24/2021,,0,Active,7.37260274,OK,OK
+1080,Customer Support,Mid,Accra,Male,Master,2,2421,2/26/2021,12/4/2021,1,Involuntary,6.246575342,OK,OK
+1081,HR,Junior,Nairobi,Male,Bachelor,3,2416,2/28/2021,4/13/2015,1,Voluntary,0.610958904,Date Error,OK
+1082,Sales,Manager,Accra,Male,Master,4,2413,3/4/2021,,0,Active,8.936986301,OK,OK
+1083,Engineering,Mid,Lagos,Female,Bachelor,4,2408,3/8/2021,7/20/2018,1,Voluntary,2.295890411,Date Error,OK
+1084,Marketing,Mid,Nairobi,Female,Bachelor,3,2403,3/13/2021,,0,Active,3.263013699,OK,OK
+1085,Customer Support,Mid,Accra,Male,Master,3,2400,3/15/2021,,0,Active,3.394520548,OK,OK
+1086,Operations,Mid,Accra,Male,Diploma,3,2399,3/16/2021,,0,Active,5.950684932,OK,OK
+1087,Finance,Junior,Accra,Male,Master,4,2397,3/18/2021,2/27/2024,1,Voluntary,6.230136986,OK,Missing Tenure
+1088,Sales,Senior,Lagos,Male,Bachelor,4,2391,3/22/2021,,1,Voluntary,,Date Error,OK
+1089,Customer Support,Junior,Nairobi,Female,Bachelor,3,2387,3/24/2021,,0,Active,7.610958904,OK,OK
+1090,Engineering,Senior,Accra,Female,Diploma,4,2383,3/28/2021,,0,Active,9.597260274,OK,OK
+1091,Customer Support,Senior,Nairobi,Male,Diploma,4,2382,3/31/2021,,0,Active,9.712328767,OK,OK
+1092,Finance,Senior,Accra,Male,PhD,1,2382,4/7/2021,11/13/2017,1,Involuntary,3.77260274,Date Error,OK
+1093,Operations,Mid,Lagos,Male,Master,3,2377,4/7/2021,,0,Active,2.106849315,OK,OK
+1094,Operations,Mid,Johannesburg,Female,Diploma,5,2374,4/10/2021,,0,Active,7.145205479,OK,OK
+1095,Engineering,Junior,Accra,Male,Bachelor,4,2369,4/17/2021,,0,Active,6.098630137,OK,OK
+1096,Sales,Senior,Lagos,Male,Bachelor,3,2369,4/19/2021,,0,Active,2.547945205,OK,OK
+1097,Engineering,Junior,Accra,Male,Master,3,2365,4/19/2021,,0,Active,6.257534247,OK,OK
+1098,Sales,Mid,Accra,Female,Diploma,3,2354,4/22/2021,,0,Active,8.736986301,OK,OK
+1099,HR,Junior,Accra,Female,Bachelor,3,2354,4/22/2021,,0,Active,2.463013699,OK,Missing Tenure
+1100,Engineering,Junior,Accra,Female,Master,4,2351,4/26/2021,,1,Voluntary,,Date Error,OK
+1101,Sales,Mid,Lagos,Male,Diploma,3,2346,4/28/2021,,0,Active,8.016438356,OK,Missing Tenure
+1102,Customer Support,Junior,Lagos,Male,Bachelor,4,2345,5/3/2021,,1,Voluntary,,Date Error,OK
+1103,Marketing,Senior,Lagos,Male,PhD,4,2340,5/5/2021,,0,Active,7.761643836,OK,OK
+1104,Customer Support,Junior,Accra,Female,Bachelor,2,2340,5/9/2021,,0,Active,6.180821918,OK,OK
+1105,Customer Support,Junior,Accra,Male,Bachelor,3,2339,5/17/2021,,0,Active,8.421917808,OK,Missing Tenure
+1106,Sales,Mid,Nairobi,Female,Diploma,3,2338,5/18/2021,,1,Voluntary,,Date Error,OK
+1107,Engineering,Junior,Johannesburg,Female,Diploma,4,2338,5/20/2021,10/18/2019,1,Voluntary,1.657534247,Date Error,OK
+1108,HR,Junior,Accra,Female,Bachelor,3,2321,5/20/2021,,0,Active,9.830136986,OK,OK
+1109,Finance,Senior,Johannesburg,Male,Master,3,2320,5/22/2021,,0,Active,5.468493151,OK,OK
+1110,Sales,Junior,Lagos,Male,Bachelor,4,2308,6/6/2021,,0,Active,8.657534247,OK,OK
+1111,Marketing,Senior,Lagos,Male,Master,3,2308,6/10/2021,,0,Active,1.254794521,OK,OK
+1112,Engineering,Junior,Lagos,Female,PhD,5,2305,6/10/2021,6/13/2016,1,Voluntary,1.821917808,Date Error,OK
+1113,Engineering,Junior,Accra,Female,Bachelor,5,2301,6/10/2021,,0,Active,4.38630137,OK,OK
+1114,Operations,Senior,Accra,Male,Bachelor,2,2300,6/15/2021,,0,Active,10.52328767,OK,Missing Tenure
+1115,Operations,Junior,Lagos,Male,Bachelor,3,2300,6/22/2021,,1,Voluntary,,Date Error,Missing Tenure
+1116,Operations,Junior,Accra,Female,PhD,5,2299,6/25/2021,,1,Voluntary,,Date Error,OK
+1117,Sales,Mid,Johannesburg,Female,Master,5,2292,6/28/2021,,0,Active,6.589041096,OK,OK
+1118,Marketing,Junior,Lagos,Male,Diploma,2,2292,6/30/2021,,0,Active,1.854794521,OK,OK
+1119,Engineering,Senior,Accra,Female,Master,1,2292,6/30/2021,,0,Active,2.030136986,OK,OK
+1120,Sales,Junior,Nairobi,Male,Bachelor,2,2285,7/5/2021,,0,Active,3.22739726,OK,OK
+1121,Marketing,Senior,Accra,Male,PhD,5,2284,7/7/2021,,0,Active,6.178082192,OK,Missing Tenure
+1122,Customer Support,Manager,Lagos,Female,Diploma,2,2281,7/10/2021,,1,Involuntary,,Date Error,OK
+1123,Marketing,Mid,Nairobi,Female,Bachelor,3,2279,7/13/2021,,0,Active,6.147945205,OK,OK
+1124,HR,Manager,Johannesburg,Female,Master,4,2263,7/18/2021,,0,Active,8.339726027,OK,OK
+1125,Finance,Mid,Nairobi,Male,Bachelor,1,2261,7/23/2021,,0,Active,10.78630137,OK,OK
+1126,Operations,Manager,Nairobi,Female,Bachelor,3,2260,7/25/2021,,0,Active,8.693150685,OK,OK
+1127,Sales,Junior,Nairobi,Male,Diploma,3,2260,7/25/2021,,0,Active,3.312328767,OK,OK
+1128,Engineering,Senior,Johannesburg,Male,Bachelor,4,2260,7/28/2021,,0,Active,7.676712329,OK,OK
+1129,Engineering,Mid,Accra,Female,Bachelor,3,2259,7/29/2021,,0,Active,9.317808219,OK,OK
+1130,Engineering,Mid,Accra,Male,PhD,4,2251,7/30/2021,,0,Active,2.076712329,OK,OK
+1131,Finance,Mid,Accra,Female,Bachelor,4,2245,8/1/2021,,0,Active,1.838356164,OK,OK
+1132,Operations,Senior,Accra,Female,Bachelor,3,2244,8/3/2021,,0,Active,2.391780822,OK,OK
+1133,Sales,Junior,Nairobi,Male,Master,1,2231,8/3/2021,,0,Active,2.567123288,OK,OK
+1134,Engineering,Junior,Lagos,Male,Diploma,3,2208,8/7/2021,,0,Active,4.808219178,OK,OK
+1135,Finance,Senior,Lagos,Male,Bachelor,3,2201,8/7/2021,,0,Active,4.605479452,OK,OK
+1136,Sales,Senior,Accra,Male,Master,4,2200,8/11/2021,,0,Active,9.791780822,OK,OK
+1137,Marketing,Manager,Nairobi,Female,Master,4,2196,8/12/2021,,0,Active,8.482191781,OK,OK
+1138,Operations,Senior,Accra,Female,Bachelor,3,2195,8/12/2021,,0,Active,3.887671233,OK,OK
+1139,Operations,Manager,Nairobi,Male,Master,3,2195,8/20/2021,11/30/2017,1,Voluntary,3.389041096,Date Error,OK
+1140,Operations,Senior,Lagos,Male,Diploma,3,2191,8/23/2021,,0,Active,6.454794521,OK,OK
+1141,Marketing,Junior,Accra,Female,PhD,4,2189,8/24/2021,,0,Active,10.21917808,OK,OK
+1142,Engineering,Junior,Accra,Female,Diploma,3,2186,8/27/2021,,0,Active,3.802739726,OK,OK
+1143,Finance,Senior,Accra,Male,Master,3,2184,8/30/2021,,0,Active,7.810958904,OK,Missing Tenure
+1144,Operations,Mid,Nairobi,Male,Bachelor,3,2178,9/1/2021,,1,Voluntary,,Date Error,OK
+1145,Engineering,Junior,Johannesburg,Female,PhD,3,2165,9/2/2021,,0,Active,7.090410959,OK,OK
+1146,Marketing,Mid,Lagos,Male,Master,3,2162,9/3/2021,,0,Active,5.983561644,OK,OK
+1147,HR,Manager,Accra,Male,Master,3,2160,9/4/2021,,0,Active,1.580821918,OK,OK
+1148,Finance,Mid,Lagos,Female,Bachelor,2,2154,9/7/2021,,0,Active,3.052054795,OK,OK
+1149,Marketing,Mid,Nairobi,Female,Bachelor,4,2153,9/9/2021,,0,Active,1.38630137,OK,OK
+1150,Marketing,Mid,Nairobi,Female,Bachelor,3,2152,9/9/2021,,0,Active,5.610958904,OK,OK
+1151,Finance,Junior,Accra,Female,Master,2,2151,9/10/2021,,0,Active,3.260273973,OK,OK
+1152,Marketing,Mid,Accra,Female,Diploma,3,2142,9/12/2021,,0,Active,8.556164384,OK,OK
+1153,Finance,Mid,Nairobi,Male,PhD,3,2137,9/16/2021,,0,Active,8.490410959,OK,OK
+1154,Finance,Junior,Lagos,Male,Master,3,2137,9/18/2021,3/15/2022,1,Voluntary,1.052054795,OK,OK
+1155,Finance,Senior,Accra,Male,Bachelor,3,2132,9/21/2021,,0,Active,5.435616438,OK,OK
+1156,HR,Mid,Accra,Male,Master,3,2124,9/22/2021,,0,Active,6.756164384,OK,OK
+1157,Sales,Senior,Lagos,Female,Bachelor,3,2118,9/22/2021,,0,Active,6.350684932,OK,OK
+1158,Marketing,Senior,Johannesburg,Female,Bachelor,3,2117,9/23/2021,,0,Active,5.364383562,OK,OK
+1159,Marketing,Junior,Johannesburg,Female,Bachelor,2,2114,9/24/2021,9/3/2020,1,Voluntary,1.950684932,Date Error,OK
+1160,Sales,Mid,Lagos,Female,Bachelor,4,2112,9/28/2021,,0,Active,2.695890411,OK,OK
+1161,Marketing,Mid,Lagos,Male,Master,3,2104,9/29/2021,6/28/2024,1,Voluntary,3.956164384,OK,OK
+1162,Sales,Manager,Accra,Male,Bachelor,3,2103,10/3/2021,,0,Active,3.030136986,OK,OK
+1163,Engineering,Junior,Lagos,Female,Bachelor,1,2101,10/5/2021,2/9/2024,1,Involuntary,4.915068493,OK,OK
+1164,HR,Senior,Lagos,Female,Master,3,2098,10/5/2021,7/13/2020,1,Voluntary,1.605479452,Date Error,OK
+1165,Sales,Mid,Lagos,Female,Master,3,2097,10/6/2021,,0,Active,10.15616438,OK,OK
+1166,Marketing,Junior,Lagos,Female,Diploma,3,2096,10/6/2021,,0,Active,3.391780822,OK,OK
+1167,Marketing,Junior,Accra,Female,Master,4,2095,10/10/2021,5/15/2021,1,Voluntary,4.284931507,Date Error,OK
+1168,Operations,Mid,Accra,Female,Bachelor,2,2087,10/11/2021,,0,Active,10.08219178,OK,OK
+1169,Sales,Senior,Accra,Male,Bachelor,3,2086,10/12/2021,,0,Active,2.052054795,OK,OK
+1170,Engineering,Junior,Accra,Female,Bachelor,4,2085,10/12/2021,,0,Active,4.578082192,OK,OK
+1171,Finance,Mid,Accra,Female,Bachelor,5,2078,10/13/2021,,0,Active,1.378082192,OK,OK
+1172,Customer Support,Mid,Johannesburg,Male,Master,2,2064,10/20/2021,,0,Active,10.02739726,OK,OK
+1173,Finance,Senior,Lagos,Female,Bachelor,3,2061,10/23/2021,,0,Active,1.58630137,OK,OK
+1174,Engineering,Junior,Lagos,Male,Master,3,2060,10/25/2021,,0,Active,4.936986301,OK,OK
+1175,Finance,Manager,Johannesburg,Female,Diploma,2,2052,10/26/2021,,0,Active,7.797260274,OK,Missing Tenure
+1176,Operations,Junior,Johannesburg,Male,Bachelor,3,2049,10/28/2021,,1,Voluntary,,Date Error,OK
+1177,HR,Mid,Lagos,Female,PhD,2,2041,10/28/2021,,0,Active,8.906849315,OK,Missing Tenure
+1178,Sales,Junior,Nairobi,Male,Master,4,2041,10/29/2021,,1,Voluntary,,Date Error,OK
+1179,HR,Junior,Accra,Female,Bachelor,3,2038,10/30/2021,4/26/2021,1,Voluntary,1.597260274,Date Error,OK
+1180,Operations,Mid,Accra,Male,Bachelor,2,2038,11/1/2021,12/28/2022,1,Voluntary,8.443835616,OK,Missing Tenure
+1181,Customer Support,Junior,Lagos,Male,Bachelor,1,2034,11/3/2021,,1,Involuntary,,Date Error,OK
+1182,Engineering,Senior,Nairobi,Male,Bachelor,4,2026,11/6/2021,,0,Active,1.926027397,OK,Missing Tenure
+1183,Finance,Junior,Nairobi,Female,Master,2,2026,11/6/2021,,1,Voluntary,,Date Error,OK
+1184,Customer Support,Mid,Accra,Male,Master,3,2026,11/7/2021,,0,Active,9.739726027,OK,OK
+1185,Sales,Junior,Accra,Male,Bachelor,3,2026,11/10/2021,,0,Active,9.780821918,OK,OK
+1186,Customer Support,Junior,Lagos,Female,PhD,3,2011,11/11/2021,11/26/2023,1,Involuntary,7.408219178,OK,OK
+1187,Finance,Junior,Accra,Male,Bachelor,3,2009,11/15/2021,,0,Active,8.824657534,OK,OK
+1188,Sales,Mid,Lagos,Female,Bachelor,2,2004,11/24/2021,4/7/2017,1,Voluntary,1.093150685,Date Error,OK
+1189,Engineering,Mid,Nairobi,Male,Bachelor,3,2002,11/24/2021,4/23/2023,1,Voluntary,8.117808219,OK,OK
+1190,Finance,Mid,Nairobi,Female,Bachelor,2,1998,11/24/2021,,0,Active,5.75890411,OK,OK
+1191,Sales,Mid,Nairobi,Male,Bachelor,3,1994,11/24/2021,4/23/2024,1,Voluntary,5.457534247,OK,OK
+1192,Operations,Mid,Johannesburg,Male,Bachelor,4,1993,11/26/2021,,0,Active,9.556164384,OK,OK
+1193,Engineering,Junior,Lagos,Female,Bachelor,3,1991,11/26/2021,,0,Active,9.463013699,OK,OK
+1194,Finance,Mid,Nairobi,Female,Diploma,1,1991,11/27/2021,,0,Active,6.569863014,OK,OK
+1195,Sales,Manager,Lagos,Female,Master,3,1989,11/27/2021,,0,Active,7.457534247,OK,OK
+1196,Marketing,Mid,Accra,Male,Bachelor,3,1988,12/2/2021,,0,Active,1.416438356,OK,OK
+1197,Customer Support,Senior,Accra,Male,Diploma,5,1983,12/4/2021,,0,Active,3.010958904,OK,OK
+1198,Customer Support,Junior,Accra,Male,Master,3,1981,12/6/2021,,0,Active,10.42739726,OK,OK
+1199,HR,Senior,Lagos,Female,PhD,3,1980,12/10/2021,1/20/2023,1,Voluntary,6.460273973,OK,OK
+1200,Sales,Senior,Lagos,Male,PhD,3,1976,12/12/2021,,0,Active,7.920547945,OK,OK
+1201,HR,Mid,Nairobi,Male,Bachelor,5,1975,12/12/2021,,0,Active,10.48493151,OK,OK
+1202,Sales,Manager,Accra,Male,Diploma,4,1970,12/13/2021,,0,Active,7.164383562,OK,Missing Tenure
+1203,Sales,Junior,Accra,Female,Bachelor,3,1959,12/14/2021,,1,Voluntary,,Date Error,OK
+1204,Engineering,Junior,Johannesburg,Male,Diploma,3,1957,12/17/2021,9/17/2023,1,Voluntary,6.690410959,OK,OK
+1205,Operations,Senior,Accra,Female,PhD,3,1950,12/18/2021,,0,Active,9.079452055,OK,OK
+1206,HR,Senior,Lagos,Male,Bachelor,3,1949,12/21/2021,,0,Active,9.506849315,OK,Missing Tenure
+1207,Finance,Junior,Lagos,Female,Bachelor,4,1943,12/22/2021,,1,Involuntary,,Date Error,OK
+1208,Engineering,Junior,Lagos,Male,Bachelor,3,1940,12/27/2021,,0,Active,5.909589041,OK,OK
+1209,Engineering,Junior,Accra,Female,Bachelor,2,1933,12/28/2021,,0,Active,10.5890411,OK,OK
+1210,Customer Support,Junior,Accra,Female,Master,4,1932,12/28/2021,,0,Active,6.446575342,OK,OK
+1211,Engineering,Senior,Accra,Male,Bachelor,4,1928,12/29/2021,,0,Active,9.446575342,OK,OK
+1212,Engineering,Mid,Lagos,Female,Diploma,3,1924,1/1/2022,9/26/2024,1,Voluntary,5.854794521,OK,OK
+1213,Sales,Junior,Lagos,Male,Bachelor,4,1919,1/4/2022,,0,Active,4.742465753,OK,OK
+1214,HR,Mid,Accra,Female,Bachelor,3,1918,1/4/2022,,0,Active,4.375342466,OK,OK
+1215,Finance,Junior,Lagos,Female,Diploma,4,1904,1/6/2022,,0,Active,8.805479452,OK,OK
+1216,Engineering,Junior,Nairobi,Male,Bachelor,4,1899,1/12/2022,1/5/2020,1,Voluntary,3.82739726,Date Error,OK
+1217,Sales,Mid,Accra,Male,Bachelor,3,1897,1/17/2022,9/4/2023,1,Voluntary,0.706849315,OK,OK
+1218,Finance,Manager,Lagos,Male,Master,4,1878,1/21/2022,1/4/2018,1,Involuntary,2.339726027,Date Error,OK
+1219,Finance,Senior,Nairobi,Male,PhD,4,1875,1/24/2022,,0,Active,1.635616438,OK,OK
+1220,Engineering,Junior,Accra,Male,PhD,3,1874,1/26/2022,,0,Active,3.515068493,OK,Missing Tenure
+1221,Customer Support,Manager,Accra,Male,PhD,3,1873,1/30/2022,,1,Involuntary,,Date Error,OK
+1222,Sales,Senior,Lagos,Male,Bachelor,4,1872,1/31/2022,,0,Active,6.060273973,OK,OK
+1223,Engineering,Senior,Johannesburg,Female,Diploma,3,1865,2/4/2022,9/21/2017,1,Voluntary,3.334246575,Date Error,OK
+1224,Customer Support,Mid,Nairobi,Male,Bachelor,3,1865,2/5/2022,,0,Active,2.076712329,OK,OK
+1225,Engineering,Mid,Lagos,Male,Master,4,1862,2/7/2022,,0,Active,10.26575342,OK,OK
+1226,Finance,Junior,Nairobi,Female,PhD,4,1861,2/9/2022,,0,Active,6.747945205,OK,Missing Tenure
+1227,Engineering,Junior,Lagos,Male,Master,3,1851,2/13/2022,,1,Involuntary,,Date Error,Missing Tenure
+1228,Engineering,Junior,Lagos,Male,Diploma,3,1851,2/18/2022,,1,Voluntary,,Date Error,OK
+1229,Customer Support,Junior,Lagos,Male,PhD,3,1849,2/19/2022,,0,Active,5.273972603,OK,OK
+1230,Engineering,Mid,Accra,Female,Bachelor,3,1849,2/20/2022,,0,Active,5.139726027,OK,OK
+1231,Marketing,Senior,Nairobi,Female,Diploma,2,1847,2/20/2022,10/15/2023,1,Involuntary,4.008219178,OK,OK
+1232,Engineering,Mid,Lagos,Male,Bachelor,4,1844,2/23/2022,,0,Active,4.268493151,OK,Missing Tenure
+1233,Sales,Junior,Lagos,Female,Diploma,3,1842,2/25/2022,,1,Voluntary,,Date Error,OK
+1234,Sales,Manager,Johannesburg,Male,Bachelor,3,1826,2/26/2022,,0,Active,9.753424658,OK,OK
+1235,Finance,Manager,Accra,Female,Bachelor,3,1822,3/5/2022,,0,Active,6.246575342,OK,OK
+1236,Engineering,Senior,Accra,Female,Bachelor,5,1819,3/9/2022,,0,Active,7.084931507,OK,OK
+1237,Marketing,Manager,Accra,Female,Bachelor,3,1818,3/11/2022,,0,Active,4.112328767,OK,OK
+1238,Operations,Mid,Nairobi,Male,Master,2,1812,3/16/2022,,0,Active,3.180821918,OK,OK
+1239,Customer Support,Manager,Nairobi,Male,Master,2,1810,3/24/2022,,0,Active,9.624657534,OK,OK
+1240,Sales,Junior,Accra,Male,Bachelor,3,1809,4/2/2022,,0,Active,6.326027397,OK,OK
+1241,Marketing,Mid,Nairobi,Female,Master,3,1808,4/4/2022,,0,Active,8.005479452,OK,OK
+1242,HR,Junior,Lagos,Female,PhD,3,1799,4/6/2022,,0,Active,10.78082192,OK,OK
+1243,HR,Junior,Nairobi,Female,Diploma,3,1798,4/10/2022,8/20/2015,1,Voluntary,1.473972603,Date Error,OK
+1244,Marketing,Junior,Lagos,Female,Bachelor,2,1796,4/10/2022,,0,Active,8.147945205,OK,OK
+1245,HR,Mid,Lagos,Male,Bachelor,3,1794,4/10/2022,,0,Active,6.950684932,OK,OK
+1246,Finance,Senior,Johannesburg,Female,Diploma,3,1791,4/11/2022,,0,Active,2.884931507,OK,OK
+1247,Sales,Mid,Accra,Female,Master,2,1786,4/12/2022,,0,Active,4.969863014,OK,OK
+1248,Sales,Junior,Accra,Female,Master,2,1783,4/16/2022,8/1/2022,1,Involuntary,4.882191781,OK,OK
+1249,Customer Support,Senior,Lagos,Female,Diploma,2,1781,4/18/2022,,0,Active,6.635616438,OK,OK
+1250,Finance,Mid,Johannesburg,Female,Master,2,1777,4/19/2022,6/4/2019,1,Voluntary,3.849315068,Date Error,OK
+1251,HR,Mid,Lagos,Male,Master,3,1772,4/20/2022,,0,Active,3.106849315,OK,OK
+1252,Operations,Senior,Accra,Female,PhD,2,1771,4/20/2022,,0,Active,9.147945205,OK,OK
+1253,Sales,Junior,Accra,Male,Bachelor,3,1771,4/21/2022,,0,Active,10.45479452,OK,OK
+1254,Sales,Junior,Lagos,Female,PhD,2,1770,4/22/2022,5/30/2024,1,Voluntary,7.323287671,OK,OK
+1255,Finance,Manager,Accra,Female,Bachelor,5,1769,4/23/2022,7/17/2023,1,Involuntary,0.797260274,OK,OK
+1256,Engineering,Junior,Nairobi,Male,Bachelor,4,1768,4/30/2022,,0,Active,10.13972603,OK,Missing Tenure
+1257,Sales,Mid,Johannesburg,Female,Diploma,3,1766,5/11/2022,,1,Involuntary,,Date Error,OK
+1258,Operations,Manager,Lagos,Male,Diploma,3,1763,5/12/2022,,0,Active,6.520547945,OK,Missing Tenure
+1259,Sales,Senior,Lagos,Male,Master,3,1757,5/13/2022,,1,Voluntary,,Date Error,OK
+1260,Operations,Junior,Lagos,Male,Bachelor,3,1745,5/14/2022,,0,Active,6.087671233,OK,OK
+1261,Engineering,Junior,Accra,Female,Bachelor,1,1733,5/18/2022,,0,Active,9.898630137,OK,OK
+1262,HR,Junior,Johannesburg,Female,Bachelor,4,1731,5/20/2022,,0,Active,2.698630137,OK,Missing Tenure
+1263,Engineering,Mid,Lagos,Female,Master,3,1730,5/22/2022,,1,Involuntary,,Date Error,Missing Tenure
+1264,Engineering,Mid,Lagos,Male,Diploma,4,1725,5/30/2022,,1,Voluntary,,Date Error,Missing Tenure
+1265,Sales,Junior,Nairobi,Female,Master,2,1725,6/2/2022,,1,Voluntary,,Date Error,OK
+1266,Sales,Manager,Lagos,Female,Diploma,4,1724,6/4/2022,4/23/2024,1,Involuntary,1.243835616,OK,OK
+1267,Engineering,Mid,Lagos,Male,Bachelor,4,1719,6/8/2022,,0,Active,1.161643836,OK,OK
+1268,Operations,Junior,Accra,Male,Bachelor,2,1715,6/9/2022,7/7/2023,1,Voluntary,0.726027397,OK,Missing Tenure
+1269,Operations,Mid,Nairobi,Male,Bachelor,3,1715,6/12/2022,,1,Voluntary,,Date Error,OK
+1270,Engineering,Senior,Johannesburg,Female,Bachelor,2,1714,6/12/2022,,0,Active,9.150684932,OK,OK
+1271,Finance,Junior,Lagos,Female,Bachelor,3,1711,6/13/2022,,0,Active,7.528767123,OK,OK
+1272,Marketing,Junior,Johannesburg,Female,PhD,3,1706,6/14/2022,,0,Active,5.832876712,OK,Missing Tenure
+1273,HR,Senior,Accra,Male,Master,3,1706,6/15/2022,,1,Involuntary,,Date Error,OK
+1274,Sales,Mid,Lagos,Female,Diploma,3,1700,6/16/2022,8/17/2024,1,Voluntary,6.394520548,OK,OK
+1275,Operations,Mid,Lagos,Male,Bachelor,5,1694,6/17/2022,4/27/2024,1,Voluntary,1.246575342,OK,OK
+1276,Sales,Mid,Lagos,Male,Master,2,1691,6/18/2022,6/7/2023,1,Voluntary,4.934246575,OK,OK
+1277,Engineering,Junior,Lagos,Female,Bachelor,5,1689,6/20/2022,3/29/2021,1,Voluntary,3.520547945,Date Error,Missing Tenure
+1278,Customer Support,Junior,Accra,Male,Diploma,3,1686,6/22/2022,,1,Voluntary,,Date Error,OK
+1279,Sales,Mid,Accra,Female,Master,4,1676,6/25/2022,,0,Active,8.723287671,OK,OK
+1280,Operations,Junior,Lagos,Male,Bachelor,3,1674,6/27/2022,,0,Active,4.868493151,OK,OK
+1281,Finance,Junior,Accra,Female,Bachelor,2,1673,6/27/2022,,0,Active,4.556164384,OK,OK
+1282,Finance,Senior,Nairobi,Male,Diploma,4,1672,6/27/2022,,0,Active,6.438356164,OK,OK
+1283,Operations,Manager,Accra,Female,Diploma,3,1671,6/29/2022,2/17/2020,1,Voluntary,0.843835616,Date Error,OK
+1284,Sales,Senior,Accra,Male,Bachelor,4,1669,6/29/2022,,0,Active,4.01369863,OK,OK
+1285,Engineering,Senior,Lagos,Male,Bachelor,3,1663,6/29/2022,,0,Active,10.24109589,OK,OK
+1286,Operations,Junior,Lagos,Female,Bachelor,3,1659,7/2/2022,,0,Active,3.550684932,OK,OK
+1287,Sales,Manager,Johannesburg,Male,Bachelor,3,1657,7/7/2022,,0,Active,6.04109589,OK,OK
+1288,Engineering,Junior,Lagos,Female,Bachelor,4,1654,7/7/2022,,0,Active,8.454794521,OK,OK
+1289,Sales,Manager,Accra,Female,PhD,2,1653,7/8/2022,,0,Active,1.391780822,OK,OK
+1290,Sales,Manager,Nairobi,Male,Master,4,1649,7/8/2022,,0,Active,3.44109589,OK,OK
+1291,Engineering,Senior,Lagos,Male,Master,4,1647,7/12/2022,,0,Active,9.345205479,OK,OK
+1292,Sales,Manager,Accra,Female,Diploma,2,1647,7/17/2022,,0,Active,9.687671233,OK,OK
+1293,Operations,Mid,Lagos,Female,Diploma,2,1646,7/21/2022,,0,Active,7.594520548,OK,OK
+1294,Finance,Junior,Johannesburg,Female,Bachelor,4,1632,7/24/2022,,0,Active,6.153424658,OK,OK
+1295,HR,Mid,Lagos,Male,Diploma,3,1630,7/31/2022,,0,Active,5.079452055,OK,OK
+1296,Sales,Mid,Accra,Female,PhD,3,1630,8/1/2022,,0,Active,2.747945205,OK,OK
+1297,Sales,Junior,Accra,Male,Diploma,2,1623,8/8/2022,,0,Active,10.48493151,OK,OK
+1298,Sales,Mid,Accra,Female,Bachelor,3,1622,8/11/2022,11/20/2022,1,Voluntary,1.123287671,OK,OK
+1299,Finance,Manager,Lagos,Female,Bachelor,2,1622,8/11/2022,,0,Active,3.706849315,OK,OK
+1300,Finance,Junior,Lagos,Male,Bachelor,3,1621,8/12/2022,,0,Active,5.482191781,OK,OK
+1301,Sales,Senior,Accra,Male,Diploma,4,1617,8/12/2022,,0,Active,3.98630137,OK,OK
+1302,Customer Support,Manager,Johannesburg,Male,Bachelor,3,1604,8/15/2022,,0,Active,1.142465753,OK,OK
+1303,Sales,Manager,Nairobi,Male,Bachelor,3,1603,8/16/2022,,0,Active,10.16986301,OK,OK
+1304,Operations,Manager,Lagos,Female,Master,5,1602,8/16/2022,,0,Active,9.553424658,OK,OK
+1305,Finance,Mid,Nairobi,Male,Diploma,4,1598,8/18/2022,,0,Active,10.67671233,OK,OK
+1306,Marketing,Manager,Accra,Male,PhD,4,1596,8/19/2022,,0,Active,3.621917808,OK,OK
+1307,Finance,Senior,Lagos,Male,Master,3,1592,8/19/2022,,0,Active,9.389041096,OK,Missing Tenure
+1308,HR,Junior,Lagos,Female,Bachelor,4,1585,8/20/2022,,1,Voluntary,,Date Error,OK
+1309,Engineering,Mid,Nairobi,Female,Master,1,1583,8/21/2022,,0,Active,3.016438356,OK,Missing Tenure
+1310,Marketing,Senior,Nairobi,Male,Diploma,2,1579,8/28/2022,,1,Voluntary,,Date Error,OK
+1311,Sales,Junior,Accra,Male,PhD,3,1579,8/30/2022,,0,Active,6.967123288,OK,OK
+1312,Marketing,Mid,Johannesburg,Female,Bachelor,3,1574,9/1/2022,,0,Active,2.131506849,OK,OK
+1313,Operations,Senior,Accra,Female,Bachelor,4,1566,9/5/2022,,0,Active,10.84931507,OK,Missing Tenure
+1314,Marketing,Junior,Johannesburg,Male,Bachelor,3,1565,9/6/2022,,1,Voluntary,,Date Error,OK
+1315,Engineering,Mid,Johannesburg,Male,Diploma,4,1563,9/15/2022,,0,Active,3.884931507,OK,OK
+1316,Finance,Senior,Accra,Male,PhD,4,1561,9/15/2022,,0,Active,6.698630137,OK,OK
+1317,Operations,Mid,Nairobi,Male,Diploma,3,1558,9/18/2022,,0,Active,7.884931507,OK,OK
+1318,HR,Junior,Accra,Female,Master,3,1549,9/19/2022,,0,Active,6.049315068,OK,OK
+1319,Sales,Junior,Lagos,Female,Bachelor,3,1543,9/20/2022,2/23/2020,1,Voluntary,1.202739726,Date Error,OK
+1320,Sales,Junior,Lagos,Male,PhD,3,1542,9/22/2022,,0,Active,2.246575342,OK,OK
+1321,Engineering,Manager,Lagos,Female,Bachelor,2,1541,9/29/2022,,0,Active,1.484931507,OK,OK
+1322,Sales,Junior,Johannesburg,Male,Bachelor,5,1539,10/1/2022,,0,Active,9.917808219,OK,OK
+1323,Marketing,Mid,Nairobi,Female,Bachelor,2,1539,10/4/2022,,0,Active,3.989041096,OK,OK
+1324,Sales,Junior,Lagos,Female,Master,2,1537,10/12/2022,,0,Active,3.194520548,OK,OK
+1325,Customer Support,Junior,Nairobi,Male,Diploma,4,1533,10/15/2022,,0,Active,4.035616438,OK,OK
+1326,Engineering,Senior,Johannesburg,Male,Bachelor,3,1532,10/22/2022,,0,Active,8.430136986,OK,OK
+1327,Sales,Senior,Accra,Female,Bachelor,4,1528,10/23/2022,5/2/2021,1,Involuntary,5.893150685,Date Error,OK
+1328,HR,Junior,Johannesburg,Male,Master,3,1522,10/23/2022,,0,Active,4.309589041,OK,OK
+1329,Finance,Mid,Accra,Male,Bachelor,3,1520,10/25/2022,9/12/2024,1,Voluntary,1.564383562,OK,OK
+1330,Operations,Junior,Nairobi,Male,Bachelor,3,1519,10/26/2022,,0,Active,6.147945205,OK,OK
+1331,Operations,Mid,Accra,Female,Bachelor,3,1515,10/27/2022,,0,Active,1.873972603,OK,OK
+1332,Finance,Senior,Accra,Male,Master,3,1513,10/31/2022,,0,Active,7.115068493,OK,OK
+1333,Engineering,Junior,Lagos,Female,PhD,4,1513,10/31/2022,9/2/2020,1,Voluntary,2.101369863,Date Error,OK
+1334,Customer Support,Junior,Lagos,Male,Bachelor,3,1512,11/1/2022,,0,Active,6.761643836,OK,OK
+1335,Customer Support,Mid,Lagos,Female,Bachelor,5,1511,11/6/2022,,0,Active,9.816438356,OK,OK
+1336,Finance,Manager,Accra,Female,Bachelor,1,1505,11/7/2022,,0,Active,8.709589041,OK,OK
+1337,Sales,Manager,Lagos,Female,Diploma,3,1500,11/7/2022,1/8/2019,1,Involuntary,4.038356164,Date Error,OK
+1338,Finance,Junior,Johannesburg,Male,Bachelor,3,1495,11/13/2022,,0,Active,7.852054795,OK,OK
+1339,Sales,Senior,Lagos,Female,Master,5,1494,11/13/2022,,0,Active,8.643835616,OK,OK
+1340,Sales,Mid,Accra,Female,Bachelor,1,1493,11/14/2022,,0,Active,3.663013699,OK,Missing Tenure
+1341,Engineering,Mid,Lagos,Male,PhD,3,1492,11/15/2022,,1,Involuntary,,Date Error,OK
+1342,Operations,Senior,Accra,Male,Bachelor,4,1491,11/15/2022,5/30/2024,1,Involuntary,5.895890411,OK,OK
+1343,Marketing,Manager,Nairobi,Male,Master,3,1490,11/15/2022,,0,Active,6.263013699,OK,OK
+1344,Finance,Manager,Nairobi,Male,Bachelor,4,1489,11/23/2022,,0,Active,7.597260274,OK,Missing Tenure
+1345,HR,Mid,Lagos,Female,Bachelor,1,1481,11/24/2022,,1,Voluntary,,Date Error,OK
+1346,Engineering,Junior,Lagos,Male,Bachelor,4,1480,11/25/2022,3/10/2024,1,Voluntary,7.687671233,OK,OK
+1347,Engineering,Senior,Nairobi,Male,Bachelor,5,1467,11/30/2022,,0,Active,3.778082192,OK,OK
+1348,Engineering,Junior,Lagos,Female,Bachelor,4,1467,12/2/2022,4/16/2022,1,Voluntary,3.367123288,Date Error,OK
+1349,Customer Support,Mid,Nairobi,Male,Master,3,1455,12/5/2022,,0,Active,5.030136986,OK,OK
+1350,Sales,Junior,Lagos,Male,PhD,1,1454,12/5/2022,,0,Active,3.334246575,OK,OK
+1351,Marketing,Mid,Nairobi,Male,Bachelor,5,1446,12/12/2022,,0,Active,9.953424658,OK,OK
+1352,Operations,Junior,Lagos,Female,Diploma,3,1444,12/14/2022,,0,Active,7.375342466,OK,OK
+1353,Engineering,Junior,Lagos,Female,Bachelor,1,1441,12/17/2022,6/6/2020,1,Voluntary,1.487671233,Date Error,OK
+1354,Finance,Manager,Johannesburg,Female,Bachelor,4,1438,12/17/2022,,0,Active,1.808219178,OK,OK
+1355,Operations,Junior,Lagos,Male,Diploma,3,1432,12/19/2022,,0,Active,6.665753425,OK,OK
+1356,Marketing,Mid,Lagos,Female,Master,2,1430,12/20/2022,4/27/2019,1,Voluntary,2,Date Error,OK
+1357,Marketing,Junior,Accra,Male,PhD,3,1428,12/22/2022,,0,Active,1.780821918,OK,OK
+1358,Engineering,Junior,Lagos,Male,PhD,2,1421,12/30/2022,,0,Active,6.764383562,OK,OK
+1359,Engineering,Junior,Lagos,Male,Bachelor,3,1421,12/30/2022,4/28/2023,1,Voluntary,8.263013699,OK,OK
+1360,Operations,Junior,Accra,Female,Master,3,1421,12/30/2022,,0,Active,1.336986301,OK,OK
+1361,Customer Support,Senior,Accra,Male,Master,3,1420,1/4/2023,,0,Active,3.361643836,OK,Missing Tenure
+1362,Sales,Junior,Lagos,Male,Bachelor,4,1416,1/5/2023,,1,Voluntary,,Date Error,OK
+1363,Finance,Manager,Nairobi,Male,Bachelor,4,1416,1/11/2023,,0,Active,9.082191781,OK,OK
+1364,Finance,Mid,Lagos,Male,Master,3,1406,1/13/2023,11/22/2023,1,Voluntary,1.753424658,OK,OK
+1365,HR,Mid,Accra,Female,Bachelor,1,1404,1/17/2023,,0,Active,6.246575342,OK,OK
+1366,Sales,Mid,Nairobi,Male,Bachelor,4,1400,1/21/2023,,0,Active,3.282191781,OK,OK
+1367,Finance,Mid,Accra,Female,Bachelor,3,1397,1/21/2023,,0,Active,2.284931507,OK,OK
+1368,Marketing,Senior,Lagos,Male,Bachelor,3,1396,1/25/2023,2/10/2022,1,Involuntary,5.750684932,Date Error,OK
+1369,Sales,Junior,Accra,Female,Bachelor,3,1394,1/26/2023,,0,Active,8.106849315,OK,OK
+1370,Engineering,Junior,Accra,Female,PhD,3,1392,1/26/2023,,0,Active,10.79452055,OK,OK
+1371,Customer Support,Manager,Accra,Male,Master,5,1375,1/26/2023,,0,Active,7.452054795,OK,OK
+1372,Sales,Manager,Lagos,Male,Bachelor,2,1375,1/28/2023,,0,Active,7.443835616,OK,OK
+1373,Marketing,Manager,Accra,Female,Diploma,4,1372,1/29/2023,,0,Active,9.164383562,OK,Missing Tenure
+1374,Operations,Mid,Lagos,Female,Bachelor,1,1370,2/3/2023,,1,Involuntary,,Date Error,Missing Tenure
+1375,Engineering,Senior,Lagos,Male,Diploma,5,1365,2/5/2023,,1,Voluntary,,Date Error,OK
+1376,Marketing,Mid,Lagos,Male,Diploma,2,1364,2/8/2023,,0,Active,10.45205479,OK,OK
+1377,Engineering,Mid,Lagos,Female,Bachelor,2,1361,2/9/2023,,0,Active,8.312328767,OK,OK
+1378,Operations,Junior,Nairobi,Female,Bachelor,3,1357,2/12/2023,,0,Active,5.597260274,OK,OK
+1379,Engineering,Mid,Accra,Male,Bachelor,3,1355,2/12/2023,,0,Active,10.96438356,OK,OK
+1380,Operations,Junior,Lagos,Male,Diploma,3,1346,2/15/2023,11/14/2015,1,Voluntary,0.567123288,Date Error,Missing Tenure
+1381,Sales,Junior,Accra,Male,Bachelor,3,1343,2/16/2023,,1,Voluntary,,Date Error,OK
+1382,Engineering,Senior,Accra,Female,Diploma,3,1343,2/17/2023,6/17/2021,1,Involuntary,4.679452055,Date Error,OK
+1383,Customer Support,Junior,Lagos,Male,PhD,1,1340,2/17/2023,,0,Active,10.43561644,OK,OK
+1384,Engineering,Junior,Lagos,Female,Bachelor,3,1333,2/19/2023,,0,Active,9.643835616,OK,OK
+1385,Finance,Junior,Johannesburg,Male,Master,4,1329,2/20/2023,,0,Active,1.493150685,OK,OK
+1386,Engineering,Manager,Lagos,Male,Bachelor,4,1327,2/21/2023,,0,Active,9.835616438,OK,OK
+1387,HR,Mid,Johannesburg,Female,Diploma,4,1313,2/24/2023,,0,Active,2.380821918,OK,Missing Tenure
+1388,Sales,Mid,Accra,Female,PhD,4,1308,2/25/2023,,1,Voluntary,,Date Error,OK
+1389,Customer Support,Senior,Accra,Female,Bachelor,3,1307,3/2/2023,7/6/2024,1,Voluntary,1.884931507,OK,OK
+1390,Engineering,Senior,Accra,Male,Bachelor,2,1304,3/2/2023,10/31/2023,1,Voluntary,6.194520548,OK,OK
+1391,Engineering,Junior,Accra,Female,Master,3,1300,3/3/2023,8/5/2023,1,Involuntary,3.830136986,OK,OK
+1392,Sales,Senior,Lagos,Female,Diploma,4,1299,3/7/2023,,0,Active,6.753424658,OK,OK
+1393,Sales,Senior,Lagos,Male,Master,5,1294,3/9/2023,,0,Active,7.635616438,OK,OK
+1394,Operations,Mid,Accra,Male,Bachelor,3,1293,3/13/2023,,0,Active,6.805479452,OK,OK
+1395,Engineering,Junior,Johannesburg,Male,Bachelor,1,1292,3/17/2023,,0,Active,2.224657534,OK,OK
+1396,Marketing,Senior,Nairobi,Male,Diploma,2,1292,3/23/2023,,0,Active,5.893150685,OK,OK
+1397,Engineering,Mid,Accra,Female,Diploma,3,1288,3/23/2023,,0,Active,2.676712329,OK,OK
+1398,Engineering,Junior,Accra,Male,Master,3,1276,3/24/2023,,0,Active,3.969863014,OK,OK
+1399,Finance,Mid,Accra,Female,Master,2,1275,3/26/2023,,0,Active,3.808219178,OK,OK
+1400,Finance,Junior,Accra,Male,Bachelor,5,1274,3/31/2023,,0,Active,5.868493151,OK,OK
+1401,Sales,Junior,Accra,Female,Diploma,3,1270,4/7/2023,,0,Active,8.547945205,OK,OK
+1402,Sales,Senior,Lagos,Female,Master,5,1269,4/7/2023,,0,Active,7.978082192,OK,OK
+1403,Sales,Junior,Accra,Male,Bachelor,4,1269,4/8/2023,,0,Active,3.698630137,OK,OK
+1404,HR,Mid,Lagos,Male,Bachelor,4,1267,4/11/2023,,0,Active,8.084931507,OK,OK
+1405,Finance,Mid,Johannesburg,Male,Bachelor,3,1264,4/11/2023,4/6/2022,1,Voluntary,4.139726027,Date Error,OK
+1406,Operations,Junior,Nairobi,Female,Bachelor,3,1260,4/16/2023,,0,Active,2.753424658,OK,OK
+1407,Marketing,Manager,Johannesburg,Male,Master,3,1256,4/21/2023,,0,Active,2.906849315,OK,OK
+1408,HR,Junior,Accra,Female,PhD,3,1254,4/26/2023,,0,Active,6.44109589,OK,OK
+1409,Operations,Junior,Lagos,Male,Diploma,3,1254,4/29/2023,2/17/2022,1,Voluntary,6.78630137,Date Error,OK
+1410,Marketing,Junior,Lagos,Male,Bachelor,5,1248,5/2/2023,,0,Active,4.032876712,OK,OK
+1411,Sales,Junior,Accra,Male,Bachelor,4,1245,5/4/2023,11/26/2023,1,Involuntary,1.443835616,OK,OK
+1412,Sales,Junior,Accra,Female,Bachelor,4,1237,5/7/2023,11/12/2019,1,Voluntary,4.210958904,Date Error,OK
+1413,Engineering,Senior,Nairobi,Female,Bachelor,4,1236,5/8/2023,10/12/2024,1,Voluntary,8.191780822,OK,OK
+1414,Sales,Manager,Lagos,Male,Master,3,1235,5/9/2023,,0,Active,10.20547945,OK,OK
+1415,Operations,Junior,Lagos,Male,Bachelor,2,1233,5/12/2023,,0,Active,7.8,OK,OK
+1416,Customer Support,Senior,Lagos,Male,Bachelor,3,1229,5/15/2023,,0,Active,1.301369863,OK,OK
+1417,Sales,Senior,Lagos,Female,Bachelor,3,1228,5/19/2023,,0,Active,5.479452055,OK,OK
+1418,Sales,Senior,Accra,Female,Bachelor,4,1228,5/21/2023,,0,Active,10.53972603,OK,OK
+1419,Engineering,Mid,Accra,Male,Diploma,3,1225,5/22/2023,3/6/2023,1,Involuntary,4.835616438,Date Error,OK
+1420,Customer Support,Junior,Accra,Female,Master,3,1224,5/24/2023,3/12/2018,1,Voluntary,2.742465753,Date Error,OK
+1421,Engineering,Junior,Accra,Male,Bachelor,3,1219,5/26/2023,,0,Active,7.876712329,OK,OK
+1422,Operations,Senior,Johannesburg,Female,Master,1,1215,5/27/2023,,0,Active,5.915068493,OK,Missing Tenure
+1423,Sales,Senior,Lagos,Male,Bachelor,3,1211,6/2/2023,,1,Voluntary,,Date Error,OK
+1424,Sales,Junior,Nairobi,Female,Bachelor,4,1209,6/4/2023,,0,Active,5.219178082,OK,OK
+1425,Customer Support,Mid,Accra,Male,Bachelor,2,1209,6/8/2023,,0,Active,5.01369863,OK,OK
+1426,Customer Support,Manager,Lagos,Female,Bachelor,3,1206,6/10/2023,,0,Active,4.178082192,OK,Missing Tenure
+1427,Sales,Senior,Accra,Female,Diploma,3,1206,6/11/2023,,1,Voluntary,,Date Error,OK
+1428,Customer Support,Manager,Accra,Female,Bachelor,2,1203,6/16/2023,,0,Active,10.49315068,OK,OK
+1429,Finance,Senior,Accra,Female,Master,2,1203,6/17/2023,2/23/2023,1,Involuntary,8.720547945,Date Error,OK
+1430,Marketing,Mid,Nairobi,Female,Master,5,1203,6/23/2023,,0,Active,3.564383562,OK,OK
+1431,Engineering,Mid,Nairobi,Male,Bachelor,3,1189,6/27/2023,,0,Active,5.610958904,OK,OK
+1432,Operations,Senior,Lagos,Male,Bachelor,3,1179,6/28/2023,,0,Active,10.3369863,OK,OK
+1433,Operations,Junior,Lagos,Male,Bachelor,2,1179,7/4/2023,,0,Active,3.054794521,OK,OK
+1434,Finance,Mid,Johannesburg,Female,Bachelor,4,1176,7/6/2023,,0,Active,2.81369863,OK,OK
+1435,Sales,Senior,Accra,Male,Diploma,3,1175,7/9/2023,,0,Active,3.350684932,OK,Missing Tenure
+1436,Sales,Junior,Accra,Female,Master,3,1175,7/13/2023,,1,Involuntary,,Date Error,OK
+1437,Engineering,Senior,Accra,Female,Bachelor,2,1171,7/13/2023,,0,Active,1.605479452,OK,Missing Tenure
+1438,Finance,Mid,Nairobi,Male,Bachelor,4,1171,7/17/2023,,1,Voluntary,,Date Error,Missing Tenure
+1439,Sales,Manager,Johannesburg,Male,Bachelor,3,1160,7/23/2023,,1,Voluntary,,Date Error,Missing Tenure
+1440,Finance,Junior,Accra,Male,Diploma,3,1148,7/24/2023,,1,Voluntary,,Date Error,OK
+1441,Customer Support,Junior,Johannesburg,Male,Bachelor,3,1148,7/26/2023,11/19/2023,1,Voluntary,4.928767123,OK,OK
+1442,Sales,Mid,Nairobi,Male,Diploma,3,1146,7/27/2023,,0,Active,8.010958904,OK,OK
+1443,Finance,Junior,Accra,Male,Diploma,4,1145,7/28/2023,,0,Active,7.347945205,OK,OK
+1444,Engineering,Senior,Lagos,Female,Master,5,1144,8/1/2023,11/17/2020,1,Voluntary,1.057534247,Date Error,OK
+1445,Marketing,Senior,Lagos,Female,Bachelor,3,1139,8/2/2023,4/22/2015,1,Voluntary,0.843835616,Date Error,Missing Tenure
+1446,Sales,Junior,Johannesburg,Male,Master,4,1136,8/3/2023,,1,Involuntary,,Date Error,OK
+1447,Finance,Mid,Accra,Male,Bachelor,4,1126,8/8/2023,,0,Active,2.706849315,OK,OK
+1448,Marketing,Mid,Nairobi,Male,Bachelor,5,1120,8/11/2023,,0,Active,4.906849315,OK,OK
+1449,Customer Support,Mid,Accra,Female,Master,3,1116,8/12/2023,,0,Active,6.484931507,OK,Missing Tenure
+1450,Finance,Manager,Nairobi,Female,Diploma,3,1116,8/14/2023,,1,Voluntary,,Date Error,OK
+1451,Operations,Senior,Lagos,Male,Bachelor,3,1114,8/14/2023,,0,Active,6.873972603,OK,OK
+1452,Finance,Senior,Lagos,Male,Bachelor,4,1108,8/16/2023,,0,Active,6.090410959,OK,OK
+1453,Marketing,Senior,Nairobi,Female,Bachelor,1,1108,8/17/2023,,0,Active,2.580821918,OK,OK
+1454,Operations,Mid,Nairobi,Female,Bachelor,3,1099,8/17/2023,,0,Active,4.58630137,OK,OK
+1455,Sales,Manager,Johannesburg,Male,Master,3,1095,8/19/2023,,0,Active,9.312328767,OK,Missing Tenure
+1456,Customer Support,Senior,Accra,Female,PhD,3,1095,8/27/2023,,1,Voluntary,,Date Error,OK
+1457,Finance,Senior,Nairobi,Male,Bachelor,3,1087,8/30/2023,6/20/2022,1,Voluntary,1.876712329,Date Error,OK
+1458,Finance,Senior,Accra,Male,Bachelor,4,1084,9/1/2023,,0,Active,5.079452055,OK,OK
+1459,Sales,Junior,Lagos,Female,Bachelor,3,1084,9/5/2023,,0,Active,10.03287671,OK,Missing Tenure
+1460,Finance,Senior,Lagos,Female,Bachelor,4,1075,9/7/2023,,1,Voluntary,,Date Error,OK
+1461,Engineering,Junior,Lagos,Male,Bachelor,3,1073,9/10/2023,,0,Active,4.197260274,OK,Missing Tenure
+1462,Finance,Junior,Lagos,Female,Bachelor,3,1071,9/11/2023,,1,Voluntary,,Date Error,OK
+1463,Sales,Junior,Johannesburg,Male,PhD,3,1070,9/14/2023,,0,Active,1.156164384,OK,OK
+1464,Finance,Manager,Accra,Female,Bachelor,1,1058,9/17/2023,,0,Active,6.41369863,OK,OK
+1465,Customer Support,Senior,Nairobi,Male,Bachelor,3,1048,9/20/2023,,0,Active,7.690410959,OK,Missing Tenure
+1466,Sales,Senior,Lagos,Female,Bachelor,4,1043,10/1/2023,,1,Voluntary,,Date Error,OK
+1467,Customer Support,Senior,Accra,Female,Master,3,1042,10/4/2023,,0,Active,6.805479452,OK,OK
+1468,Engineering,Mid,Accra,Male,Master,4,1033,10/9/2023,,0,Active,6.928767123,OK,OK
+1469,Marketing,Manager,Johannesburg,Female,Bachelor,3,1031,10/9/2023,,0,Active,2.279452055,OK,OK
+1470,HR,Mid,Johannesburg,Female,Bachelor,2,1011,10/11/2023,,0,Active,5.630136986,OK,OK
+1471,Operations,Mid,Johannesburg,Female,Master,2,1010,10/15/2023,,0,Active,1.947945205,OK,OK
+1472,HR,Junior,Johannesburg,Male,Diploma,3,1009,10/18/2023,,0,Active,7.279452055,OK,OK
+1473,Marketing,Senior,Accra,Female,Master,3,1006,10/19/2023,,0,Active,3.969863014,OK,OK
+1474,Engineering,Senior,Lagos,Female,Bachelor,2,995,10/23/2023,,0,Active,10.46575342,OK,OK
+1475,Engineering,Mid,Nairobi,Male,Bachelor,3,992,10/23/2023,,0,Active,6.112328767,OK,OK
+1476,Finance,Junior,Lagos,Female,Bachelor,3,989,10/23/2023,,0,Active,8.068493151,OK,OK
+1477,HR,Senior,Lagos,Male,Master,3,980,10/25/2023,,0,Active,7.816438356,OK,OK
+1478,HR,Junior,Lagos,Male,Diploma,4,979,11/2/2023,,0,Active,6.060273973,OK,OK
+1479,HR,Senior,Lagos,Male,Master,3,979,11/4/2023,,0,Active,1.147945205,OK,OK
+1480,Engineering,Manager,Lagos,Female,Bachelor,3,974,11/5/2023,,0,Active,6.797260274,OK,OK
+1481,Marketing,Mid,Accra,Female,Bachelor,4,971,11/6/2023,,0,Active,3.564383562,OK,OK
+1482,Sales,Junior,Lagos,Male,Diploma,3,970,11/7/2023,,0,Active,2.512328767,OK,OK
+1483,Operations,Senior,Lagos,Female,Bachelor,3,966,11/9/2023,,0,Active,2.369863014,OK,OK
+1484,Sales,Senior,Lagos,Male,Bachelor,3,963,11/10/2023,,0,Active,10.9260274,OK,OK
+1485,Engineering,Mid,Accra,Male,Bachelor,1,962,11/11/2023,,0,Active,2.638356164,OK,Missing Tenure
+1486,Engineering,Manager,Nairobi,Male,Master,4,961,11/11/2023,,1,Voluntary,,Date Error,OK
+1487,Engineering,Junior,Accra,Female,Bachelor,3,958,11/13/2023,,0,Active,9.202739726,OK,OK
+1488,Finance,Mid,Lagos,Female,PhD,5,956,11/16/2023,,0,Active,4.915068493,OK,OK
+1489,Engineering,Senior,Nairobi,Female,Bachelor,4,956,11/16/2023,,0,Active,4.38630137,OK,OK
+1490,Engineering,Senior,Lagos,Female,Master,3,948,11/18/2023,,0,Active,9.512328767,OK,Missing Tenure
+1491,Engineering,Junior,Accra,Male,Diploma,3,945,11/18/2023,,1,Voluntary,,Date Error,OK
+1492,Engineering,Senior,Nairobi,Female,Bachelor,3,945,11/21/2023,,0,Active,7.915068493,OK,OK
+1493,Engineering,Mid,Lagos,Male,Bachelor,3,933,11/24/2023,,0,Active,5.134246575,OK,OK
+1494,Sales,Mid,Nairobi,Male,Bachelor,3,929,11/29/2023,,0,Active,4.769863014,OK,OK
+1495,Operations,Junior,Nairobi,Male,Master,3,920,11/29/2023,,0,Active,4.778082192,OK,OK
+1496,Finance,Senior,Lagos,Female,Diploma,3,920,12/6/2023,,0,Active,9.994520548,OK,OK
+1497,Finance,Junior,Lagos,Male,Diploma,2,915,12/19/2023,,0,Active,7.931506849,OK,Missing Tenure
+1498,Operations,Junior,Accra,Female,Master,5,915,12/26/2023,,1,Voluntary,,Date Error,OK
+1499,Engineering,Junior,Accra,Male,Bachelor,2,912,12/27/2023,,0,Active,6.923287671,OK,OK
+1500,Marketing,Senior,Lagos,Male,Master,5,902,12/30/2023,,0,Active,5.249315068,OK,OK
