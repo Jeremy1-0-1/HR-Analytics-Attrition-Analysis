@@ -6,6 +6,15 @@ This project analyzes workforce attrition, retention patterns, and key drivers o
 
 The analysis focuses on who is leaving, why they are leaving, and when exits are most likely to occur, presented through clean, decision-oriented Power BI dashboards.
 
+
+HR-Analytics-Attrition-Analysis/
+│
+├── Dataset/                      → Original HR dataset used for analysis
+├── Dashboard Screenshots/        → Final Power BI dashboard outputs
+├── Power BI File/                → Complete interactive dashboard file (.pbix)
+└── README.md                     → Project documentation
+
+
 ⸻
 
 🎯 Business Objectives
